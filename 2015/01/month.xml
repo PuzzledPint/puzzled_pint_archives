@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2015</year>
+	<month>1</month>
+	<title>X-Men</title>
+	<notes>Thanks to Cathy Saxton (Seattle Eastside Game Control) for writing all of this month's puzzles!</notes>
+	<location>
+		<puzzle>
+			<title>X-Men</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>The Wikipedia [List of X-Men members](http://en.wikipedia.org/wiki/List_of_X-Men_members) might be a helpful reference.</hint>
+			<hint>Draw lines from each mutant name to the corresponding power and to the given name.</hint>
+			<hint>Each mutant encodes a letter.</hint>		
+			<hint>In the intro text, the word "flagging" is a hint.</hint>
+			<hint>The letters are encoded using the semaphore alphabet.</hint>
+            <hint>The solution is SCHOOL.</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>school</answerword>
+	</location>
+	
+	<puzzle>
+		<title>Cyclops</title>
+		<file href="01-cyclops-puzzle.pdf"/>
+		<hint>Paths with one reflection have only one possible mirror location: the square at the intersection of the row and column for that letter. In the first room, the path for B has one reflection, so its mirror must be in the upper right corner. Draw the line from lower left to upper right (/) in that cell so it will reflect the beam between the two B locations.</hint>
+		<hint>In the first room, consider the beam path starting at the upper A2. Since the upper right area already has a mirror (from B1), and since that mirror would bounce the beam in the wrong direction, A2's initial bounce must happen in the first square in the top row. A line from lower left to upper right (/) would reflect out the top, so it must be from upper left to lower right (\), which sends the beam down. A second mirror in the last row (as a /) sends the beam out to the other A2. </hint>
+		<hint>In the second room (and beyond), you will need to use both sides of some mirrors.</hint>
+		<hint>In the second room, the upper (L-shaped) four-square area can't have a mirror in the second row since it would bounce a beam to the outside and there isn't a letter on either side. Therefore, that area must have a mirror in the square on the top row. A line from lower left to upper right (/) would bounce the A3 beam to the outside, so the mirror must be from upper left to lower right (\).</hint>
+        <hint>In the second room, after the beam from A3 bounces off the mirror placed in the previous step, it will bounce off the 'back' of the mirror placed to satisfy B1. The last bounce for A3 is now forced. (The next hint shows the solution for room 2.)</hint>
+        <hint>The solution for the second room is:</hint>
+        <hint>In the fourth room (first large room), there is only one possible solution for E2, which then forces B3, and then A2.</hint>
+        <hint>In the last room, notice that the beams from A6 and C4 at the top and bottom of the first column each need to reflect to the right, requiring that they each have their own mirror (using the back of the other's mirror would reflect to the left / outside the room). Since mirrors can't go in the middle 3 squares of the column (F1's mirror is in the U-shaped area), the mirrors for A6 and C4 must be in the top and bottom squares. (This is the last hint on placing mirrors.)</hint>
+        <hint>In the intro text, "feel the locations" is a hint.</hint>
+        <hint>After placing all the mirrors in the rooms, look at the locations of the mirrors; orientation does not matter.</hint>
+        <hint>The first three rooms each encode one letter. The last two rooms each encode three letters.</hint>
+        <hint>The letters are encoded using Braille. In the first three rooms, the possible dot locations are the four corners and the left and right cells of the middle row. The last two rooms have their characters aligned under the top three rooms.</hint>
+		<solution href="01-cyclops-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Magneto</title>
+		<file href="02-magneto-puzzle.pdf"/>
+        <hint>Find a word for each definition.</hint>
+        <hint>Each word will connect to another word; there is a specific rule that is used in all cases.</hint>
+        <hint>Protection is "defense." Well-behaved is "good." Lounged idly is "loafed."</hint>
+        <hint>In the intro, "pulled the iron out" is a hint.</hint>
+        <hint>The chemical symbol for iron is "Fe."</hint>
+        <hint>One pair is "lounged idly" (loafed) and "laundry quantity" (load).</hint>
+        <hint>Remove "fe" from a word to find its partner.</hint>
+        <hint>After you connect word pairs, note that some letters have been "skewered"; read the others (left to right, top to bottom).</hint>
+        <hint>The message says "shift letters at intersections by one."</hint>
+        <hint>Find the letters where two lines intersect, then shift them one letter later in the alphabet, e.g. G becomes H.</hint>
+        <solution href="02-magneto-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Mystique</title>
+		<file href="03-mystique-puzzle.pdf"/>
+        <hint>The "Weird" musician is "Al." French article is "le." Crashes into is "rams."</hint>
+        <hint>The first word is defined by "shapes."</hint>
+        <hint>The first word is "parallelograms."</hint>
+        <hint>The second word is "oral."</hint>
+        <hint>The fourth word is "choral."</hint>
+        <solution href="03-mystique-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Storm</title>
+		<file href="04-storm-puzzle.pdf"/>
+        <hint>Anagram each group of letters to form a word. There are several possible words in some cases, but only one will be present in the grid.</hint>
+        <hint>Most of the words fit a theme appropriate to the puzzle.</hint>
+        <hint>After finding the words, read the unused grid letters for a hint to finding the answer.</hint>
+        <hint>The message hidden in the grid says, "Word paths form letters."</hint>
+        <hint>Mark each word in the grid by drawing lines connecting its letters. Those lines, when read together, will form letters.</hint>
+        <hint>"Hurricane" and "fair" form the letter E (second letter of the 6-letter answer).</hint>
+        <solution href="04-storm-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Professor X (meta puzzle)</title>
+		<file href="05-professor_x-puzzle.pdf"/>
+        <hint>Note that none of the letters in Magneto's answer are in Professor X's word. You can cross out those letters in the other words.</hint>
+        <hint>After eliminating (Magneto's) incorrect letters from Storm's answer, you know one letter that is in Professor X's word. It will not be in the same position as in Storm's answer.</hint>
+        <hint>Mystique's answer shows us the correct position for the letter from Storm's answer.</hint>
+        <hint>After eliminating (Magneto's) incorrect letters from Cyclops' answer, we know the two remaining letters are in Professor X's word.</hint>
+        <hint>One of the letters in Cyclops' answer is in the correct position. It can't be the one in the spot taken by Storm's letter, and it can't be either of the letters eliminated by Magneto's answer. That leaves just one possibility, so now we have a second letter placed in Professor X's word.</hint>
+        <hint>Two letters from Mystique's answer are in the correct position. The first was figured out above, and the other can now be determined (based on available positions and non-eliminated letters).</hint>
+        <hint>There is now just one spot remaining in Professor X's word. The second letter from Cyclops' answer goes there.</hint>
+        <solution href="05-professor_x-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>New Years (bonus puzzle)</title>
+		<file href="06-new_years-puzzle.pdf"/>
+		<solution href="06-new_years-solution.pdf"/>
+	</puzzle>
+	
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+	<answerSheetSolution href="answersheet-solution.pdf"/>
+</PPMonth>

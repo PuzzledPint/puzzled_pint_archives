@@ -1,0 +1,134 @@
+--2015-12-09 16:47:18--  http://www.puzzledpint.com/files/5014/2151/0989/cs_Cyclops_final.pdf
+Resolving www.puzzledpint.com... 208.97.148.115
+Connecting to www.puzzledpint.com|208.97.148.115|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 92886 (91K) [application/pdf]
+Saving to: 'cs_Cyclops_final.pdf'
+
+     0K .......... .......... .......... .......... .......... 55%  271M 0s
+    50K .......... .......... .......... ..........           100%  447M=0s
+
+2015-12-09 16:47:19 (329 MB/s) - 'cs_Cyclops_final.pdf' saved [92886/92886]
+
+--2015-12-09 16:47:19--  http://www.puzzledpint.com/files/7214/2151/1549/cs_Cyclops_solution.pdf
+Reusing existing connection to www.puzzledpint.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 93385 (91K) [application/pdf]
+Saving to: 'cs_Cyclops_solution.pdf'
+
+     0K .......... .......... .......... .......... .......... 54%  113M 0s
+    50K .......... .......... .......... .......... .         100%  208M=0.001s
+
+2015-12-09 16:47:19 (142 MB/s) - 'cs_Cyclops_solution.pdf' saved [93385/93385]
+
+--2015-12-09 16:47:19--  http://www.puzzledpint.com/files/8414/2151/1117/cs_Magneto_final.pdf
+Reusing existing connection to www.puzzledpint.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 154475 (151K) [application/pdf]
+Saving to: 'cs_Magneto_final.pdf'
+
+     0K .......... .......... .......... .......... .......... 33%  223M 0s
+    50K .......... .......... .......... .......... .......... 66%  281M 0s
+   100K .......... .......... .......... .......... .......... 99%  237M 0s
+   150K                                                       100% 17.1K=0.001s
+
+2015-12-09 16:47:20 (246 MB/s) - 'cs_Magneto_final.pdf' saved [154475/154475]
+
+--2015-12-09 16:47:20--  http://www.puzzledpint.com/files/9714/2151/1119/cs_Magneto_solution.pdf
+Reusing existing connection to www.puzzledpint.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 366982 (358K) [application/pdf]
+Saving to: 'cs_Magneto_solution.pdf'
+
+     0K .......... .......... .......... .......... .......... 13%  243M 0s
+    50K .......... .......... .......... .......... .......... 27%  300M 0s
+   100K .......... .......... .......... .......... .......... 41%  296M 0s
+   150K .......... .......... .......... .......... .......... 55%  311M 0s
+   200K .......... .......... .......... .......... .......... 69%  263M 0s
+   250K .......... .......... .......... .......... .......... 83%  311M 0s
+   300K .......... .......... .......... .......... .......... 97%  317M 0s
+   350K ........                                              100%  292M=0.001s
+
+2015-12-09 16:47:21 (289 MB/s) - 'cs_Magneto_solution.pdf' saved [366982/366982]
+
+--2015-12-09 16:47:21--  http://www.puzzledpint.com/files/4214/2151/1121/cs_Mystique_final.pdf
+Reusing existing connection to www.puzzledpint.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 53781 (53K) [application/pdf]
+Saving to: 'cs_Mystique_final.pdf'
+
+     0K .......... .......... .......... .......... .......... 95%  253M 0s
+    50K ..                                                    100% 50.4K=0s
+
+2015-12-09 16:47:22 (266 MB/s) - 'cs_Mystique_final.pdf' saved [53781/53781]
+
+--2015-12-09 16:47:22--  http://www.puzzledpint.com/files/5214/2151/1123/cs_Mystique_solution.pdf
+Reusing existing connection to www.puzzledpint.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 92911 (91K) [application/pdf]
+Saving to: 'cs_Mystique_solution.pdf'
+
+     0K .......... .......... .......... .......... .......... 55%  196M 0s
+    50K .......... .......... .......... ..........           100%  142M=0.001s
+
+2015-12-09 16:47:22 (167 MB/s) - 'cs_Mystique_solution.pdf' saved [92911/92911]
+
+--2015-12-09 16:47:22--  http://www.puzzledpint.com/files/5114/2151/1129/cs_Storm_final.pdf
+Reusing existing connection to www.puzzledpint.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 58674 (57K) [application/pdf]
+Saving to: 'cs_Storm_final.pdf'
+
+     0K .......... .......... .......... .......... .......... 87%  218M 0s
+    50K .......                                               100%  174M=0s
+
+2015-12-09 16:47:22 (211 MB/s) - 'cs_Storm_final.pdf' saved [58674/58674]
+
+--2015-12-09 16:47:22--  http://www.puzzledpint.com/files/5014/2151/1621/cs_Storm_solution.pdf
+Reusing existing connection to www.puzzledpint.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 107846 (105K) [application/pdf]
+Saving to: 'cs_Storm_solution.pdf'
+
+     0K .......... .......... .......... .......... .......... 47%  256M 0s
+    50K .......... .......... .......... .......... .......... 94%  239M 0s
+   100K .....                                                 100%  200M=0s
+
+2015-12-09 16:47:22 (244 MB/s) - 'cs_Storm_solution.pdf' saved [107846/107846]
+
+--2015-12-09 16:47:22--  http://www.puzzledpint.com/files/5114/2151/1125/cs_ProfX_final.pdf
+Reusing existing connection to www.puzzledpint.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 62915 (61K) [application/pdf]
+Saving to: 'cs_ProfX_final.pdf'
+
+     0K .......... .......... .......... .......... .......... 81%  250M 0s
+    50K .......... .                                          100%  329M=0s
+
+2015-12-09 16:47:22 (262 MB/s) - 'cs_ProfX_final.pdf' saved [62915/62915]
+
+--2015-12-09 16:47:22--  http://www.puzzledpint.com/files/3614/2151/1127/cs_ProfX_solution.pdf
+Reusing existing connection to www.puzzledpint.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 99207 (97K) [application/pdf]
+Saving to: 'cs_ProfX_solution.pdf'
+
+     0K .......... .......... .......... .......... .......... 51%  236M 0s
+    50K .......... .......... .......... .......... ......    100%  307M=0s
+
+2015-12-09 16:47:23 (266 MB/s) - 'cs_ProfX_solution.pdf' saved [99207/99207]
+
+--2015-12-09 16:47:23--  http://www.puzzledpint.com/files/4914/2151/0866/cs_bonus_final.pdf
+Reusing existing connection to www.puzzledpint.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 78293 (76K) [application/pdf]
+Saving to: 'cs_bonus_final.pdf'
+
+     0K .......... .......... .......... .......... .......... 65%  230M 0s
+    50K .......... .......... ......                          100%  308M=0s
+
+2015-12-09 16:47:23 (252 MB/s) - 'cs_bonus_final.pdf' saved [78293/78293]
+
+FINISHED --2015-12-09 16:47:23--
+Total wall clock time: 4.6s
+Downloaded: 11 files, 1.2M in 0.005s (241 MB/s)

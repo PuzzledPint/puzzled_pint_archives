@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2015</year>
+	<month>8</month>
+	<title>August 2010 Puzzles</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Don't Panic</title>
+            <notes>Milliways is known throughout the galaxy as a great place to get a meal while watching the universe end all around you. Five friends, Beeblebrox, Dent, Marvin, Prefect, and Trillian stopped by to grab a bite. Each brought with them an essential travel item (face flannel, gnat spray, a space suit, a towel and wet weather gear), ordered a different dish (fairy cake, flank steak, Ameglian Major Cow, peanuts, and sandwiches), and ordered a different drink (Gargleblaster, Gee-N-N-T’N-ix, Jinond-o-nicks, Jynnantonnyx, and a drink from the Nutri-matic). Can you deduce from the given clues which friend ordered which meal and drink, brought which item, and the order in which they arrived at Milliways?</notes>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>Numbers are sometimes used for indexing letters. Indexing the number 5 into the word PETUNIA produces the 5th letter, N.</hint>
+            <hint>Dinners:
+                
+- Flank Steak
+- Ameglian
+- Fairy Cake
+- Peanuts
+- Sandwiches</hint>
+            <hint>Items:
+
+- Face Flannel
+- Space Suit
+- Gnat Spray
+- Towel
+- Wet Weather Gear</hint>
+            <hint>Characters:
+                
+- Trillian
+- Dent
+- Marvin
+- Prefect
+- Beeblebrox</hint>
+            <hint>Drinks:
+                
+- Jynnantonnyx
+- Jinond-o-nicks
+- Gargleblaster
+- Nutri-matic
+- Gee-N-N-T'N-ix</hint>
+            <hint>The solution is NEPO</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>nepo</answerword>
+	</location>
+	
+	<puzzle>
+		<title>Puzzled Pint Dinner</title>
+        <notes>Print this file double-sided.</notes>
+		<file href="01-puzzled_pint_diner-puzzle.pdf"/>
+		<solution href="01-puzzled_pint_diner-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Hipster Care Package</title>
+		<file href="02-hipster_care_package-puzzle.pdf"/>
+		<solution href="02-hipster_care_package-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Hurt Feelings</title>
+		<file href="03-hurt_feelings-puzzle.pdf"/>
+		<solution href="03-hurt_feelings-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Roasted Vegetables</title>
+		<file href="04-roasted_vegetables-puzzle.pdf"/>
+		<solution href="04-roasted_vegetables-solution.pdf"/>
+	</puzzle>
+</PPMonth>

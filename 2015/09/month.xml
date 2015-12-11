@@ -1,0 +1,172 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2015</year>
+	<month>10</month>
+	<title>Doctor Who</title>
+	<notes>You need a bit of Doctor Who knowledge to solve some of these puzzles, but we provide it for you.  Doctor and Companion bios are sprinkled around all the puzzle pages and answer sheet. Some will be useful in solving certain puzzles...
+
+Like August, September's event was a bit more technological than most: It used [ClueKeeper](http://www.cluekeeper.com/) to help host the hunt.  Players had the option to use ClueKeeper (in addition to our normal Game Control hosts) to track puzzle progress and get hints.  This ClueKeeper hunt is still available, if you'd like to use it - Download the app and get the hunt using code `PPSEP15`.  Alternatively, the puzzles as presented below can be used independent of the app.
+
+To fully understand a puzzle's solution, read the hints as well.
+
+Thanks to the Austin Puzzled Pint organizers for writing all of this month's puzzles!</notes>
+	<location>
+		<puzzle>
+			<title>TARDIS Navigation Console</title>
+			<file href="00-tardis_navigation_console-puzzle.pdf"/>
+			<hint>So London was called "The Big Smoke"... can you think of nicknames for any other Puzzled Pint cities? Do the images on the dials help?
+
+	(Check our [About page](http://www.puzzledpint.com/about/) for a current list of cities.)</hint>
+			<hint>Having trouble with city nicknames? Try [searching](http://www.google.com/) for `[PP CITY] nicknames` or `[IMAGE] city nickname`.
+
+	(Check our [About page](http://www.puzzledpint.com/about/) for a current list of cities.)
+
+	_The next hint will tell you the names of all the images._</hint>
+			<hint>The dial images are (top to bottom, left to right):
+
+	- Jet
+	- Cream
+	- Wind
+	- Bean
+	- Saint Nick &amp; Saint Bernard
+	- Apple
+	- Iron
+	- Angels
+	- Sun over a valley
+	- Golden Gate
+	- Rose
+	- Hog
+	- Bat
+
+	Do any of those words remind you of nicknames for Puzzled Pint cities? Have you tried searching for `[IMAGE] city nickname`?
+
+	_The next hint will tell you what all the cities are._</hint>		
+			<hint>The cities are (top to bottom, left to right):
+
+	- Seattle
+	- Milwaukee
+	- Chicago
+	- Boston
+	- Montreal
+	- New York
+	- Pittsburgh
+	- Los Angeles
+	- Phoenix
+	- San Francisco
+	- Portland
+	- Toronto
+	- Austin
+
+	Now, what could the number on each dial be telling you to do?</hint>
+			<hint>Solution displayed to the player</hint>
+			<hint>Take the first letter of each city and modify it by the number shown on the dial to get a new letter.
+
+	For example, the first dial indicates Seattle (Jet City) and the dial shows +1, so S+1=T.</hint>
+			<solution>Go meet The Doctor at... "THE CLOSEST PUB".</solution>
+		</puzzle>
+		<answerword>theclosestpub</answerword>
+	</location>
+	
+	<puzzle>
+		<title>Familiar Faces</title>
+		<file href="01-familiar_faces-puzzle.pdf"/>
+
+		<hint>Each set of answer blanks will be the name of a famous actor or actress.  Famous means IMDB top 100 of all time</hint>
+		<hint>There is a movie in the collection at the bottom for each actor or actress</hint>
+		<hint>Each real name (or part of a name) is obscured in the puzzle by a related word like a synonym, e.g. Harri=Badger, son=child, Ford=Cross</hint>
+		<hint>Also consider homophones like "Right and Wright"</hint>
+		<hint>Also consider similar things like "Lem(m)on and Lime"</hint>
+		<hint>Also consider instances of things like "Fawkes and Phoenix"</hint>
+		<hint>The actors and actresses, in order, are Jack Lemmon, Nic Cage, Peter Sellers, Harrison Ford, Heath Ledger, Cary Grant, River Phoenix, Robin Wright, John Hurt, Brad Pitt</hint>
+		<solution>Putting the names in place, you get "Melody Pond". Applying the rule one more time gives you "RIVER SONG", the name of the Doctor's wife.  SPOILERS!</solution>
+	</puzzle>
+	
+	<puzzle>
+		<title>I've got an Ood feeling about this...</title>
+		<file href="02-got_an_ood_feeling-puzzle.pdf"/>
+		<hint>You need to pay attention to only some of the numbered circles, but which ones? </hint>
+		<hint>Try looking at only the Ood ones (odd numbered circles) </hint>
+		<hint>"can't see" the solution?  Are you blind?</hint>
+		<hint>They form four rows of Braille </hint>
+		<hint>The last row doesn't code right. Perhaps the lines so far and/or the flavor text could help? What is the "Angle of Incidence"?</hint>
+		<hint>The Braille on the last line is reflected along the vertical axis</hint>
+		<solution>REFLECT / UPON THE / DANGERS / VAMPIRE (mirrored Braille)</solution>
+	</puzzle>
+	
+	<puzzle>
+		<title>Bad Wolf</title>
+		<file href="03-bad_wolf-puzzle.pdf"/>
+		<hint>There's an important # you get to get out of the flavor text.  It'll help you find the answers to the clues</hint>
+		<hint>Each answer will be exactly seven letters (The number of letters in BadWolf, The 7 seas, the 7 muses, and the 7 deadly sins)</hint>
+		<hint>Notice the first letters of each clue spell out "Bad Wolf" in each column..</hint>
+		<hint>Each answer will also start with the letters from Bad Wolf</hint>
+		<hint>The answers to the clues are: Baptist, Azimuth, Dictate, Weekend, Orlando, Laconic, Fastest, Buffalo, Another, Detours, WH Smith, Oregano, Legroom, Frisbee</hint>
+		<hint>You've looked at the first letter of each answer.  Perhaps look at a different letter?</hint>
+		<solution>The last letters spell "The Doctor's Home" which is GALLIFREY, as found on the reference sheet</solution>
+	</puzzle>
+	
+	<puzzle>
+		<title>Time Loops</title>
+		<file href="04-time_loops-puzzle.pdf"/>
+		<hint>You are going to need your code sheet for this one </hint>
+		<hint>The flavor text keywords to notice: "Organize" "Parallel".  </hint>
+		<hint>You have to view the loops side-by-side</hint>
+		<hint>Rotate the loops until they match up TARDIS with TARDIS and Dalek with Dalek and number with number</hint>
+		<hint>The dots on the Daleks are Braille </hint>
+		<hint>Each TARDIS is one of the two semaphore flag pairs </hint>
+		<hint>You need to read both sides of each loop </hint>
+		<hint>The Daleks' message is "SUBTRACT NINETY" </hint>
+		<hint>The Doctor's message is "REPAIR LOOPS" </hint>
+		<hint>The Dalek's message is telling you how to interpret the numbers. Subtract ninety from each then look up the decimal letter on the code sheet </hint>
+		<hint>The Doctor's message is telling you that you now need to recombine the two loops into one loop. </hint>
+		<hint>If you put the loops together correctly, the numbers spell out "MORSE CODE" on one side and "WRONG SIDE" on the other side. </hint>
+		<hint>This is telling you to read the loop one more time but decoding morse code with every TARDIS a Dash and every Dalek a Dot (A Dalek is a single Dot regardless of the number of Braille dots on its chassis). Numbers separate morse letters. Only one side will decode correctly, the "WRONG SIDE" won't</hint>
+		<solution>"PERI BROWN", one of the Doctor's companions as listed on the reference sheet</solution>
+	</puzzle>
+	
+	<puzzle>
+		<title>Who am I? (Meta)</title>
+		<file href="05-who_am_i-puzzle.pdf"/>
+		<hint>The answers to these 20 questions will clue you to the meta puzzle answer by describing it. But what are the answers? </hint>
+		<hint>Answer each question using the puzzle answer from the puzzle specified in the first column. For example, Answer 1 is "Yes" because River Song grows and breathes</hint>
+		<hint>Use the reference material provided to help answer the questions</hint>
+		<hint>There are four indicated letters at the bottom, find those four letters using the five questions answers for each puzzle. </hint>
+		<hint>This is done via a binary translation to find the letters, yes is 1. </hint>
+		<hint>The answers to the questions are FF->Y,N,N,Y,N=R / OF->N,N,Y,N,Y=E / BW->N,N,Y,Y,Y=G / TL->N,Y,Y,Y,Y=O</hint>
+		<hint>Now play normal 20 questions and try to figure out the answer as if ALL these 20 questions were all being asked about the meta's answer</hint>
+		<hint>To summarize.  A fictional character from Earth born a long time ago, often in a castle, which has a place of authority which is round, who is not a wizard, but is a warrior noble.  someone sacrificed thier life for him or her and he or she has a friend with extraordinary abilities</hint>
+		<hint>The first word is KING.  Know any fictional kings from old stories?</hint>
+		<solution>The 20 questions describe "KING ARTHUR PENDRAGON"</solution>
+	</puzzle>
+	
+	<puzzle>
+		<title>Back to the Future (bonus puzzle)</title>
+		<file href="06-back_to_the_future-puzzle.pdf"/>
+		<hint>```(2+3) = DEADLINE 
+		(2+5) = BANTERED
+		(2+11) = AMENDED
+		(5+7) = WATERBED
+		(7+8) = WHEEDLED
+		(11+12) = DRUMBEAT```</hint>
+		<hint>```(3) = DIAL
+		(4) = LID
+		(5) = BRAT
+		(6) = BAR
+		(7) = WEED
+		(8) = HELD
+		(9) = LED
+		(10) = WED
+		(11) = MAD
+		(12) = BRUTE
+		(13) = TUBE
+		(14) = RUBE
+		(15) = MAID
+		(16) = AD
+		(17) = DEN```</hint>
+		<solution>FATHER TIME</solution>
+	</puzzle>
+	
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>

@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2010</year>
+	<month>10</month>
+	<title>October 2010 Puzzles</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Beers</title>
+			<file href="00-location-puzzle.mp3"/>
+			<hint>The beer names are repeated. That’s significant. Notice how many times each beer name is said?</hint>
+			<hint>Verify Data:
+
+Beer Name                  | Times Said |  
+-------------------------- | ---------- |  
+The Fifth American Ale     | 4          |  
+Migration Pale Ale         | 2          |  
+Amnesia ESB                | 3          |  
+Dad's Little Helper        | 3          |  
+Black Lab Stout            | 1          |  
+Brewdolph                  | 2          |  
+Beertown Brown             | 2          |  
+Wowzenbock                 | 3          |  
+Evelyn's Imperial Sunshine | 3          |  
+Prodigal Sun IPA           | 2          |  
+Sunny Day IPA              | 5          |  
+</hint>
+			<hint>Use number of Times Said (N) to index into the Beer Name:
+
+Beer Name                  | Times Said (N) | Nth Letter  
+-------------------------- | -------------- | -------- |  
+The Fifth American Ale     | 4              | F        |  
+Migration Pale Ale         | 2              | I        |  
+Amnesia ESB                | 3              | N        |  
+Dad's Little Helper        | 3              | D        |  
+Black Lab Stout            | 1              | B        |  
+Brewdolph                  | 2              | R        |  
+Beertown Brown             | 2              | E        |  
+Wowzenbock                 | 3              | W        |  
+Evelyn's Imperial Sunshine | 3              | E        |  
+Prodigal Sun IPA           | 2              | R        |  
+Sunny Day IPA              | 5              | Y        |  
+</hint>		
+			<hint>Breweries found:
+
+Beer Name                  | Times Said (N) | Nth Letter | Brewery Name            | ? |  
+-------------------------- | -------------- | ---------- | ----------------------- | - |  
+The Fifth American Ale     | 4              | F          | Laurelwood Public House |   |  
+Migration Pale Ale         | 2              | I          | Migration Brewing       |   |  
+Amnesia ESB                | 3              | N          | Amnesia Brewing         |   |  
+Dad's Little Helper        | 3              | D          | Rogue Ales              |   |  
+Black Lab Stout            | 1              | B          | Lucky Labrador Brewing  |   |  
+Brewdolph                  | 2              | R          | New Old Lompoc          |   |  
+Beertown Brown             | 2              | E          | Bridgeport Brewing      |   |  
+Wowzenbock                 | 3              | W          | Deschutes Brewery       |   |  
+Evelyn's Imperial Sunshine | 3              | E          | Hopworks Urban Brewery  |   |  
+Prodigal Sun IPA           | 2              | R          | Full Sail Brewing       |   |  
+Sunny Day IPA              | 5              | Y          | Rock Bottom Brewery     |   |  
+</hint>
+			<hint>The solution is RINGLER'S PUB</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>ringlerspub</answerword>
+	</location>
+	
+	<puzzle>
+		<title>Bar Hopping</title>
+		<file href="01-bar_hopping-puzzle.pdf"/>
+		<solution href="01-bar_hopping-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Water You Looking At?</title>
+		<file href="02-water_you_looking_at-puzzle.pdf"/>
+		<solution href="02-water_you_looking_at-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Someone I Can Barley Live With</title>
+		<file href="03-someone_I_can_barley_live_with-puzzle.pdf"/>
+		<solution href="03-someone_I_can_barley_live_with-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Beauty and the Yeast</title>
+		<file href="04-beauty_and_the_yeast-puzzle.pdf"/>
+		<solution href="04-beauty_and_the_yeast-solution.pdf"/>
+	</puzzle>
+</PPMonth>

@@ -1,0 +1,157 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2015</year>
+	<month>10</month>
+	<title>Mystery Month</title>
+	<notes>Thanks to Portland player Brian Kelly Hahn for writing all of this month's main puzzles! Bonus is courtesy Andrea Blumberg, another wonderful Portland player.</notes>
+	<location>
+		<puzzle>
+			<title>Posters</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>What are the titles of these movies?</hint>
+			<hint href="00-location-hint_02.pdf"/>
+			<hint>Notice anything different or out of place with these images?</hint>		
+			<hint href="00-location-hint_04.pdf"/>
+			<hint>Is there anything about the unusual changes that match the original titles?</hint>
+			<hint>The out of place images are: cast, beard, weed, week, kite, drum dog, fecal, punk, ape.</hint>
+			<hint href="00-location-solution.pdf"/>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>lostintranslation</answerword>
+	</location>
+
+	<puzzle>
+		<title>Dots</title>
+		<file href="01-dots-puzzle.pdf"/>
+		<hint>There are dots and dashes. Does that remind you of any sort of code?</hint>
+		<hint>Can the dots and dashes be put in any sort of order?</hint>
+		<hint href="01-dots-hint3.pdf"/>
+		<hint href="01-dots-hint4.pdf"/>
+		<hint>What do you suppose it means? What would a “diametric word order” be? What “numeral” is “edible?”</hint>
+		<hint href="01-dots-hint6.pdf"/>
+		<hint>What are the highlighted areas referring to?</hint>
+		<solution href="01-dots-solution.pdf">#Dots Walkthrough
+			
+Each color in each line is a morse code letter. Put the dots and dashes of each color in order from left to right. Order each line left to right: Red, orange, yellow, light green, dark green, light blue, dark blue, violet &amp; pink.
+
+Each line is one word.
+
+The message is “Embedded answer dwells decode diametric word order edible numeral unmasks aphorism.”
+
+Take the edible numeral, pi, and index the first 10 characters into the 10 words. For example, the first character of pi is 3. Index 3 into the first word, “embedded,” to get “B.”</solution>
+	</puzzle>
+
+	<puzzle>
+		<title>HueMazing</title>
+		<file href="02-huemazing-puzzle.pdf"/>
+		<hint>It’s a maze. Can you solve it?</hint>
+		<hint href="02-huemazing-hint2.pdf"/>
+		<hint>Warm colors are? Cool colors are?</hint>
+		<hint href="02-huemazing-hint4.pdf"/>
+		<hint>Do zeroes and ones make any sort of code?</hint>
+		<solution href="02-huemazing-solution.pdf">#HueMazing Walkthrough
+Solve the maze using rules at the top of the page. See Hint 1 for help.
+
+The maze path spells out warm = 0, cool = 1. The equals signs are off the path, but are visible.
+
+See the row of triangles near the bottom that was circled by the maze path? Assign 0 to each warm color (red, orange, yellow) and 1 to each cool color (green, blue, violet).
+
+Translate the string of 1s and 0s you just created into letters using binary (look on the code sheet). Each binary “letter” is five digits long. The first five digits are 0110 which translates to “N,” the second five are 01111 which translates to “O,” etc.</solution>
+	</puzzle>
+
+	<puzzle>
+		<title>Paddles</title>
+		<notes>This puzzle was originally distributed to players as laser-cut pieces. You can print and cut out the PDF version. If you have access to a laser cutter and thick cardstock, you may want to try [the laser cutting version](03-paddles-laser_cut_file.ai).
+		
+There is also [additional information for non-American solvers](03-paddles-international.pdf).
+		</notes>
+		<file href="03-paddles-puzzle.pdf"/>
+		<hint>What do these shapes look like?</hint>
+		<hint href="03-paddles-hint2.pdf"/>
+		<hint>Can these be put in any particular order?</hint>
+		<hint href="03-paddles-hint4.pdf"/>
+		<hint>Do the arms of the two pieces put together look like any sort of code?</hint>
+		<solution href="03-paddles-solution.pdf">#Paddles Walkthrough
+			
+Overlay the paddles to create US state shapes. See Hint 1.
+
+Order the states alphabetically.
+
+Find the semaphore letter for each paddle set. You can find semaphore on your code sheet.</solution>
+	</puzzle>
+
+	<puzzle>
+		<title>Grid</title>
+		<notes>This puzzle was originally distributed to players as laser-cut pieces. You can print and cut out the PDF version. If you have access to a laser cutter and thick cardstock, you may want to try [the laser cutting version](04-grid-laser_cut_file.ai).</notes>
+		<file href="04-grid-puzzle.pdf"/>
+		<hint>The card with holes in it should be laid on the grid. Is there anywhere that makes sense for the card to start?</hint>
+		<hint href="04-grid-hint2.pdf"/>
+		<hint href="04-grid-hint3.pdf"/>
+		<hint>You used all the letters and directions from the holes. Was there any other info revealed when the card was at all the locations?</hint>
+		<hint href="04-grid-hint5.pdf"/>
+		<hint>What was the directions in the last position?</hint>
+		<hint>What is the message once shifted thirteen letters?</hint>
+		<solution href="04-grid-solution.pdf">#Grid Walkthrough
+			
+Start at the top left corner. Read the answers revealed in the holes left to right. Take note of the four letters in the center of the card, and set aside for now.
+
+Follow the directions from the revealed letters. See the first two PDFed hints. Take note of the four center letters each time.
+
+The instruction in the last card position is “Caesar by thirteen.” A Caesar cipher is to replace each letter with a different one a fixed number of places down the alphabet. Remember those four letters in the middle of the card that you recorded but didn’t do anything with yet? Shift those letters thirteen places. For example, “A” shifted by thirteen is “N” (A is 1st letter, add 13 to get 14. The 14th letter is N).
+
+You will get the message “Just primes along right edge.” Record the letter on the right edge of each prime-numbered row (second, third, fifth, seventh…).</solution>
+	</puzzle>
+
+	<puzzle>
+		<title>Secret Logo Puzzle</title>
+		<notes>There is no PDF for this puzzle. Everything you need is contained in the other puzzles.</notes>
+		<hint>Check out the logos on each puzzle. What are those things?</hint>
+		<hint>The logos are: Grid = Coke Bottle, Dots = Pitcher, Paddles = Coffee Mug, HueMazing = Martini Glass, Meta = Shot Glass</hint>
+		<hint>Do you see anything unusual about the Puzzled Pint text in the logos? One or two letters are underlined. If the first letter is underlined, take the first letter out of the object in the logo.</hint>
+		<solution>#Logo Puzzle Walkthrough
+			
+Check out the logos on each puzzle. What are those things?
+
+The logos are:
+
+- Grid = Coke Bottle
+- Dots = Pitcher
+- Paddles = Coffee Mug
+- HueMazing = Martini Glass
+- Meta = Shot Glass
+
+Do you see anything unusual about the Puzzled Pint text in the logos? One or two letters are underlined. If the first letter is underlined, take the first letter out of the object in the logo.
+
+- Grid = Coke Bottle = 1st letter underlined = C
+- Dots = Pitcher = 5th letter underlined = H
+- Paddles = Coffee Mug = 5th and 6th letters underlined = EE
+- HueMazing = Martini Glass = 3rd letter underlined = R
+- Meta = Shot Glass = 1st letter underlined = S
+
+The solution is: CHEERS
+</solution>
+	</puzzle>
+
+	<puzzle>
+		<title>Unnamed #1 (meta puzzle)</title>
+		<file href="05-meta-puzzle.pdf"/>
+		<hint href="05-meta-hint1.pdf"/>
+		<hint href="05-meta-hint2.pdf"/>
+		<hint href="05-meta-hint3.pdf"/>
+		<solution href="answersheet-solution.pdf">#Meta Walkthrough
+			
+Fill the answer words into the blanks. See the numbers beneath each puzzle logo? Index that number into the answer word for that puzzle. You will get the message ADD FORSIGHT.
+
+See the cards at the bottom of the page? They looks suspiciously like Braille, but it doesn’t spell anything. Write ADD FORSIGHT above the cards, one letter above each card. Find the braille characters for each letter of ADD FORSIGHT and add it to the card below. A minus sign means to remove any pip which appears there. You will now have a new set of braille characters. You can find a braille alphabet on your code sheet. </solution>
+	</puzzle>
+	
+	<puzzle>
+		<title>Unnamed #2 (Bonus Puzzle)</title>
+		<file href="06-bonus-puzzle.pdf"/>
+		<solution href="06-bonus-solution.pdf"/>
+	</puzzle>
+	
+	<answerSheet href="05-meta-puzzle.pdf"/>
+	<answerSheetSolution href="answersheet-solution.pdf"/>
+</PPMonth>

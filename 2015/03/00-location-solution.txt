@@ -1,0 +1,22 @@
+The animated graphic sequentially adds one item from each picture, allowing us to create an order
+of eight myths:
+Minotaur
+Golden Fleece
+Prometheus
+Pegasus
+Pandora
+Atlas
+Cyclops
+Medusa
+
+The animated graphic also gives a sequence of numbers, which can be indexed into the names:
+1 - M
+9 - E
+4 - M
+2 - E
+3 - N
+2 - T
+5 - O
+5 - S
+
+The puzzle solution is MEMENTOS.

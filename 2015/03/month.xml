@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2015</year>
+	<month>3</month>
+	<title>Mythology</title>
+	<notes>Thanks to Portland regular Andrea Blumberg for writing all of this month's puzzles!  Like her stuff as much as we do?  Check out the amazing [Princess Bride puzzle set](http://www.puzzledpint.com/puzzles/may-2014/) she wrote for the May 2014 Puzzled Pint.</notes>
+	<location>
+		<puzzle>
+			<title>Mnemosyne's Journey</title>
+            <notes>Note: Do not print this puzzle!  One of these pictures is an animated GIF and the puzzle will be unsolvable if printed.</notes>
+			<file href="http://www.puzzledpint.com/march_2015/"/>
+			<hint>Mnemosyne has collected an object from each of the eight characters around her. Figure out which object belongs to which character.</hint>
+			<hint>The objects in order belong to:
+
+- Minotaur
+- Golden Fleece
+- Prometheus
+- Pegasus
+- Pandora
+- Atlas
+- Cyclops
+- Medusa</hint>
+			<hint>The number in the red circle indicates the index of the letter you need from each word.</hint>		
+			<hint>The animated graphic sequentially adds one item from each picture, allowing us to create an order of eight myths:
+                
+- Minotaur
+- Golden Fleece
+- Prometheus
+- Pegasus
+- Pandora
+- Atlas
+- Cyclops
+- Medusa
+
+The animated graphic also gives a sequence of numbers, which can be indexed into the names:
+
+- 1 - M
+- 9 - E
+- 4 - M
+- 2 - E
+- 3 - N
+- 2 - T
+- 5 - O
+- 5 - S
+
+The puzzle solution is MEMENTOS.</hint>
+			<solution href="00-location-solution.txt" />
+		</puzzle>
+		<answerword>mementos</answerword>
+	</location>
+	
+	<puzzle>
+		<title>Proteus</title>
+        <notes>Print double-sided.</notes>
+		<file href="01-proteus-puzzle.pdf"/>
+		<solution href="01-proteus-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Cassandra</title>
+		<file href="02-cassandra-puzzle.pdf"/>
+		<solution href="02-cassandra-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Arachne</title>
+		<file href="03-arachne-puzzle.pdf"/>
+		<solution href="03-arachne-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Icarus</title>
+        <notes>Information about re-creating the original version of this puzzle, for Puzzle Party hosts ("encrypted as [ROT-13](http://rot13.com/)"):
+
+Gur irefvba cbfgrq bayvar vf abg jung jnf ninvynoyr ng gur Znepu 2015 Chmmyrq Cvag rirag.  N zber pbzcyrk irefvba bs gur chmmyr jnf hfrq, juvpu vapyhqrq n fgrc gb ubyq gur fha nern bs gur cntr gb n synzr.  Jura urngrq, fcrpvny vax erirnyrq n erohf bs gur chmmyr fbyhgvba.
+
+Vs lbh'q yvxr gb erperngr guvf irefvba, fgneg jvgu gur [bevtvany irefvba](04-icarus-puzzle_alt.pdf) bs gur chmmyr.  Gb znxr gur vaivfvoyr vax, zvk 1 grnfcbba bs onxvat fbqn jvgu 1 grnfcbba bs jngre.  Gura, hfvat n gbbgucvpx, jevgr "UBG JVATF" va gur fha.  Be, vs lbh'er srryvat negvfgvp, lbh pna qenj n [erohf vzntr](04-icarus-rebus.jpg).  Qenj yvtugyl fb gung gur yvarf qba'g vaqrag gur cncre.</notes>
+		<file href="04-icarus-puzzle.pdf"/>
+		<solution href="04-icarus-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Four Corners (meta puzzle)</title>
+        <notes>Print double-sided.</notes>
+		<file href="05-four_corners-puzzle.pdf"/>
+		<solution href="05-four_corners-solution.pdf"/>
+	</puzzle>
+	
+	<answerSheet href="answersheet.pdf"/>
+	<answerSheetSolution href="answersheet-solution.pdf"/>
+</PPMonth>

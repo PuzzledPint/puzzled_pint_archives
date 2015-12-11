@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2015</year>
+	<month>11</month>
+	<title>The Big Lebowski</title>
+	<notes>
+All hints are encoded [ROT-13][rot13], so you can take one piece at a time if you'd like.
+
+Thanks to Portland organizers [Jen Dumont][jen] and [Matt Shields][matt] for writing this month's puzzles!
+
+[rot13]: http://rot13.com/
+[jen]: https://twitter.com/jenofthemt
+[matt]: http://twitter.com/dysclaimer		
+	</notes>
+	<location>
+		<puzzle>
+			<title>What location was my location in?</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>Maybe the bowling balls next the web address mean something?</hint>
+			<hint>Use [this webpage][web] to decipher. 
+
+	[web]: http://rumkin.com/tools/cipher/caesar.php</hint>
+			<hint>Using the website address you found, match the cities to the bars by connecting the dots.</hint>		
+			<hint>Do you notice those pins that you crossed?</hint>
+			<hint>Take the number on the pin to index into the city.</hint>
+			<hint>The solution is BOWLING ALLEY.</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>bowlingalley</answerword>
+	</location>
+	
+	<puzzle>
+		<title>Dude's Vices</title>
+		<file href="01-dudes_vices-puzzle.pdf"/>
+		<hint>Have you read along the loop that you created? Start in the top left corner. First word is "HEY." Ignore the non-letter symbols for now and infer word breaks.</hint>
+		<hint>Complete message: HEY CAREFUL MAN A BEVERAGE IS LIKE A DOT AND WEED IS LIKE A DASH</hint>
+		<hint>Path says something about weed being a DASH and the booze being a DOT, but nothing about the bowling balls. Wonder what those might be?</hint>
+		<hint>Read the loop in Morse Code starting in the upper left hand corner. The weed is the dashes, booze (beverage) is the dots, and the bowling balls are letter breaks.</hint>
+		<solution href="01-dudes_vices-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Mark It 8, Dude!</title>
+		<file href="02-mark_it-puzzle.pdf"/>
+		<hint>Find a word in each set of bowling pins, as in Boggle.</hint>
+		<hint>Each word begins on pin one (the bottom pin).</hint>
+		<hint>All words are eight letters long.</hint>
+        <hint>Words are:
+BATHROBE, DRUNKARD, EMPLOYED, BEVERAGE, ORIENTAL, STRANGER, LEBOWSKI, PANCAKES, ACHIEVER, DEADBEAT.</hint>
+		<hint>Remaining pins say: INDEX LOW SCORE IN FRAME</hint>
+<hint>Take the lowest total score from each individual bowling frame (from column one, column two, etc.) and index into the matching eight letter word.
+	
+For example, in frame six the low score is a seven and the seventh letter of that word (STRANGER) is "E".
+
+			(This final step requires basic knowledge of bowling scores.  In the example above, the forward slash symbol ("/") means a "spare" which is at least ten points for the frame, making seven the lowest total score for all players across that individual frame.)</hint>
+		<solution href="02-mark_it-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Nihilists</title>
+		<file href="03-nihilists-puzzle.pdf"/>
+		<hint>All crossword answers are different words which can mean "nothing".</hint>
+		<hint>Across Answers:
+
+```
+3. SQUAT
+4. VOID
+6. SCRATCH
+7. NOUGHT
+8. BAGEL
+9. LOVE
+12. ZIP
+13. DICK
+```</hint>
+		<hint>Down Answers:
+			
+```
+1. JACK
+2. BOO
+3. SHUTOUT
+5. DUCK
+7. NULL
+8. BLANK
+10. EMPTY
+11. NADA
+12. ZERO
+```</hint>
+		<solution href="03-nihilists-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>We cut off your Johnson!</title>
+		<file href="04-cut_off_your_johnson-puzzle.pdf"/>
+<hint>Answers for A-F are: HAND, HONDA, WAND, WAD, RADAR, and DYE.
+	
+Remember - Only one letter goes in each tile, and the letter only counts once for each column and each row.  Note that in some columns the same tile is crossed more than once. You still only use that letter one time.</hint>
+		<hint>Each of the five rows is the first name of a famous person named Johnson</hint>
+		<hint>Each circle will contain one letter which is also part of the famous Johnson's name.,</hint>
+		<solution href="04-cut_off_your_johnson-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Dude's Rug (meta puzzle)</title>
+		<file href="05-dudes_rug-puzzle.pdf"/>
+		<hint>All letters will face the same way (right side up).</hint>
+		<hint>The grid will be five by five.</hint>
+		<hint>Each puzzle answer is its own path, and starts and ends on an edge.</hint>
+		<hint>Once you have assembled the grid, there is one path with letters that was not a puzzle answer. This path starts in the middle tile of the top row with the letter "P".</hint>
+		<solution href="05-dudes_rug-solution.pdf"/>
+	</puzzle>
+	
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+	<answerSheetSolution href="answersheet-solution.pdf"/>
+</PPMonth>

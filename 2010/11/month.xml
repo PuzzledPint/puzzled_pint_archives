@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2010</year>
+	<month>11</month>
+	<title>November 2010 Puzzles</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Napkins</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>What do you use to call someone?</hint>
+			<hint>Do any of the letters *POP*?</hint>
+			<hint href="00-location-hint3.png"/>
+			<hint>Voicemail Transcription:
+
+Hi puzzler.
+
+I am so glad you figured out my number.
+
+Now listen carefully for your final quest.
+
+In order to make the other knights *green* with envy, you must slay the *dragon* that slumbers in the valley between the *yam hills* and the *bell mountain*.
+
+Good Luck. (giggles)</hint>
+			<hint>The solution is GREEN DRAGON, located between Belmont and Yamhill.</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>greendragon</answerword>
+	</location>
+	
+	<puzzle>
+		<title>Floo Network</title>
+		<file href="01-floo_network-puzzle.pdf"/>
+		<solution href="01-floo_network-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Mixing it Up</title>
+		<file href="02-mixing_it_up-puzzle.jpg"/>
+		<solution href="02-mixing_it_up-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Paper Magick</title>
+        <notes>This puzzle came with a bag of colored cutouts [that looked like this](03-paper_magick-packet.jpg). We do not have templates for those pieces, but if you are replaying this month as a Puzzle Party, the host should be able to reconstruct them from the hints or solution.</notes>
+		<file href="03-paper_magick-packet.jpg"/>
+        <hint>The following hint will show you the assembled pieces, but not in the correct order.</hint>
+        <hint href="03-paper_magick-hint2.pdf"/>
+		<solution href="03-paper_magick-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Video Game Fantasy</title>
+		<file href="04-video_game-puzzle.pdf"/>
+		<solution href="04-video_game-solution.pdf"/>
+	</puzzle>
+</PPMonth>

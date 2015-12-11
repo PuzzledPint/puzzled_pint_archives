@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2010</year>
+	<month>7</month>
+	<title>July 2010 Puzzles</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Emergency Council Meeting</title>
+            <notes>This puzzle was posted on July 13, 2010. Solve it and take along the other puzzles to the bar and have fun with them there.
+
+The complete solution to this puzzle will lead you to the bar, but first, you will need to make one stop to collect information needed to fully solve the puzzle. All the information you need is included here.
+
+If you need a hint to get started, highlight the text below.</notes>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>The solution is THE SECRET SOCIETY LOUNGE</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>thesecretsocietylounge</answerword>
+	</location>
+	
+	<puzzle>
+		<title>Lifesavers</title>
+		<file href="01-lifesavers-puzzle.pdf"/>
+		<solution>1) taste candies and identify flavors (cherry, orange, pineapple, watermelon, black raspberry)
+
+2) order by rainbow colors (red, orange, yellow, green, purple) and read off letters
+
+3) the answer is SUGAR.</solution>
+	</puzzle>
+	
+	<puzzle>
+		<title>Trivia in the Park</title>
+		<file href="02-trivia_in_the_park-puzzle.pdf"/>
+		<solution href="02-trivia_in_the_park-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Movie Posters</title>
+		<file href="03-movieposters-puzzle.pdf"/>
+		<solution href="03-movieposters-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Boozy Bottles</title>
+		<file href="04-bottles-puzzle.pdf"/>
+		<solution href="04-bottles-solution.pdf"/>
+	</puzzle>
+</PPMonth>

@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2015</year>
+	<month>9</month>
+	<title>September 2010</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Maps</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>Here is a list of words that you need to find:
+
+- ALONE
+- ASHORE
+- BELT
+- CANAL
+- CANNON
+- CANOE
+- CAPTAIN
+- CHEST
+- CLIMB
+- CROOK
+- CURSE
+- GRASP
+- HORN
+- IRON
+- JOHNNYDEPP
+- LAMP
+- LAST
+- NEED
+- ONCE
+- OPENSEAS
+- PARROT
+- PEGLEG
+- PIRATE
+- PLANK
+- PLOT
+- PLUNDER
+- PROP
+- RACE
+- RAGE
+- REDBEARD
+- ROPE
+- SAGA
+- SALT
+- SCURVY
+- STEAL
+- TALE
+- TIKI
+- TIRE
+- TREASURE
+- VOYAGE</hint>
+<hint>Focus on the (few) unused letters in the word search.</hint>
+<hint>Does the size of the wordsearch match the size of the maps?</hint>
+<hint>Focus on the first letter of each line of the poem.</hint>
+			<hint>The solution is JOLLY ROGER</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>jollyroger</answerword>
+	</location>
+	
+	<puzzle>
+		<title>One More Day Johnny</title>
+		<file href="01-johnny-puzzle.jpg"/>
+		<solution href="01-johnny-solution.jpg"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Mirage</title>
+		<file href="02-mirage-puzzle.pdf"/>
+		<solution href="02-mirage-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Think Like a Pirate</title>
+		<file href="03-think_like_a_pirate-puzzle.pdf"/>
+		<solution href="03-think_like_a_pirate-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Aftermath</title>
+		<file href="04-aftermath-puzzle.pdf"/>
+		<solution href="04-aftermath-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Meta/Answersheet</title>
+		<file href="05-meta_answersheet-puzzle.pdf"/>
+		<solution href="05-meta_answersheet-solution.pdf"/>
+	</puzzle>
+	
+	<answerSheet href="05-meta_answersheet-puzzle.pdf"/>
+	<answerSheetSolution href="05-meta_answersheet-solution.pdf"/>
+</PPMonth>

@@ -1,0 +1,166 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2015</year>
+	<month>8</month>
+	<title>Semaphore</title>
+	<notes>August's event was a bit more technological than most: It used [ClueKeeper](http://www.cluekeeper.com/) to help host the hunt.  Players had the option to use ClueKeeper (in addition to our normal Game Control hosts) to track puzzle progress and get hints.  This ClueKeeper hunt is still available, if you'd like to use it - Download the app and get the hunt using code `PPAUG15`.  Alternatively, the puzzles as presented below can be used independent of the app.
+
+		This month's beautiful art is thanks to [Iryna Dobrovynska](http://www.shutterstock.com/portfolio/search.mhtml?gallery_username=dobrovynska&amp;gallery_landing=1).
+
+		Thanks to the [Chicago Puzzled Pint](https://twitter.com/puzzpintchi)'s [Sandor](http://mysteryleague.com/) for writing all of this month's main puzzles!  (Bonus puzzle courtesy Chicago's Wil Z.)</notes>
+	<location>
+		<puzzle>
+			<title>International Society of Semaphorians</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>Think in semaphore.</hint>
+			<hint>Write out the semaphore for these letters.</hint>
+			<hint>Keep the pairs of semaphores close together, separate from the other pairs and single letters.</hint>		
+			<hint>The semaphore patterns and pattern pairs should resemble letters.</hint>
+			<hint>The semaphore patterns look like C R Y P T I C</hint>
+			<solution>Write out the semaphore for each letter.  Keep the pairs of semaphores close together, separate from the other pairs and single letters.  The semaphore patterns and pattern pairs should resemble letters, spelling CRYPTIC.</solution>
+		</puzzle>
+		<answerword>cryptic</answerword>
+	</location>
+	
+	<puzzle>
+		<title>Sema-one: Destination</title>
+		<file href="01-sema-one-puzzle.pdf"/>
+		<hint>All the answers are two-word phrases or names. Remember: you can test out any answer by entering it as a solution.</hint>
+		<hint>The sailor rotates you.</hint>
+		<hint>Focus on the initials of the answers.</hint>
+		<hint>FIRST, get your BEARINGS.</hint>
+		<hint>First focus on the first letter for the first word of every answer. That letter will only be one of three letters.</hint>
+		<hint>The first letter of the first word in every answer is either W, S, or E.</hint>
+		<hint>W, S, and E should form a recognizable set of letters, especially in conjunction with the "north" from the instructions.</hint>
+		<hint>CLUE ANSWERS 1-6: Wind Sock, El Niño, Square Knot, Sun Visor, Water Resistant, Sand Dollar</hint>
+		<hint>CLUE ANSWERS 7-12: Sea Cows, Washed Up, Sea Anemone, White Whale, Warm Front, Engine Room</hint>
+		<hint>The first letter of the second words should be turned into semaphore.</hint>
+		<hint>For the first letter of the second word of each answer: draw it in the box, but first use the W, S or E from the first word to orient yourself.</hint>
+		<hint>So, for answer 1, imagine turning your body to the left (west), and drawing a S. That will result in a line extending due south and one extending northeast. (Assuming that north is the top of the page, which is what the sailor tells you in the flavor text.)		</hint>
+		<solution>1. All the answers are two-word phrases or names.
+			
+	1. Wind Sock 
+	2. El Niño 
+	3. Square Knot 
+	4. Sun Visor 
+	5. Water Resistant 
+	6. Sand Dollar 
+	7. Sea Cows 
+	8. Washed Up
+	9. Sea Anemone 
+	10. White Whale 
+	11. Warm Front
+	12. Engine Room
+	
+2. Each of the first initials of the answers are one of W, E, or S.
+3. Each of the second initials should be converted into semaphore and drawn in the respective box in the grid. However, the first letter indicates how one should rotate their body before drawing. So, for answer 1, imagine turning your body to the left (west), and drawing a S. That will result in a line extending due south and one extending northeast. (Assuming that north is the top of the page, which is what the sailor tells you in the flavor text.)
+4. Doing this for all 12 answers results in a series of letters that spell BALI.</solution>
+	</puzzle>
+	
+	<puzzle>
+		<title>Sema-two: Name</title>
+		<file href="02-sema_two-puzzle.pdf"/>
+		<hint>Each sailor gets one flag from row 1 and one flag from row 2.</hint>
+		<hint>The second row of flags are in alphabetical order. Remember: you can test out any guess about what those pictures are by entering it as a solution.</hint>
+		<hint>PICTURE SOLUTIONS: The second row of flags are: FAX, GAMES, GEODE, LICK, PUNTER, ROB, WILT</hint>
+		<hint>Think of some famous people with the names in the first row.</hint>
+		<hint>All the famous people or characters from the first row have something distinct in common. Now's the time to compare the names to the sailors above.</hint>
+		<hint>All the famous people or characters have the distinction of … having an initial in their name (6 as a middle name, 1 as a first name).</hint>
+		<hint>The first three names are WILE E. COYOTE, L. RON HUBBARD, JOHNNY B. GOODE</hint>
+		<hint>The 4th - 7th names are JAMES T. KIRK, MICHAEL J. FOX, PHILIP K. DICK, HUNTER S. THOMPSON</hint>
+		<hint>Compare the part of their names not in the first row boxes to the list of pictures.</hint>
+		<hint>Each name has one letter changed. For example, MICHAEL J. FOX → FAX.</hint>
+		<hint>The order of the letters is indicated by the sailors — T, J, S, L, K, B, E. Those letters correspond with the initials of the people identified by the names.</hint>
+		<solution>1. Each sailor represents a famous person who uses a first or middle initial. Those initials are what’s showing semaphore.
+2. The other parts of the famous person’s name are shown below. One name is written out, and one name is represented by an image. But each image is actually off by one letter.
+3. So, for example, the first sailor is showing a T. Combine the T with GAMES and KIRK and you get GAMES T. KIRK, one letter off from JAMES T. KIRK. The changed letter is a J.
+4. In order, the names are JAMES T. KIRK, MICHAEL J. FOX, HUNTER S. THOMPSON, L. RON HUBBARD, PHILIP K. DICK, JOHNNY B. GOODE and WILE E. COYOTE.
+5. If you extract the letter that’s different between the names and the pictures, in order, you get JOHN DOE.</solution>
+		
+	</puzzle>
+	
+	<puzzle>
+		<title>Sema-three: Octopuses</title>
+		<file href="03-sema_three-puzzle.pdf"/>
+		<hint>All words are three letters. Don't forget you can test out any guess about what they are by entering it as a solution.</hint>
+		<hint>SOLUTION TO PICTURES: The pictures are KEY, FOX, PEZ, WIG, MUG, JON, NET</hint>
+		<hint>Don't try to pair the words. They work independently.</hint>
+		<hint>The "three-quarters" phrase in the flavor text is an important hint.</hint>
+		<hint>The fact that they're octopuses, with eight legs, is an important hint.</hint>
+		<hint>Imagine each octopus was semaphoring the word that's shown on her flag.</hint>
+		<hint>Each word has three letters, which makes it three-quarters of … what? Remember what the theme of this set is.</hint>
+		<hint>Draw out the semaphores that each of the three letters in each word makes. Overlap the six flags.</hint>
+		<hint>After drawing out the six directions that the three letters require in semaphore, two directions remain.</hint>
+		<hint>That pair of remaining directions makes a new letter in semaphore.</hint>
+		<solution>1. The pictures are all three-letter words: KEY, FOX, PEZ, WIG, MUG, JON, NET.
+2. If you turn each letter in a given word to semaphore, together they’ll make up six of the eight flag positions.
+3. The two remaining positions indicate the final letter to extract from each flag. In order, those letters are SKIPPER.</solution>
+	</puzzle>
+	
+	<puzzle>
+		<title>Sema-four: Travels</title>
+		<file href="04-sema_four-puzzle.pdf"/>
+		<hint>Don't determine the countries these flags come from. It's not important.</hint>
+		<hint>Compare the flags in the right hands of all sailors. Do the same for the flags in all of their left hands.</hint>
+		<hint>The flags in the sailors' left hands all have an element in common.</hint>
+		<hint>All flags in the right hands represent a shape from a well-known set of shapes.</hint>
+		<hint>There are 4 shapes to the set mentioned in the last hint.</hint>
+		<hint>The shapes are +, -, x, / — i.e. mathematical operations.</hint>
+		<hint>Count all the stars in the flags in the left hands.</hint>
+		<hint>There are six stars in the last flag of the first row.</hint>
+		<hint>Turn the semaphore letters into numbers. A=1, etc.</hint>
+		<hint>Perform the mathematical operation: semaphore letter [plus, minus, divided by, or times] number of stars. For example, the first sailor is in an M shape, which is the 13th letter. His right-hand flag shows a plus. His left-hand flag has 8 stars. So the operation to do is 13 + 8, which is 21.</hint>
+		<hint>Translate all those numbers (the results of the math operations) to letters.</hint>
+		<hint>The sailors spell out USA RUSSIA CHINA.</hint>
+		<hint>So… count the stars in the USA flag and China flag, and look at the operation in the Russian flag.</hint>
+		<solution>1. Each right-hand flag (i.e. in the sailors’ right hands) represents one of the four basic mathematical operations: +, -, x, /.
+2. Each left-hand flag has stars on it.
+3. By starting with the letter shown in semaphore, and applying the operation and the number represented by the stars, you get a new number. So for example, the first sailor is in an M shape, which is the 13th letter. His right-hand flag shows a plus. His left-hand flag has 8 stars. So the operation to do is 13 + 8, which is 21. Which coverts to a U.
+4. In order, the answer is USA RUSSIA CHINA. Using the same conventions as the puzzle, that can be translated into 50 - 5. (Fifty stars / minus sign / five stars.) The answer is 45, or FORTY FIVE.</solution>
+	</puzzle>
+	
+	<puzzle>
+		<title>Meta-phore (meta puzzle)</title>
+		<file href="05-meta_phore-puzzle.pdf"/>
+		<hint>Notice that the decks are different lengths.</hint>
+		<hint>The deck lengths (i.e. number of columns) are exact multiples of each answer to the first four puzzles.</hint>
+		<hint>The puzzle answers are hidden in each deck in a predictable manner.</hint>
+		<hint>The puzzle answers are all in the middle row of their respective deck. Highest deck = sema-four. Lowest deck = sema-one.</hint>
+		<hint>The puzzle answers start in column two and then skip two columns between letters. So the F for FORTYFIVE is in row 2, column 2. The O is in row 2, column 5. The R is in row 2, column 8.: Put another way, each letter is in the center of a 3x3 box of letters.</hint>
+		<hint>… which means that each letter is surrounded by eight letters. Eight.</hint>
+		<hint>Remember: the theme is semaphore.</hint>
+		<hint>Translate each of those letters (i.e. the letters in the center of the square) into semaphore.</hint>
+		<hint>Mark (in a different color or with a different shape than how you marked the center letters) the two letters pointed to by the semaphore pattern of the center letter. For example, the first F points to U (at 3:00) and G (at 6:00). Mark them.</hint>
+		<hint>Read all the newly marked letters row by row, left to right. There should be: 18 for deck 4, 14 for deck 3, 14 for deck 2, 8 for deck 1.</hint>
+		<hint>Deck 4 results in COFFEEMUG / PINTGLASS.</hint>
+		<hint>Deck 4: COFFEEMUG / PINTGLASS, Deck 3: BICYCLE / GIRAFFE, Deck 2: NEPTUNE / GLASSES, Deck 1: CLUB / PAWN</hint>
+		<solution>1. Each of the four previous answers is in its respective deck. Each letter of the answer is surrounded by a ring of eight (seemingly random) letters. So that means the first letter of each answer is in the second column, second row of its deck.
+2. Translating each of those center letters into semaphore, you can extract two new letters. By circling (or highlighting) those and reading them in order, left-to-right, top-to-bottom, you’ll get two words or phrases in each deck.
+3. Solution: Deck 4: COFFEEMUG / PINTGLASS, Deck 3: BICYCLE / GIRAFFE, Deck 2: NEPTUNE / GLASSES, Deck 1: CLUB / PAWN
+4. Following the instructions leads you to make four semaphore signs. When interpreted by a teammate, they read WAVE.</solution>
+	</puzzle>
+	
+	<puzzle>
+		<title>Sema-more (bonus puzzle)</title>
+		<file href="06-sema_more-puzzle.pdf"/>
+		<solution>Each of the 9 sentences on the bottom of the page can reference two of the words around the wheel.  (For instance, the first one references IMPART (imp, art) and DELIVERY (deli, very).
+
+Use each pair of words to create a semaphore letter.  (The first one is F.)
+
+Answer: FLAREGUNS
+
+- Split down middle for two words: DELI/VERY, IMP/ART (F)
+- Abbreviation for day of week: harMONies, converSATion (L)
+- Trigram: deliVERy, conVERsation (A)
+- One letter replaced with C: IMPArT, TAlK (R)
+- Final six letters is word: deLIVERY, harMONIES (E)
+- Two-char roman numeral less than 500: delIVery, voICe (G)
+- Three letter word for appendage: hARMonies, redeFINed (U)
+- Shares 5 unique letters with another word: COnVErsatIon, VOICE (N)
+- One letter replaced with CH to make new word: tALK, vOICE (S)</solution>
+	</puzzle>
+	
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>

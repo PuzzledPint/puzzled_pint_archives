@@ -1,0 +1,30 @@
+<!ELEMENT PPMonth (year,month,title,notes?,location,puzzle+,allPuzzles?,answerSheet?,answerSheetSolution?)>
+
+<!ELEMENT year (#PCDATA)>      <!-- 4-digit year, e.g. 2015 -->
+<!ELEMENT month (#PCDATA)>     <!-- 2-digit month, e.g. 02 -->
+
+<!ELEMENT title (#PCDATA)>     <!-- Theme/Title for the month, e.g. The Big Lebowski -->
+
+<!ELEMENT notes (#PCDATA)>     <!-- Markdown with overall theme intro text and authorship information -->
+
+<!ELEMENT location (puzzle,answerword)>
+<!ELEMENT answerword (#PCDATA)>
+
+
+<!ELEMENT puzzle (title,notes?,file?,hint*,solution)>
+<!ELEMENT file EMPTY>
+<!ATTLIST file href CDATA #IMPLIED>
+<!ELEMENT hint (#PCDATA)>
+<!ATTLIST hint href CDATA #IMPLIED>	<!-- Hints will be either/or: either containing text or linking to a PDF or other document -->
+<!ELEMENT solution (#PCDATA)>
+<!ATTLIST solution href CDATA #IMPLIED> <!-- Solution could have both text+href, for example a textual walkthrough plus a PDF solve, but is typically just an href to a solution document -->
+
+<!ELEMENT allPuzzles EMPTY>
+<!ATTLIST allPuzzles href CDATA #IMPLIED>
+
+<!ELEMENT answerSheet EMPTY>
+<!ATTLIST answerSheet href CDATA #IMPLIED>
+
+<!ELEMENT answerSheetSolution EMPTY>
+<!ATTLIST answerSheetSolution href CDATA #IMPLIED>
+

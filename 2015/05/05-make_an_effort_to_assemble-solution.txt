@@ -1,0 +1,61 @@
+The first step is to fill in the circles using the previous puzzle answers.
+2:5 refers to puzzle #2, letter #5.
+
+The messages on the first page (the one with BRA, E, ISH, and GA) are
+- peachy
+- hope it is not a big trial helping me get out
+The messages on the first page (the one with DIM, DEER, WASH, and SENT) are
+- ultimate
+- you are the best
+- this is the happiest day
+- ah to be free
+The messages on the first page (the one with RE, SAY, EL, and SALT) are
+- thanks
+- delight
+- so happy
+- only the brilliant could do this for me
+
+Once filled in, cut out and fold up the three pieces.
+
+
+In the "TO ASSEMBLE THE KEY" section, note that ALIGNED is in strikethrough
+text, and JO??EN-> replaces it. ?? stands for IN.  Likewise for DISCOVER
+and DETERM??E->, and again for SIGNIFICANCE and MEAN??G.
+
+The assembly section has six words in all caps. Find synonyms for those words
+that have an IN in them. You'll find word fragments on the three modules
+that fit your "IN" synonyms as follows:
+
+"REEDUCATE"   BRA ?? WASH ->
+GUARD         SENT ?? EL ->
+CARIBOU       RE ?? DEER ->
+CONTRADICT    GA ?? SAY ->
+LESSEN        DIM ?? ISH ->
+CRACKER       SALT ?? E ->
+
+Think of the first part of the word as being a TAB that you stick *IN* to a
+SLOT which is the second part of the word. It works best to pick two pieces
+and two TWO tab-slot connections together before bringing the third pieces
+into play.
+
+For example:
+- start with RE??DEER
+- hold those pieces together, and you can also get SENT??EL
+
+Note that if you start with SENT??EL, then RE??DEER is the one that fits. It
+turns out that the tab-slots go in pairs like this:
+
+1) RE??DEER  and SENT??EL
+2) GA??SAY   and SALT??E
+3) BRA??WASH and DIM??ISH
+
+But back to RE??DEER and SENT??EL.  Once they're together, you can add
+the third piece.
+- start with one of the tabs on the third piece, like GA??SAY.
+- next do DIM??ISH
+- then SALT??E
+- finish with BRA??WASH
+
+
+When assembled correctly, a single connected path will be formed which
+spells "DOROTHY HAD THEM ALL THE TIME".  And the answer is "RUBY SLIPPERS"

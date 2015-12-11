@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2015</year>
+	<month>4</month>
+	<title>The A-Team</title>
+	<notes>[Dossiers](dossiers.pdf) are needed to solve main 4 puzzles - each team received one at event and needed to share.
+        
+Thanks to Wil Zambole of [Chicago Puzzled Pint](https://twitter.com/puzzpintchi) for writing all of this month's puzzles!
+	</notes>
+	<location>
+		<puzzle>
+			<title>Hire the A-Team</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>Each item shown is associated with a different country.</hint>
+			<hint>How can you connect each country to its item?</hint>
+			<hint>Does the phrase "English Bulldog" give you any ideas?</hint>		
+			<hint>The phrases you make will form a chain. Keep track of the ordinal number of each country (first, second, etc.), then take that letter from the group.</hint>
+            <hint>The first letter to grab is H from the starting country, FRANCE.</hint>
+            <hint>First connection is FRENCH KISS.</hint>
+            <hint>Last connection is SWISS BANK.</hint>
+			<hint>The solution is HIDING.</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>hiding</answerword>
+	</location>
+	
+	<puzzle>
+		<title>Hannibal</title>
+		<file href="01-hannibal-puzzle.pdf"/>
+		<hint>There are 11 groups of 4.</hint>
+		<hint>One in each group has been changed. Determine how it changed, and what it should be3.</hint>
+		<hint>There are hints on file cards for groupings if you can't find them.</hint>
+		<solution href="01-hannibal-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Face</title>
+		<file href="02-face-puzzle.pdf"/>
+		<hint>Face is second in command.</hint>
+		<hint>Try reading downwards</hint>
+		<hint>Follow the instruction, then look again somewhere else.</hint>
+		<hint>The flowers are located on the file cards.</hint>
+		<solution href="02-face-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>BA Baracus</title>
+		<file href="03-ba-puzzle.pdf"/>
+		<hint>Each of those clue answer has something in common about them.</hint>
+		<hint>That connection has to do with the fact that his name is BA.</hint>
+		<hint>Each clue leads to a person with two initials.</hint>
+		<hint>Find those intitials in the grid, there is a letter in between each of them.</hint>
+		<solution href="03-ba-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Murdoch</title>
+		<file href="04-murdoch-puzzle.pdf"/>
+		<hint>You will need help to get the rest of the map.</hint>
+		<hint>Did you check the file cards?</hint>
+		<hint>Find the most direct route.</hint>
+		<hint>Try working backwards like a typical pencil maze would.</hint>
+		<solution href="04-murdoch-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Mission Accomplished! (meta puzzle)</title>
+		<file href="05-mission_accomplished-puzzle.pdf"/>
+		<hint>The names on the bottom are in that order for a reason.</hint>
+		<hint>What did you hear?</hint>
+		<hint>After peforming the instruction, literally close the book.</hint>
+		<solution href="05-mission_accomplished-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Fugitives (bonus puzzle)</title>
+		<file href="06-figitives-puzzle.pdf"/>
+		<hint>Each word on the left matches with one on the right.</hint>
+		<hint>Find the missing word that would connect them</hint>
+		<hint>See the plan through the jail cell bars.</hint>
+        <solution href="06-figitives-solution.pdf"/>
+	</puzzle>
+	
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>

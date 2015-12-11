@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2015</year>
+	<month>7</month>
+	<title>Portland</title>
+	<notes>Puzzled Pint was founded in Portland, Oregon.  For our fifth birthday, we returned to our roots.
+
+Thanks to the [Portland Puzzled Pint](https://twitter.com/puzzpintpdx) organizers for writing all of this month's puzzles!  But really, Portland would like to thank all the amazing guest authors who are contributing puzzles to the event each and every month.  There was a time when all puzzles came from Portland, and we really appreciate the breathing room.
+	</notes>
+	<location>
+		<puzzle>
+			<title>Why Can't Every City Be Portland?</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>Fill in the blanks under each image with the TITLE of the movie or TV series. You don't need to look up any additional information about each show!</hint>
+			<hint>In alphabetical order, the titles are:
+
+- Extraordinary Measures
+- The Goonies
+- Kindergarten Cop
+- Leverage
+- The Librarians
+- Mr. Holland's Opus
+- My Own Private Idaho
+- Short Circuit
+- Stand By Me
+- Zero Effect</hint>
+			<hint>Extract the boxed letter from each title to spell out a three-word answer.</hint>		
+			<hint>The solution is NO SALES TAX.</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>nosalestax</answerword>
+	</location>
+	
+	<puzzle>
+		<title>Transit Planning</title>
+		<file href="01-transit_planning-puzzle.pdf"/>
+		<solution href="01-transit_planning-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>The Many and Mysterious Plots of Portlandia</title>
+        <notes>(beautiful artwork courtesy [Natalie Metzger](http://www.thefuzzyslug.com/) and [Jade Gordon](https://www.patreon.com/jadegordon))</notes>
+		<file href="02-portlandia-puzzle.pdf"/>
+		<solution href="02-portlandia-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>A Stroll Through Portland</title>
+		<file href="03-stroll_through_portland-puzzle.pdf"/>
+		<solution href="03-stroll_through_portland-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Portland Food Cart Tour</title>
+		<file href="04-food_cart_tour-puzzle.pdf"/>
+		<solution href="04-food_cart_tour-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Thank You! (meta puzzle)</title>
+		<file href="05-thank_you-puzzle.pdf"/>
+		<solution href="05-thank_you-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Pint by Numbers (bonus puzzle)</title>
+		<file href="06-pint_by_numbers-puzzle.pdf"/>
+		<solution href="06-pint_by_numbers-solution.pdf"/>
+	</puzzle>
+	
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>

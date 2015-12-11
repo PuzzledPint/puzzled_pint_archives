@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2010</year>
+	<month>12</month>
+	<title>December 2010 Puzzles</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Unhappy Holidays</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>I like to keep things interesting by doodling on a different letter for every day.</hint>
+			<hint>I had to work a 14-hour shift on Valentine's Day, and 4 on Independence Day!</hint>
+			<hint>I worked so hard that first day, my "G" turned into a "U", if you know what I mean.</hint>		
+			<hint>You can research doodle history at: &lt;http://www.google.com/logos/index.html&gt;</hint>
+			<hint>Solution displayed to the player</hint>
+			<solution>The title and the holiday theme should remind people of [Google Holiday Logos](http://www.google.com/logos/), AKA "Google Doodles". Each description identifies one of these logos, and, more specifically, one letter of the word "Google" in the logo (hence the "doodle on the letters" reference in the flavor text.) These letters must be Caesar shifted ahead in the alphabet by the dates on which the logos were displayed ("day shift").
+
+description                  | date       | letter | day shift | FINAL |  
+---------------------------- | ---------- | ------ | --------- | ----- |  
+Cupid                        | 2/14/2000  | G      | 14        | U     |  
+A double helix               | 4/25/2003  | O      | 25        | N     |  
+Liberty Bell                 | 7/4/2005   | O      | 4         | S     |  
+Chitoseame bag               | 11/15/2000 | L      | 15        | A     |  
+A young bear in overalls     | 6/17/2001  | O      | 17        | F     |  
+Rev. Martin Luther King, Jr. | 1/16/2006  | O      | 16        | E     |  
+Saint George                 | 4/23/2002  | G      | 23        | D     |  
+The Guggenheim               | 6/8/2005   | G      | 8         | O     |  
+An alien abduction           | 9/5/2009   | O      | 5         | T     |  
+A treble clef                | 1/27/2006  | G      | 27        | H     |  
+A musical chord              | 6/8/2010   | L      | 8         | T     |  
+A snake's head               | 1/24/2001  | O      | 24        | M     |  
+Ray Charles                  | 9/23/2004  | O      | 23        | L     |  
+
+The solution is UNSAFE DOT HTML, which indicates a web page: "unsafe.html". Append this to the address (URL) of the puzzle page (either "&lt;http://www.puzzledpint.com/puzzle_december_2010/&gt;" or just "&lt;http://www.puzzledpint.com/&gt;") and you'll be taken to a "solved" page:
+
+&lt;http://www.puzzledpint.com/puzzle_december_2010/unsafe.html&gt;
+
+After 10 seconds, that page redirects to the web site of the location: JINX LOUNGE.</solution>
+		</puzzle>
+		<answerword>unsafe</answerword>
+	</location>
+	
+	<puzzle>
+		<title>Lincoln's Birthday</title>
+		<file href="01-lincolns_birthday-puzzle.pdf"/>
+		<solution href="01-lincolns_birthday-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Pi Day</title>
+		<file href="02-pi_day-puzzle.pdf"/>
+        <hint href="02-pi_day-hint1.jpg"/>
+		<solution href="02-pi_day-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>April Fools</title>
+		<file href="03-april_fools-puzzle.pdf"/>
+		<solution href="03-april_fools-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Flag Day</title>
+		<file href="04-flag_day-puzzle.pdf"/>
+		<solution href="04-flag_day-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Meta</title>
+		<file href="05-meta-puzzle.pdf"/>
+		<solution href="05-meta-solution.pdf"/>
+	</puzzle>
+</PPMonth>

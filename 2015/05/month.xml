@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2015</year>
+	<month>5</month>
+	<title>Ex Machina</title>
+	<notes>Puzzles adapted from the hunt on [JoCo Cruise Crazy 5](http://www.jonathancoulton.com/wiki/JoCo_Cruise_Crazy/JoCo_Cruise_Crazy_5).  Individual authors noted on each puzzle.  As always, a big thanks to our authors!
+	</notes>
+	<location>
+		<puzzle>
+			<title>Knock Knock</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>Identify the pictures on the left, then draw a straight line to connect each of those words with the appropriate response on the right. Keep in mind that every connection will be in the form of a [knock-knock joke](https://en.wikipedia.org/wiki/Knock-knock_joke)!
+
+For example, the second picture on the left shows some *FIGS*. That connects with the first response on the right: "Fix the doorbell, it's broken!"</hint>
+			<hint>The words for all the pictures on the left are:
+
+- CASH
+- FIGS
+- TANK
+- DOUGHNUT
+- POLICE
+- LETTUCE
+- [DEWEY](https://en.wikipedia.org/wiki/Huey,_Dewey,_and_Louie)
+- ORANGE
+- GOAT</hint>
+			<hint>The complete list of connections is:
+
+- CASH - Cash who? ("cashew") - I always knew you were a nut!
+- FIGS -- Fix the doorbell, it's broken!
+- TANK - Tank who? ("thank you") - You're welcome!
+- DOUGHNUT -- Do not ask, it's a secret.
+- POLICE -- Please may I come in?
+- LETTUCE -- Let us in, we're freezing.
+- [DEWEY](https://en.wikipedia.org/wiki/Huey,_Dewey,_and_Louie) -- Do we have to keep telling silly jokes.
+- ORANGE -- Aren't you glad I'm here?
+- GOAT -- Go to the door and find out.</hint>		
+			<hint>Solution displayed to the player</hint>
+			<solution>Look at the lines you drew to connect each pair of dots. There should be five letters at line intersections, and when read top to bottom they spell: CANOE ("Can you come out and play?")</solution>
+		</puzzle>
+		<answerword>canoe</answerword>
+	</location>
+	
+	<puzzle>
+		<title>The Name of the Wind</title>
+		<file href="01-name_of_the_wind-puzzle.pdf"/>
+		<solution href="01-name_of_the_wind-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Ethics Subroutine</title>
+		<file href="02-ethics_subroutine-puzzle.pdf"/>
+		<hint href="02-ethics_subroutine-hint1.pdf"/>
+		<solution href="02-ethics_subroutine-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Text Compression</title>
+		<file href="03-text_compression-puzzle.pdf"/>
+		<solution href="03-text_compression-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>You Know What They Say</title>
+		<file href="04-you_know_what_they_say-puzzle.pdf"/>
+        <hint href="04-you_know_what_they_say-hint1.pdf"/>
+		<solution href="04-you_know_what_they_say-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Make Effort To Assemble (meta puzzle)</title>
+        <notes>The completed answer sheet is required to solve this puzzle.</notes>
+		<file href="05-make_an_effort_to_assemble-puzzle.pdf"/>
+		<solution href="05-make_an_effort_to_assemble-solution.txt"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Fifty Shades of Array (bonus puzzle)</title>
+		<file href="06-fifty_shades_of_array-puzzle.pdf"/>
+		<solution href="06-fifty_shades_of_array-solution.pdf"/>
+	</puzzle>
+	
+    <allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>

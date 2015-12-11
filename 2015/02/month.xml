@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2015</year>
+	<month>2</month>
+	<title>Phobias</title>
+	<notes>Thanks to the [Chicago Puzzled Pint](https://twitter.com/puzzpintchi) organizers for writing all of this month's puzzles!</notes>
+	<location>
+		<puzzle>
+			<title>Mazeophobia</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>Read the directions.</hint>
+			<hint>Read the directions can have two different meanings.</hint>
+			<hint>Within each paragraph there are words that might indicate the direction to travel.</hint>
+			<hint>Not sure where to begin? What letter seems to stick out in the directions?</hint>
+			<hint>Read the directions and follow the path on the maze as indicated by the directions starting with R. 
+
+Direction words:
+
+- Above
+- Beneath
+- Down
+- Left
+- Ported
+- Reverse
+- Right
+- Top
+- Underneath
+- Up</hint>
+			<hint>Got a message from the maze?  Not sure what to do next?  [This website](http://www.rot-n.com/) may help.</hint>
+			<hint>Solution displayed to the player</hint>
+            <hint>The solution word is UNFOUNDED.</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>unfounded</answerword>
+	</location>
+	
+	<puzzle>
+		<title>Chorophobia</title>
+		<file href="01-chorophobia-puzzle.pdf"/>
+		<solution href="01-chorophobia-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Cynophobia</title>
+		<file href="02-cynophobia-puzzle.pdf"/>
+		<solution href="02-cynophobia-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Neophobia</title>
+		<file href="03-neophobia-puzzle.pdf"/>
+		<solution href="03-neophobia-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Sarmassophobia</title>
+		<file href="04-sarmassophobia-puzzle.pdf"/>
+		<solution href="04-sarmassophobia-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Panphobia (meta puzzle)</title>
+		<file href="05-panphobia-puzzle.pdf"/>
+        <hint>The 8 hints in parentheses are short words, and the 8 definitions below are longer.</hint>
+        <hint>The solution to the top words are embedded in the solution to the bottom words</hint>
+        <hint>- Canine = DOG
+- Site = PLACE
+- Rod = BAR
+- Corn Holder = COB
+
+- A person may do this on eBay = BID
+- Not a he or she = IT
+- Portrayer = ACTOR
+- Not you = ME
+
+- Religious principles = DOGMA
+- Type of snake = COBRA
+- Extreme support = RABID
+- Carrier of cargo = BARGE
+
+- Leave out = OMIT
+- Disease caused by insects = LYME
+- Home of nuclear energy = REACTOR
+- Harmless substance = PLACEBO</hint>
+        <hint>Insert the 4 meta answers into the slots so the parenthetical words + the adjacent
+two letters from the answer spell out one of the defined words from below. The
+letters that remain (from the middle of the 4 answer words) will spell SCARED
+STUPID.</hint>
+		<solution href="05-panphobia-solution.jpg"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Mottephobia (bonus puzzle)</title>
+		<file href="06-mottephobia-puzzle.pdf"/>
+		<solution href="06-mottephobia-solution.pdf"/>
+	</puzzle>
+	
+    <allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>

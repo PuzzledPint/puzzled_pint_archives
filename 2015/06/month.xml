@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2015</year>
+	<month>6</month>
+	<title>TV</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>To Boldly Solve</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint href="00-location-hint1.html"/>
+			<hint href="00-location-hint2.jpg"/>
+			<hint>Want a clean, numbers-only copy of the Sudoku? [Here you go.](00-location-hint3.pdf)</hint>		
+			<hint>Don't care for solving Sudoku by hand? [Try this automated solver](https://tirl.org/software/sudoku/).</hint>
+            <hint>Once you've solved the Sudoku, translate the circled numbers back into to letters to spell a common word. Look at the original puzzle "FL4V0RT3XT" to see how to do this...</hint>
+			<hint>The solution is STAGE.</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>stage</answerword>
+	</location>
+	
+	<puzzle>
+		<title>Switching Channels</title>
+		<file href="01-switching_channels-puzzle.pdf"/>
+		<hint>Shows on left are in order of the final answer. Shows on right are in what order?
+   
+[Answer: alpha, if you include the “THE” for the last two, which is important.]</hint>
+		<hint>
+“Great lengths”. What does that mean? 
+
+[Answer: each show on the left has a different # of characters in title.]</hint>
+		<hint>Rock/Stone is a nice pairing, but not relevant. Ditto with doctors, cartoons, # of people, theme of show. Concentrate on the titles.</hint>
+        <hint>Shows are paired by name length
+
+- SAVEDBYTHEBELL / THEFLINTSTONES
+- TOMANDJERRY / LOONEYTOONS
+- HAPPYDAYS / SOUTHPARK
+- MASH / LOST
+- STARTREK / THEATEAM
+- SESAMESTREET / DOWNTONABBEY
+- 30ROCK / SCRUBS</hint>
+		<hint>What’s similar between each pair? Write them out in block letters on top of each other. 
+
+[Answer: one letter. For example, the T in this pair:
+
+- `savedbyThebell`
+- `theflinTstones` ]</hint>
+		<solution href="01-switching_channels-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Learn to Spell</title>
+		<file href="02-learn_to_spell-puzzle.pdf"/>
+		<hint>The one card with rotated pictures should be placed into the vertical upper-left slot.</hint>
+		<hint>The words are Ant, Cake, Cat, Coat, Eye, Key, Kite, Knot, and Nut.</hint>
+		<hint>Notice you placed one heart, the CAKE, into an enclosed area that has 4 pictures and a second heart, the ANT, into an enclosed area that has 3 pictures.  How does the number 4 relate to CAKE and the number 3 relate to ANT?</hint>
+		<hint>Key words in the instructions that should be highlighted:  
+
+"spell OUT" - OUT is significant, directional, and implies placement
+
+"into THEIR correct word" - There's ownership between the heart (placed picture) and the enclosed area
+
+"heart" - What's the heart of a word?  It has nothing to do with its position in the word.
+
+"second helpful identity" - The heart's second identity is applicable to the whole rest of the puzzle, consistently.</hint>
+        <hint>Each picture represents a different letter of the alphabet as well as the word it depicts.</hint>
+        <hint>Note that a CAKE is the second picture in the enclosed area that you placed CAKE into.  and a CAKE is the first picture in the enclosed area into which you put the ANT, thus a CAKE represents the letter 'A'.  A is positionally the same in the two areas as well as the spelling of those words.  Try to LITERALLY spell CAKE into the enclosed area you placed it into so that C is by CAT, A is by CAKE, K is by KEY, and E is by the Kite.</hint>
+        <hint>Notice that the heart of the word is which picture represents the word itself.  The Cake is the heart because the word spelled by the enclosed area is CAKE</hint>
+        <hint>The second identity is which letter in the spelled out version of the word the heart is in, so The CAKE is the Heart of the top left area, which spells out CAKE using the Cat, CAKE, Key, and Kite.  Thus Cat=C, Cake=A, Key=K, Kite=E consistently through the puzzle.</hint>
+		<solution>SOLUTION: The pictures correspond to the following letters:
+Cat=C, Cake=A, Knot=T, Ant=N, Nut=U, Kite=E, Coat=O, Key=K, Eye=Y, and the ?=I.  The five letter word is thus UNITE, and we know that goes with the question mark because the question mark was the removed heart which always represents that word, "plus it's easy to spell, but hard to draw"
+
+See hint document for more details.</solution>
+	</puzzle>
+	
+	<puzzle>
+		<title>Into the YouTubes</title>
+		<file href="03-into_the_youtubes-puzzle.pdf"/>
+		<solution href="03-into_the_youtubes-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Downton Abbey</title>
+		<file href="04-downton_abbey-puzzle.pdf"/>
+		<solution href="04-downton_abbey-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Family Feud (meta puzzle, US edition)</title>
+		<file href="05-family_feud_us-puzzle.pdf"/>
+		<solution href="05-family_feud_us-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Family Feud (meta puzzle, international edition)</title>
+		<file href="06-family_feud_international-puzzle.pdf"/>
+		<solution href="06-family_feud_international-solution.pdf"/>
+	</puzzle>
+
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>
