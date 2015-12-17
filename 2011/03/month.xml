@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2011</year>
+	<month>3</month>
+	<title>March 2011 Puzzles</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Distractions</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>Handwriting is irrelevant to the puzzle - It's just how the kids signed the sheet.</hint>
+			<hint>Think about indexing.  (Indexing 2 into PUZZLE gives the letter U, for example.)</hint>
+			<hint>They could have numbered the four rounds of the tournament.</hint>		
+			<hint>Index into each name by the round number - R'Gina's first match gives "R", her second match gives "G", etc</hint>
+			<hint>The solution is BROADWAY GRILL</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>broadwaygrill</answerword>
+	</location>
+	
+	<puzzle>
+		<title>Star Cross'd</title>
+		<file href="01-star_cross_d-puzzle.pdf"/>
+		<solution href="01-star_cross_d-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Too Much of a Good Thing</title>
+		<file href="02-too_much_of_a_good_thing-puzzle.doc"/>
+		<solution href="02-too_much_of_a_good_thing-solution.doc"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Quotes</title>
+		<file href="03-quotes-puzzle.pdf"/>
+		<solution href="03-quotes-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>The Play's the Thing</title>
+		<file href="04-the_plays_the_thing-puzzle.pdf"/>
+		<solution href="04-the_plays_the_thing-solution.pdf"/>
+	</puzzle>
+</PPMonth>

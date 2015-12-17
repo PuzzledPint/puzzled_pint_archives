@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2011</year>
+	<month>1</month>
+	<title>January 2011 Puzzles</title>
+	<location>
+		<puzzle>
+			<title>Playoff</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>What kind of grams exist?</hint>
+			<hint>Cities don't matter.</hint>
+			<hint>You can substitue the logos for any symbols.</hint>		
+			<hint>Still stuck? The next hint is the key.</hint>
+            <hint href="00-location-hint5.pdf"/>
+			<hint>The solution is BLITZ LADD</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>blitzladd</answerword>
+	</location>
+	
+	<puzzle>
+		<title>8 Square Dodge Ball</title>
+		<file href="01-8_square_dodge_ball-puzzle.pdf"/>
+		<solution href="01-8_square_dodge_ball-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Another Day at the Office</title>
+		<file href="02-another_day_at_the_office-puzzle.pdf"/>
+		<solution href="02-another_day_at_the_office-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Roller Derby Girls</title>
+		<file href="03-roller_derby_girls-puzzle.doc"/>
+		<solution href="03-roller_derby_girls-solution.doc"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Bluff Ball</title>
+		<file href="04-bluffball-puzzle.pdf"/>
+		<solution href="04-bluffball-solution.pdf"/>
+	</puzzle>
+	
+</PPMonth>
