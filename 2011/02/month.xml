@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2011</year>
+	<month>2</month>
+	<title>February 2011 Puzzles</title>
+	<location>
+		<puzzle>
+			<title>Pickup Lines</title>
+			<file href="00-location-puzzle.txt"/>
+			<hint>Maybe the right combinations will add up to something that makes sense...</hint>
+			<hint>Shifting a LETTER forward in the alphabet by a certain NUMBER will yield a new letter.</hint>
+			<hint>"Do you believe in love at first sight?" (F) + "Or do you want me to walk by again?" (6) = L</hint>		
+			<hint>Hint 4</hint>
+			<hint>Solution displayed to the player</hint>
+			<solution href="00-location-solution.html" />
+		</puzzle>
+		<answerword>luckylabse</answerword>
+	</location>
+	
+	<puzzle>
+		<title>Gifts</title>
+		<file href="01-gifts-puzzle.pdf"/>
+		<solution href="01-gifts-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Transportation</title>
+		<file href="02-transportation-puzzle.pdf"/>
+		<solution href="02-transportation-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Dinner</title>
+		<file href="03-dinner-puzzle.pdf"/>
+		<solution href="03-dinner-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>A Movie</title>
+		<file href="04-a_movie-puzzle.pdf"/>
+		<solution href="04-a_movie-solution.doc"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Meta</title>
+		<file href="05-meta-puzzle.pdf"/>
+		<solution href="05-meta-solution.pdf"/>
+	</puzzle>
+	
+</PPMonth>
