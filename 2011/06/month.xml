@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2011</year>
+	<month>6</month>
+	<title>June 2011 Puzzles</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>State Flags</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>&lt;http://en.wikipedia.org/wiki/Flags_of_the_U.S._states&gt;</hint>
+			<hint>Set 1: Alaska and South Carolina
+
+Set 2: Missouri and South Carolina</hint>
+			<hint>The flags in Set 1 have a color in common.
+
+The flags in Set 2 have an object in common.</hint>		
+			<hint>The solution is BLUE MOON</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>bluemoon</answerword>
+	</location>
+	
+	<puzzle>
+		<title>All Around the World</title>
+		<file href="01-all_around_the_world-puzzle.pdf"/>
+		<solution href="01-all_around_the_world-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Riddle Me This</title>
+		<file href="02-riddle_me_this-puzzle.pdf"/>
+		<solution href="02-riddle_me_this-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Team Spirit</title>
+		<file href="03-team_spirit-puzzle.pdf"/>
+		<solution href="03-team_spirit-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>World Map</title>
+		<file href="04-world_map-puzzle.pdf"/>
+		<solution href="04-world_map-solution.pdf"/>
+	</puzzle>
+	
+</PPMonth>

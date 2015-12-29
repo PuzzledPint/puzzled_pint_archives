@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2011</year>
+	<month>4</month>
+	<title>April 2011 Puzzles</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Condiments</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>The condiments on the plate are trying to tell you something.</hint>
+			<hint>The message in the condiments spells "connect seeds"</hint>
+			<hint>If you look closely, each type of seed is associated with a letter on the plate.  They share the same order.</hint>		
+			<hint>The solution is CASSIDYS</hint>
+			<solution>The condiments on the plate are letter-shaped. They spell out CONNECT SEEDS. Some of the letters on the plate have a small symbol next to or on them. The corresponding symbols on the bun, when connected (like a connect-the-dots), spell out CASSIDYS.</solution>
+		</puzzle>
+		<answerword>cassidys</answerword>
+	</location>
+	
+	<puzzle>
+		<title>No Taxation Without Aggravation</title>
+		<file href="01-no_taxation-puzzle.pdf"/>
+		<solution href="01-no_taxation-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Secret Sauce</title>
+		<file href="02-secret_sauce-puzzle.pdf"/>
+		<solution href="02-secret_sauce-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Condiments Math</title>
+		<file href="03-condiments_math-puzzle.pdf"/>
+		<solution href="03-condiments_math-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Burger Builder</title>
+		<file href="04-burger_builder-puzzle.pdf"/>
+		<solution href="04-burger_builder-solution.pdf"/>
+	</puzzle>
+	
+</PPMonth>

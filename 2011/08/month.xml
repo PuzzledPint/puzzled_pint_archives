@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2011</year>
+	<month>8</month>
+	<title>August 2011 Puzzles</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Round and Round</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>Row 5 has already been filled in.  Do you see any similarities between the words in the first two columns?</hint>
+			<hint>Higlight the line below to see a list of words in the first column.</hint>
+			<hint>In the second column, each word is an anagram of the word in the first column on the same row, with one letter removed.  (Need help anagramming?  Try a web search for each clue phrase!)</hint>		
+			<hint>The removed letters spell out the location!</hint>
+			<hint>The solution is LUCKY LAB NW</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>luckylabnw</answerword>
+	</location>
+	
+	<puzzle>
+		<title>Crop Circles</title>
+		<file href="01-crop_circles-puzzle.pdf"/>
+		<solution href="01-crop_circles-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Google +</title>
+		<file href="02-google_plus-puzzle.pdf"/>
+		<solution href="02-google_plus-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Hen House</title>
+		<file href="03-hen_house-puzzle.pdf"/>
+		<solution href="03-hen_house-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>!MISSING! -- Photographs -- !MISSING!</title>
+		<notes>This puzzle is missing from the archives.</notes>
+		<file href="04-photographs-missing-puzzle.txt"/>
+		<solution>This puzzle is missing from the archives.</solution>
+	</puzzle>
+	
+</PPMonth>

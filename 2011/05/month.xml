@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2011</year>
+	<month>5</month>
+	<title>May 2011 Puzzles</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Cribbage</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>Remember: pone (non-dealer) counts first, but dealer gets the crib. All face cards are value 10, and aces are value 1 &amp; never high!</hint>
+			<hint>This Cribbage scoring chart may be helpful: &lt;http://cribbage.wordpress.com/2008/06/11/cribbage-scoring-aid/&gt;</hint>
+			<hint>Here are all the card combinations you should score in each hand:
+
+| Bill's hand                                                  | Ted's hand                                          |
+|--------------------------------------------------------------|-----------------------------------------------------|
+| 3 of Kind + Pair                                             | Crib is His Nobs                                    |
+| (Hand is pair)+(Crib is 15 + His Nobs)                       | seven 15s + 3 of Kind + Pair                        |
+| His Nobs                                                     | (Hand is 15 + flush) + (Crib is  15 + Double Run)   |
+| (hand is double run + two 15s) + (Crib is 15)                | Double run + His Nobs                               |
+| six 15s + 3 of Kind + pair                                   | Crib is His Nobs                                    |
+| (Hand is double run + a 15) + (Crib is 3-card run)           | double double run + two 15s                         |
+| His Nobs                                                     | (Hand is one 15) + (crib is pair)                   |
+| (Hand is six 15s + 3 of kind) + (Crib is 3-card run + 2 15s) | 4-card Flush, 3-card run, single 15                 |
+| Triple run                                                   | Hand is four-card double run + two 15s              |
+| (Hand is three 15s) + (Crib is double run + two 15s)         | 3-card run + two 15s                                |
+| Double run + His nobs                                        | (Hand is 5-card run + 2 15s) + (Crib is 3-card run) |
+| Doesn't get to count!                                        | Triple + three 15s                                  |
+</hint>		
+			<hint>The ordered letters are: HA VE AP IN TA TM AD IS ON GR IL L</hint>
+			<hint>The solution tells you to: have a pint at MADISON GRILL</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>madisongrill</answerword>
+	</location>
+	
+	<puzzle>
+		<title>Apples to Apples</title>
+		<file href="01-apples_to_apples-puzzle.pdf"/>
+		<solution href="01-apples_to_apples-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Battleship</title>
+		<file href="02-battleship-puzzle.pdf"/>
+		<solution href="02-battleship-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Boggletris</title>
+		<file href="03-boggletris-puzzle.pdf"/>
+		<solution href="03-boggletris-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Clue</title>
+		<file href="04-clue-puzzle.pdf"/>
+		<solution href="04-clue-solution.pdf"/>
+	</puzzle>
+
+</PPMonth>
