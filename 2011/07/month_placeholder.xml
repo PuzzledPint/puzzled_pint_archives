@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2011</year>
+	<month>7</month>
+	<title>Puzzled Pint Pub Progression</title>
+	<notes>#One Year Anniversary Puzzle Hunt
+
+July is the one year anniversary of Puzzled Pint! Instead of our regular monthly Tuesday event, the Puzzled Pint Pub Progression (P4) afternoon pub crawl will stop by various bars, with puzzles at each.
+
+Details are still being worked out, but save the date now: Saturday, July 23rd! The event will start at 1:30 pm. End time depends on puzzling time, but no later than 6pm.
+
+If you know you're coming, please RSVP at the Facebook event page so we can get a headcount!</notes>
+<!--
+	<location>
+		<puzzle>
+			<title>Title Here</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>Hint 1</hint>
+			<hint>Hint 2</hint>
+			<hint>Hint 3</hint>		
+			<hint>Hint 4</hint>
+			<hint>Solution displayed to the player</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>bowlingalley</answerword>
+	</location>
+	
+	<puzzle>
+		<title>Title Here</title>
+		<file href="01-title_here-puzzle.pdf"/>
+		<hint>Hint 1</hint>
+		<hint>Hint 2</hint>
+		<hint>Hint 3</hint>
+		<hint>Hint 4</hint>
+		<solution href="01-title_here-solution.pdf"/>
+	</puzzle>
+	
+-->
+</PPMonth>

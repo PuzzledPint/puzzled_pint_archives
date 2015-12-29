@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2011</year>
+	<month>9</month>
+	<title>September 2011 Puzzles</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Sun</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>The crossword answers are:
+
+- 1a. tire
+- 1b. earmuff
+- 2a. button
+- 2b. novas
+- 3a. optic
+- 3b. cigars
+- 4a. column
+- 4b. nails
+- 5a. navel
+- 5b. legume
+- 6a. wheel
+- 6b. loaves</hint>
+			<hint>Did you notice the "meet us here" slices?</hint>
+			<hint>The solution is ROGUE</hint>		
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>rogue</answerword>
+	</location>
+	
+	<puzzle>
+		<title>Aliens Retreat</title>
+		<file href="01-aliens_retreat-puzzle.pdf"/>
+		<solution href="01-aliens_retreat-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>NASA</title>
+		<file href="02-NASA-puzzle.pdf"/>
+		<solution href="02-NASA-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Spatial Delivery</title>
+		<file href="03-spatial_delivery-puzzle.pdf"/>
+		<solution href="03-spatial_delivery-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Trek</title>
+		<file href="04-trek-puzzle.pdf"/>
+		<hint href="04-trek-hint01.pdf"/>
+		<solution href="04-trek-solution.pdf"/>
+	</puzzle>
+	
+</PPMonth>
