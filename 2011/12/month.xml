@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2011</year>
+	<month>12</month>
+	<title>Holiday Office Party</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Party Play List</title>
+			<file href="00-location-puzzle.mp3"/>
+			<hint href="00-location-hint01.jpg"/>
+			<hint>Can you identify all nine different songs?  (Titles only; artist is not important.)</hint>
+			<hint>Did you try separating the left and right channels?</hint>		
+			<hint>Have you tried looking at just the first letters of the song titles?</hint>
+			<hint>Data Verification:
+
+1. Blue Christmas (LEFT)
+2. I Saw Three Ships (LEFT)
+3. Twelve Days of Christmas (LEFT)
+4. Everywhere (RIGHT)
+5. Toyland (LEFT)
+6. Nuttin' for Christmas (RIGHT)
+7. Englishman in New York (LEFT)
+8. Rudolph the Red-Nosed Reindeer (LEFT)
+9. Deck the Halls (RIGHT)</hint>
+			<hint>If you have an answer, but don't know where the bar is: have you tried doing a web search for "[answer] pub portland"?</hint>
+			<hint>The answer is BITTER END</hint>
+			<solution href="00-location-solution.txt" />
+		</puzzle>
+		<answerword>bitterend</answerword>
+	</location>
+	
+	<puzzle>
+		<title>Decorating in the Fold</title>
+		<file href="01-decorating_in_the_fold-puzzle.pdf"/>
+		<solution href="no_data.txt"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Gift Exchange</title>
+		<file href="02-gift_exchange-puzzle.pdf"/>
+		<solution href="no_data.txt"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Beers</title>
+		<file href="03-beers-puzzle.pdf"/>
+		<solution href="03-beers-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Photocopies</title>
+		<file href="04-photocopies-puzzle.pdf"/>
+		<solution href="04-photocopies-solution.pdf"/>
+	</puzzle>
+	
+</PPMonth>

@@ -31,3 +31,6 @@ Text fields should be considered [Github-flavored markdown](https://help.github.
 occasionally make use of links, bold, italics, tables, and occasional code-blocks.
 
 The hint file `./2015/06/00-location-hint1.html` hotlinks images on snout.org.
+
+December 2011 is missing some solutions.
+
