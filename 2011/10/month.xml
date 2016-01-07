@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2011</year>
+	<month>10</month>
+	<title>School</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Entrance Exam</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint href="00-location-hint1.pdf"/>
+			<hint>Question 37 in the Placement Test has a grid with coordinates.  Use the part of questions 1-36 in parentheses to fill in the coordinates.  For example, the end of question 5 is (D2), which can be matched to a coordinate.</hint>
+			<hint>In question 1, parenthetical instructions are (+1, F4), and the solution is A.  If you treat letters as numbers A = 1.  Following the parenthetical instructions, add 1+1, translate back to letters, and then fill that information into place F4 on the grid.</hint>		
+			<hint>The solution is MCMENAMINS KENNEDY SCHOOL BOILER ROOM BAR</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>mcmenaminskennedyschoolboilerroombar</answerword>
+	</location>
+	
+	<puzzle>
+		<title>Historical Penmanship</title>
+		<file href="01-historical_penmanship-puzzle.pdf"/>
+		<solution href="01-historical_penmanship-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Journalism</title>
+		<file href="02-journalism-puzzle.pdf"/>
+		<solution href="02-journalism-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Math</title>
+		<file href="03-math-puzzle.pdf"/>
+		<solution href="03-math-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Final Exam</title>
+		<notes>Each team was also provide with a Scantron answer sheet for this puzzle. You can download [a page of three](04-final_exam-scantron.pdf).</notes>
+		<file href="04-final_exam-puzzle.pdf"/>
+		<solution href="04-final_exam-solution.pdf"/>
+	</puzzle>
+	
+</PPMonth>

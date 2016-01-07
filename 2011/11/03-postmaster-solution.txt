@@ -1,0 +1,31 @@
+Notice that some letters in the words on the left and right edge of each postcard are bolded.
+
+You can line up the green and red blocks on different postcards to make new words with the bolded letters:
+
+EM + PLOY
+SA + KE
+RE + PRESENT
+MOR + AL
+GRE + EN
+PRO + VE
+LI + NE
+VO + TE
+
+Look at the word cloud on the back (it's the same on every postcard).  Some of the words are nonsense, made from the leftover letters of the words used above (e.g., "salmpers").  The colored words contain the words above as substrings:
+
+NAME-sake
+A-moral
+BELT-line
+green-WAY
+DE-vote
+CO-employ
+prove-R
+represent-ATION
+
+Sorted in rainbow order (as shown in the "Full Spectrum Voters" logo), and taking just the extra letters, produces the message:
+
+NAME A BELTWAY DECORATION
+
+Final answers may vary: "Washington Monument," "flags," "Smithsonian," "Lincoln Memorial," etc.
+
+###

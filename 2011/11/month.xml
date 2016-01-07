@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2011</year>
+	<month>11</month>
+	<title>Elections</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Political Books</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>Did you hear about [Condi's new book](http://www.amazon.com/No-Higher-Honor-Memoir-Washington/dp/030758786X/)?</hint>
+			<hint>The authors of each book have been modified.  If you link the author to his/her actual book, the fake author of that book to the fake author's actual book, etc. you can chain the 15 books together.</hint>
+			<hint href="00-location-hint03.pdf"/>
+			<hint>Notice the stars on all the book covers?</hint>		
+			<hint>Try using the stars to index.  (Numbers are sometimes used for indexing letters. Indexing the number 5 into the word PETUNIA produces the 5th letter, N.)</hint>
+			<hint>Chain the books together by actual author.  Then, use the stars on each book cover to index into the book's title.</hint>
+			<hint>The solution is MAUI'S ON WILLIAMS</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>mauisonwilliams</answerword>
+	</location>
+	
+	<puzzle>
+		<title>Fundraiser</title>
+		<file href="01-fundraiser-puzzle.pdf"/>
+		<solution href="01-fundraiser-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Slogan Writer</title>
+		<file href="02-slogan_writer-puzzle.pdf"/>
+		<hint href="02-slogan_writer-hint01.pdf"/>
+		<solution href="02-slogan_writer-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Postmaster</title>
+		<file href="03-postmaster-puzzle.pdf"/>
+		<solution href="03-postmaster-solution.txt"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Graphic Designer</title>
+		<file href="04-graphic_designer-puzzle.pdf"/>
+		<solution href="04-graphic_designer-solution.pdf"/>
+	</puzzle>
+	
+</PPMonth>
