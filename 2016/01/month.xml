@@ -1,0 +1,122 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2016</year>
+	<month>01</month>
+	<title>Crime Scene</title>
+	<notes>Thanks to Cathy and Tom Saxton (Seattle Eastside Game Control) for writing all of this month's puzzles!</notes>
+	<location>
+		<puzzle>
+			<title>Suspicious Call</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>Look at the Caller's statements only. The 911 Operator's text is irrelevant.</hint>
+			<hint>Each of the Caller's statements encodes a single word. Try looking at some of the shorter Caller statements. (The next hint reveals the first word of the solution phrase.)</hint>
+			<hint>Each word in a Caller's statement contributes its first letter to the answer. The first word of the solution phrase is "help." The complete phrase will include the name of a fictitious location.</hint>		
+			<hint>The solution is: HELP ROBBERY AT WEST NINTH PUB</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>westninthpub</answerword>
+	</location>
+	
+	<puzzle>
+		<title>Connecting the Dots</title>
+		<file href="01-connecting_the_dots-puzzle.pdf"/>
+		<hint>Look for table numbers that match the number of possible directions. A table in the corner can connect in only three directions, so a corner table with a 3 on it must make all possible connections. Same for perimeter tables with a 5, and interior tables with an 8. Start by drawing those lines.</hint>
+		<hint>As lines are drawn, paths are blocked, which limits how other tables can connect.</hint>
+		<hint>Mark tables (e.g. by shading) when they have all their connections. This will also limit connections from adjacent tables, helping identify their connections.</hint>
+        <hint>Once all the lines are drawn, you will be able to read a phrase. (The next hint explains how.)</hint>
+        <hint>Read the letters that have not been "crosssed out" by lines connecting tables. That phrase gives you further instructions. The next hint will help decode that phrase.</hint>
+        <hint>The phrase explains which question you're answering, but you'll need to complete the referenced puzzle before extracting your answer.</hint>
+		<solution href="01-connecting_the_dots-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Looking at Evidence</title>
+		<file href="02-looking_at_evidence-puzzle.pdf"/>
+        <hint>The first step is to match up pets with their owners. The flavor text hints at how with the phrases "they've been given names" and "fit in as part of their families."</hint>
+        <hint>For matching pets and owners, you'll need to consider the animal's name and the family's name (not individual owner names).</hint>
+        <hint>How can a name be "in" another name? (The next hint reveals how.)</hint>
+        <hint>Look for the letters of a pet's name in the family name on the pet's picture, e.g. NAN is in DUNCAN.</hint>
+        <hint>After you've matched up the pets and owners, you can work on extracting a phrase. The flavor text hints at how with the phrases "all the members," "characteristic," and "species."</hint>
+        <hint>You will need to identify each species. (The next hint provides some help on that.)</hint>
+        <hint>The flavor text includes some species. The pictures are arranged in alphabetical order by species.</hint>
+        <hint>You will get one letter ("character") from each pet. Specifically, it will come from the species name.</hint>
+        <hint>How can "all the members" of a family help you pick a letter? Note: the individual family member names aren't relevant. (The next hint reveals how to get the letter.)</hint>
+        <hint>Use the number of family members as an index into the species name, e.g. the COW is owned by three people, so take the letter W.</hint>
+        <hint>Read the letter from each pet species to get a phrase with further instructions. The next hint will help decode that phrase.</hint>
+        <hint>The phrase explains which question you're answering, but you'll need to complete the referenced puzzle before extracting your answer.</hint>
+        <hint>The referenced puzzle is Connecting the Dots (connecting tables). Wait to read the next hint until you have finished that puzzle.</hint>
+        <hint>Which tables could be viewed in a way that shows a semaphore letter? (What property do all semaphore letters have in common?)</hint>
+        <hint>Semaphore letters all have two flags; look at the tables with two connections.</hint>
+		<solution href="02-looking_at_evidence-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Putting the Pieces Together (US-letter paper)</title>
+		<file href="03-putting_the_pieces_together-puzzle.pdf"/>
+		<hint>The first step is to assemble the tangrams. Tips:
+
+- Look for where you can place the two large triangles in each image.
+- Sketch lines on the image silhouettes.
+- Use the given parallelogram orientations (page 2) to help build images.
+
+(The next hint reveals which image uses each parallelogram.)</hint>
+        <hint>The house on the cliff is in the upper left. The man is in the upper right. The ribbon is in the lower left. The chicken is in the lower right.</hint>
+        <hint>Click the next hint to view the placement of one tangram piece in each image.</hint>
+        <hint href="03-putting_the_pieces_together-hint.gif" />
+        <hint>After drawing the tangram pieces for each image, you need to get a phrase. The flavor text hints at how with the phrase "you can find answers when you see how the pieces come together."</hint>
+        <hint>Look at the areas where tangram pieces "come together."</hint>
+        <hint>Read the letters on the lines that are shared by adjacent tangram pieces, not the perimeters of all the pieces.</hint>
+        <hint>Read left to right, top to bottom, to get a phrase with further instructions. The next hint will help decode that phrase.</hint>
+        <hint>The phrase explains which question you're answering, but you'll need to complete the referenced puzzle – and follow this phrase's instructions – before extracting your answer.</hint>
+        <hint>In this phrase, the word "feels" is hinting at the decoding technique. Look at the marked letters in the referenced puzzle.</hint>
+        <hint>"Feels" is hinting at using Braille to read the marked letters in the referenced puzzle.</hint>
+		<solution href="03-putting_the_pieces_together-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Putting the Pieces Together (international A4 paper)</title>
+        <notes>This is a variation of "Putting the Pieces Together" that is formatted for A4 paper</notes>
+		<file href="03-putting_the_pieces_together-A4-puzzle.pdf"/>
+		<solution href="03-putting_the_pieces_together-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Searching for Clues</title>
+		<file href="04-searching_for_clues-puzzle.pdf"/>
+        <hint>While most of the "clues" you find will fit in only one place, there are some that could go in multiple locations (e.g. 5- and 6-letter words). The answers are ordered to help disambiguate that. (The next hint specifies how.)</hint>
+        <hint>Words and phrases appear in alphabetical order in the list. (The next hint lists the first letter for each answer.)</hint>
+        <hint>The first letters for answers are: B B B C E F G H K O P P S T</hint>
+        <hint>Transcribe letters to the spaces in the box below the grid to get a phrase with further instructions. The next hint will help decode that phrase.</hint>
+        <hint>You'll need to complete the referenced puzzle before extracting your answer.</hint>
+        <hint>In the referenced puzzle, you'll need the last names in the order they appear when matched with the captions. Following the instructions in this phrase will reveal a final phrase that will tell you which question is addressed and what its answer is.</hint>
+		<solution href="04-searching_for_clues-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Wrapping up the Case (meta puzzle)</title>
+		<file href="05-wrapping_up_the_case_meta-puzzle.pdf"/>
+        <hint>Write the answers you've found for what, when, why, and how (1-2 words each) in the blanks for reference. Refer to those answers when evaluating each statement, and mark the ones that are true.</hint>
+        <hint>The flavor text hints at how to extract an answer: "Mark the ones that are true, and you’ll be able to zero in on the culprit." Check your Code Sheet to see what encoding would apply.</hint>
+        <hint>Use binary. Note that "ones...are true."</hint>
+        <hint>Where in this puzzle set have you seen a name corresponding to that description?</hint>
+        <hint>The name can be found in the Looking at Evidence puzzle.</hint>
+		<solution href="05-wrapping_up_the_case_meta-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Appetizer (bonus puzzle)</title>
+		<file href="06-appetizer-puzzle.pdf"/>
+		<solution href="06-appetizer-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Dessert (bonus puzzle)</title>
+		<file href="07-dessert-puzzle.pdf"/>
+		<solution href="07-dessert-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+	<answerSheetSolution href="answersheet-solution.pdf"/>
+</PPMonth>

@@ -1,4 +1,4 @@
-<!ELEMENT PPMonth (year,month,title,notes?,location,puzzle+,allPuzzles?,answerSheet?,answerSheetSolution?)>
+<!ELEMENT PPMonth (year,month,title,notes?,location,puzzle+,allPuzzles?,answerSheet*,answerSheetSolution?)>
 
 <!ELEMENT year (#PCDATA)>      <!-- 4-digit year, e.g. 2015 -->
 <!ELEMENT month (#PCDATA)>     <!-- 2-digit month, e.g. 02 -->
@@ -22,7 +22,7 @@
 <!ELEMENT allPuzzles EMPTY>
 <!ATTLIST allPuzzles href CDATA #IMPLIED>
 
-<!ELEMENT answerSheet EMPTY>
+<!ELEMENT answerSheet (#PCDATA)>
 <!ATTLIST answerSheet href CDATA #IMPLIED>
 
 <!ELEMENT answerSheetSolution EMPTY>

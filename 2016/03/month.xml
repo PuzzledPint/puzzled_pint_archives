@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2016</year>
+	<month>3</month>
+	<title>Comic Book Mystery</title>
+	<notes>Thanks to Portland regular Andrea Blumberg for writing this month's puzzles and story!  Beautiful artwork from Graeme McMillan.  Special thanks to Rick Rubenstein. 
+
+Like Andrea's puzzles as much as we do?  Check out the amazing [Princess Bride puzzle set](http://www.puzzledpint.com/puzzles/may-2014/) she wrote for the May 2014 Puzzled Pint or her [Mythology puzzle set](http://www.puzzledpint.com/puzzles/march-2015/) from March 2015.
+
+Printing instructions:
+
+- Print 1a on the back of 1b, and 2a on the back of 2b.
+- Choose “shrink to fit” and make sure that all pages (including the magnifying glasses
+page) are shrunk by the same percentage.
+- Page orientations:
+    - 1a – “Dead Drunk” is at the top of the page
+    - 1b – The page number “1” in the circle is at the top left of the page
+    - 2a – The page number “2” in the circle is at the top right of the page
+    - 2b – The page number “3” in the circle is at the top left of the page
+- Fold into a booklet, with "Dead Drunk" as the cover and the dartboard on the inside
+spread.
+- If you have a duplex printer, you can just print the “pages all in one file” pdf and it
+should print them on the correct sides automatically. Remember to choose “shrink to
+fit” and shrink the magnifying glasses sheet by the same amount.
+- Another good option is to have the pages printed at a Fed Ex, UPS store, or similar
+printing shop. They will print, fold and staple them for about $.30 per booklet (Fed Ex)
+or $.20 per booklet (UPS). (Prices checked in Portland, may be different where you
+are). Give them the “pages all in one file” version.
+- Using a laser printer is preferable to an ink jet, if possible, because there will be less
+bleed-through.
+	</notes>
+	<location>
+		<puzzle>
+			<title>Title Here</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>Group all the similar bottle label shapes.</hint>
+			<hint>Anagram words within groups.</hint>
+			<hint>Put groups in order by number of sides in shapes.</hint>		
+			<hint>The solution is THREE SHEETS TO THE WIND.</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>threesheetstothewind</answerword>
+	</location>
+	
+	<puzzle>
+		<title>Comic Book (all puzzles, including meta, US-Letter)</title>
+		<file href="01-allpuzzles.pdf"/>
+		<solution>See individual puzzle entries for solutions</solution>
+	</puzzle>
+	<puzzle>
+		<title>Comic Book (all puzzles, including meta, A4)</title>
+		<file href="01-allpuzzles-A4.pdf"/>
+		<solution>See individual puzzle entries for solutions</solution>
+	</puzzle>
+
+	<puzzle>
+		<title>Notebook</title>
+		<solution href="01-notebook-solution.pdf"/>
+	</puzzle>
+    	
+	<puzzle>
+		<title>Fingerprints</title>
+		<solution href="02-fingerprints-solution.pdf"/>
+	</puzzle>
+    	
+	<puzzle>
+		<title>Magnifying Glass</title>
+		<solution href="03-magnifying_glass-solution.pdf"/>
+	</puzzle>
+    	
+	<puzzle>
+		<title>Cat's Message (meta puzzle)</title>
+		<solution href="04-cats_message-solution.pdf"/>
+	</puzzle>
+    	
+	<puzzle>
+		<title>Field of Screams (bonus puzzle)</title>
+		<file href="05-field_of_screams-puzzle.pdf"/>
+		<solution href="05-field_of_screams-solution.pdf"/>
+	</puzzle>
+    	
+	<allPuzzles href="01-allpuzzles.pdf"/>
+	<answerSheet href="answersheet-beginner-letter.pdf">Answer sheet, beginner version, with hints where puzzles are found in the comic book (US-Letter)</answerSheet>
+	<answerSheet href="answersheet-beginner-A4.pdf">Answer sheet, beginner version, with hints where puzzles are found in the comic book (A4)</answerSheet>
+	<answerSheet href="answersheet-advanced-letter.pdf">Answer sheet, advanced (US-Letter)</answerSheet>
+	<answerSheet href="answersheet-advanced-A4.pdf">Answer sheet, advanced (A4)</answerSheet>
+    <answerSheet href="magnifyingglass-letter.pdf">Magnifying glass, used for solving (US-Letter)</answerSheet>
+    <answerSheet href="magnifyingglass-A4.pdf">Magnifying glass, used for solving (A4)</answerSheet>
+</PPMonth>

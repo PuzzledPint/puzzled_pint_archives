@@ -1,0 +1,194 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2016</year>
+	<month>2</month>
+	<title>Shel Silverstein</title>
+	<notes>Thanks to Jimmy Williams, Sandor Weisz, Sarah W., Veronica Berns, and Wil Z. of [Chicago Puzzled Pint](https://www.facebook.com/PuzzledPintChicago) Game Control for writing this month's puzzles!</notes>
+	<location>
+		<puzzle>
+			<title>Title Here</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>There seems to be various strands of spaghetti.</hint>
+			<hint>Follow each strand from start to finish.</hint>
+			<hint>Each strand seems to be spelling something.</hint>		
+			<hint>Each strand is almost a type of pasta dish.</hint>
+			<hint>Each strand is missing one letter.</hint>
+            <hint>The missing letter can be scratched off from the confetti, left over letters spell something.</hint>
+            <hint>The solution is POET.</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>poet</answerword>
+	</location>
+	
+	<puzzle>
+		<title>Eighteen Flavors</title>
+		<file href="01-eighteen_flavors-puzzle.pdf"/>
+        <hint>Cut out the ice cream scoops and put them in groups according to the poem.</hint>
+        <hint>Pay attention to all of the clues you are given! (point out the "produce aisle" line).</hint>
+        <hint>Repeating flavors will give you a hint of how the groups chain together.</hint>
+        <hint>The top scoop is the only flavor without a price tag on it.</hint>
+        <hint>The bottom scoop is the only one not mentioned in a group.</hint>
+        <hint>The order is:
+
+- COCONUT
+- BUTTERSCOTCH
+- APPLE RIPPLE
+- TOASTEDALMOND
+- BRANDY PEACH
+- VANILLA DIP
+- BOYSENBERRY
+- COFFEE
+- PUMPKIN
+- CHOCOLATE
+- LIME
+- CARAMEL CREAM
+- LEMON
+- ROCKY ROAD
+- CHERRY
+- BUTTERBRICKLE
+- FUDGE BANANA
+- MOCHA CHIP</hint>
+        <hint>The price tags will help you turn the list of flavors into a phrase!</hint>
+        <hint>Take the Nth letter of the ice cream flavor to get a message.</hint>
+        <hint>The message is "Three-in-one ice cream"..... What ice cream do you know that has three flavors in one?</hint>
+		<solution href="01-eighteen_flavors-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Importnt?</title>
+		<file href="02-importnt-puzzle.pdf"/>
+        <hint>Each clue is missing ‘a’s.</hint>
+        <hint>Each answer follows a pattern.</hint>
+        <hint>The pattern is: two words…</hint>
+        <hint>… where the first word starts with G and …</hint>
+        <hint>… has a single ‘a’ in it.</hint>
+        <hint>Clue solutions:
+- great gatsby
+- graph paper
+- glass eye
+- gall bladder
+- great wall
+- grand prix
+- geneva convention
+- glam rock
+- grand piano
+- grand canyon
+- great britain
+- galileo galilei
+- gas station
+- granny smith
+- game point
+- garter snake</hint>
+        <hint>Once you have all phrases, use the position of the ‘a’ in the first word…</hint>
+        <hint>… as an index into the second word.</hint>
+        <hint>The extraction is: SPELL INCANTATION, which is a hint for…</hint>
+        <hint>The answer is ABRACADABRA, a word that would, in fact, be very different without the As.</hint>
+		<solution href="02-importnt-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Band-Aids</title>
+		<file href="03-band_aids-puzzle.pdf"/>
+        <hint>Count the lines in the poem. Count the number of body parts in the Shel poem.</hint>
+        <hint>Each line in the poem corresponds with a body part in the Shel poem.</hint>
+        <hint>Many of the words are very peculiar: gemelli, placeholder, flambeau…</hint>
+        <hint>Think: poetry</hint>
+        <hint>One word in each line rhymes with a body part from the Shel poem.</hint>
+        <hint>Clue Solutions:
+
+- linger → finger
+- shipwreck → neck
+- thin → chin
+- shake'll → ankle
+- flambeau → elbow
+- cappuccinos → toes
+- gemelli → belly
+- chai → eye
+- feminist → wrist
+- quantum → bottom
+- oui → knee
+- compose → nose
+- appeal → heel
+- placeholder → shoulder
+- hereby → thigh
+- instead → forehead</hint>
+        <hint>The number of band-aids on each body part is important.</hint>
+        <hint>The number of band-aids on each body part is an index.</hint>
+        <hint>Use the number of band-aids on each body part as an index into the word that rhymes with it. E.g. "Nine on my toes" => CAPPUCCINOS => N.</hint>
+        <hint>TOES and NOSE both rhyme with CAPPUCCINOS and COMPOSE, but only CAPPUCCINOS can match with 9 ON MY TOES, since COMPOSE isn't long enough (i.e. it doesn't have 9 letters).</hint>
+        <hint>Once you have the 16 extracted letters, arrange them in the order of the original poem.</hint>
+        <hint>EYE and THIGH both rhyme with CHAI and HEREBY, so their match-ups are ambiguous. Try swapping their answers if you don't quite have the answer yet.</hint>
+		<solution href="03-band_aids-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Fourth Place</title>
+		<file href="04-fourth_place-puzzle.pdf"/>
+        <hint>Some items seem to have things in common. Can you group them?</hint>
+        <hint>The sets should seem similarly-sized. How many in each set?</hint>
+        <hint>All items can be divided into sets of four items sharing something in common. Some things these commonalties relate to: what the things are made of, their initial sounds, an encoding. Notice anything interesting about any of the sets? Keep the poem in mind.</hint>
+        <hint>There are only three "winners" in each contest and one "loser". After you've identified some of the "losers" you might notice something about them.</hint>
+        <hint>Each set of four has three items that have an additional thing in common and one that does not. A lot of the commonalities involve wordplay.</hint>
+        <hint>The losers all begin with a different letter. Look for a pattern there.</hint>
+        <hint>Order losers by first letter, which are all different, A-M. Then index.</hint>
+        <hint>Category Names:
+
+- Animals
+- Band names
+- Chemical elements
+- Countries that start with C
+- Foods from a Chinese restaurant
+- Length of Nme
+- Letters of the NATO Alphabet
+- Math terms
+- Phrases that contain the name of a season
+- Phrases that start with the sounds of "aisle"
+- Things that have sand
+- Traffic signs
+- Types of hats</hint>
+        <hint>Turn to the flavortext again to find index. Use an idea again in a different way.</hint>
+        <hint>Take the "fourth place" of each word to get a clue phrase. It tells you directly where to get the final answer.</hint>
+        <hint>The fourth letter of each loser taken in order of the first letters spell "ALL OF LINE FOUR".</hint>
+		<solution href="04-fourth_place-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Where the Sidewalk Ends (meta puzzle)</title>
+		<file href="05-where_the_sidewalk_ends_meta-puzzle.pdf"/>
+        <hint>Each sidewalk is a specific number of squares. How does this relate to your answers from the night?</hint>
+        <hint>Fill in each sidewalk with appropriate letters from answers skipping over the footsteps.</hint>
+        <hint>Use the foot direction to help determine a logical path of your letters.</hint>
+        <hint>Place the sidewalks over the 10 x 9 grid trying to locate your answers from the night. You can rotate pieces, but no need to flip them.</hint>
+        <hint>Each sidewalk will have extra letters that appear at the foot steps.</hint>
+        <hint>Spell out a message in order of the footsteps.</hint>
+        <hint>The letters under the footsteps spell GO ONE MORE STEP PAST.</hint>
+		<solution href="05-where_the_sidewalk_ends_meta-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Invisible Boy (bonus puzzle)</title>
+		<file href="06-invisible_boy-puzzle.pdf"/>
+        <hint>The numbers indicate the length of string(s) of shaded boxes in the row or column. Eg. (6,4) implies there will be a string of six shaded boxes, and a string of four shaded boxes, with at least one empty box between them. There could be empty boxes on either end too.</hint>
+        <hint>Ignore the letters until the very end of the puzzle</hint>
+        <hint>Finding which boxes are shaded: Start with shading the boxes you know for sure are shaded. Check out the last row, for example...</hint>
+        <hint>... and then look at the last number in each column....</hint>
+        <hint>try x-ing out boxes that are for sure empty</hint>
+        <hint>When you are finished, you should have a picture of a boy and a mouse in a house. But where is the cheese?!</hint>
+        <hint>Read the unshaded letters for a message. No need to unscramble, just read left to right and top to bottom.</hint>
+        <hint>Hidden Message:
+
+        ```
+        The cheese in this puzzle remains invisible
+        But don't let that fact make you miserable
+        Take some time to think
+        Of a cheese that stinks
+        Around Belgium it's traditional
+        ```</hint>
+        <hint>The answer is the #1 google result for stinky cheese</hint>
+		<solution href="06-invisible_boy-solution.pdf"/>
+	</puzzle>
+	
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>

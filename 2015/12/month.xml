@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2015</year>
+	<month>12</month>
+	<title>Mad Men</title>
+	<notes>Thanks to [Corby Anderson](https://twitter.com/corbya) (Bay Area Peninsula GC) and [Matt Cleinman](https://twitter.com/MattOnABicycle/) (Pittsburgh GC) for writing all of December's puzzles!  Meta-meta puzzle courtesy of [Neal Tibrewala](https://twitter.com/zyrain) (Austin GC).</notes>
+	<location>
+		<puzzle>
+			<title>Planning the Pitch</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>Rearrange the dialog to make a coherent conversation.</hint>
+			<hint>Each piece of dialog has one special word.</hint>
+			<hint>Each piece of dialog has one letter from the NATO phonetic alphabet.</hint>
+			<hint>Take the NATO letters, ordered by the proper conversation, to find the solution.</hint>
+			<hint>The solution is LETS GET LIBERATED.</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>letsgetliberated</answerword>
+	</location>
+	
+	<puzzle>
+		<title>Choosing the Contact</title>
+		<file href="01-choosing_the_contact-puzzle.pdf"/>
+		<hint>It sounds like you need to think about homophones. Think about names from that NPR show,  Car Talk.</hint>
+		<hint>You’re looking for first and last names that suit the job titles... or at least *sound* like they do.</hint>
+		<hint>Car Talk’s Russian chauffeur is Pikop Andropov.  (Pick up and drop off)</hint>
+		<hint>The numbers in parentheses say how many letters/words are in the name’s homophone.</hint>
+        <hint>If you’ve got names, then great! Now use the floor number.</hint>
+        <hint>Use the floor number as an index into the *homophone* name (e.g., into "pick up and drop off" and not into "Pikop Andropov")</hint>
+		<solution href="01-choosing_the_contact-solution.pdf"/>
+	</puzzle>
+    
+	<puzzle>
+		<title>Picking the Colors</title>
+		<file href="02-picking_the_colors-puzzle.pdf"/>
+        <hint>Figure out what letters are missing from the color names.</hint>
+        <hint>Notice that most of the colors names don’t belong in the wedge that they’re in.  Focus on those that do.</hint>
+        <hint>Go wedge by wedge. The flavor text hints what to start with.</hint>
+        <hint>The flavor text also hints to work from inside to outside.</hint>
+        <hint>Token and monopoly only figure in at the end.</hint>
+        <hint>Once you’ve filled in the boxes with missing letters, google to find out what it’s talking about.</hint>
+		<solution href="02-picking_the_colors-solution.pdf"/>
+	</puzzle>
+    
+	<puzzle>
+		<title>Selecting the Slogan</title>
+		<file href="03-selecting_the_slogan-puzzle.pdf"/>
+		<hint>You need to find the companies or products the that slogans are for. (Googling is ok)</hint>
+		<hint>The names, in alphabetical order:
+            
+- Alka Seltzer
+- Brylcreem
+- Canada Dry
+- Fisher Price
+- Hyatt
+- Listerine
+- Lufthansa
+- Max Factor
+- Nokia
+- Odeon
+- Pantene
+- Samsonite
+- Snapple
+- Tefal
+- Volvo</hint>
+		<hint>"heart, the center, the essence" should tell you what to do with each name.</hint>
+		<solution href="03-selecting_the_slogan-solution.pdf"/>
+	</puzzle>
+    
+	<puzzle>
+		<title>Signing the Talent</title>
+		<file href="04-signing_the_talent-puzzle.pdf"/>
+        <hint>Each rebus is part of a famous quote, with one word missing - represented by the question mark.</hint>
+        <hint>Each rebus's quote is from a person on the second page.</hint>
+        <hint>Insert the missing word for each person into the speech bubble on the second page.</hint>
+        <hint>Those words are a famous Muhammad Ali quote.  Like before, find the missing word.</hint>
+		<solution href="04-signing_the_talent-solution.pdf"/>
+	</puzzle>
+    
+	<puzzle>
+		<title>Making the Pitch (meta puzzle)</title>
+		<file href="05-making_the_pitch_meta-puzzle.pdf"/>
+        <hint>You’ve gathered all four elements for the solution… did you notice that you’ve actually gathered elements?</hint>
+        <hint>What do those elements go with?  Carbon would go with fiber… but what do your elements go with?</hint>
+        <hint>The flavor text hints at an order for the elements</hint>
+        <hint>Draw the lines in order, and the letters that the line crosses spell your answer.</hint>
+		<solution href="05-making_the_pitch_meta-solution.pdf"/>
+	</puzzle>
+    
+	<puzzle>
+		<title>Mixing the Drinks (bonus puzzle)</title>
+		<file href="06-mixing_the_drinks_bonus-puzzle.pdf"/>
+        <hint>Aperitifs come before a meal. Digestifs come after,</hint>
+        <hint>When the drink menu talks about “parts” it really means “letters”</hint>
+        <hint>Take n letters from the front of the bolded liqueurs for aperitifs, the end for digestifs.</hint>
+        <hint>index into the drink names by the dollar amount for the final answer.</hint>
+		<solution href="06-mixing_the_drinks_bonus-solution.pdf"/>
+	</puzzle>
+    
+	<puzzle>
+		<title>Meta-Meta (bonus puzzle using all 2015 meta puzzle answers)</title>
+        <notes>The hint for this puzzle gets you started by telling you the answers for each of the 2015 meta puzzles.</notes>
+		<file href="07-meta_meta-puzzle.pdf"/>
+		<hint href="07-meta_meta-hints.pdf" />
+		<solution href="07-meta_meta-puzzle.pdf"/>
+	</puzzle>    
+	
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>
