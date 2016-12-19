@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2016</year>
+	<month>8</month>
+	<title>Star Trek</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Character Arcs</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>This puzzle requires you to know some STAR TREK trivia [Memory Alpha](http://memory-alpha.wikia.com/wiki/Portal:People) is a good resource.</hint>
+			<hint>Each line indicates two things: a crossword-style clue followed by a STAR TREK character name.</hint>
+			<hint>The words are (in alphabetical order):
+
+- dill
+- kick
+- leotard
+- lord
+- nag
+- quirk
+- sucker
+- Tories
+- wax
+- work</hint>
+			<hint>The character names are (in alphabetical order):
+
+- Dax
+- Kirk
+- Leonard
+- Lore
+- Nog
+- Quark
+- Torres
+- Tucker
+- Will
+- Worf</hint>
+			<hint>Notice that only one letter differs between each normal word and the associated character name. In the given puzzle order, what do those letters spell?</hint>
+            <hint>TEN FORWARD (the name of the bar on the USS Enterprise, NCC-1701-D)</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>tenforward</answerword>
+	</location>
+
+	<puzzle>
+		<title>The Trouble With Tribbles</title>
+		<file href="01-trouble_with_tribbles-puzzle.pdf"/>
+		<solution href="01-trouble_with_tribbles-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Make It So</title>
+		<file href="02-make_it_so-puzzle.pdf"/>
+		<solution href="02-make_it_so-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Wormhole Alien Vision</title>
+		<file href="03-wormhole_alien_vision-puzzle.pdf"/>
+		<solution href="03-wormhole_alien_vision-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Number Theory</title>
+		<file href="04-number_theory-puzzle.pdf"/>
+		<solution href="04-number_theory-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The Final Frontier (meta puzzle)</title>
+		<file href="05-final_frontier_meta-puzzle.pdf"/>
+		<solution href="05-final_frontier_meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Alternate Dimensions (bonus puzzle)</title>
+		<file href="06-alternate_dimensions-puzzle.pdf"/>
+		<solution href="06-alternate_dimensions-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>

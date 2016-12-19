@@ -1,4 +1,4 @@
-<!ELEMENT PPMonth (year,month,title,notes?,location,puzzle+,allPuzzles?,answerSheet*,answerSheetSolution?)>
+<!ELEMENT PPMonth (year,month,title,notes?,location,puzzle+,allPuzzles*,answerSheet*,answerSheetSolution?)>
 
 <!ELEMENT year (#PCDATA)>      <!-- 4-digit year, e.g. 2015 -->
 <!ELEMENT month (#PCDATA)>     <!-- 2-digit month, e.g. 02 -->
@@ -19,7 +19,7 @@
 <!ELEMENT solution (#PCDATA)>
 <!ATTLIST solution href CDATA #IMPLIED> <!-- Solution could have both text+href, for example a textual walkthrough plus a PDF solve, but is typically just an href to a solution document -->
 
-<!ELEMENT allPuzzles EMPTY>
+<!ELEMENT allPuzzles (#PCDATA)>
 <!ATTLIST allPuzzles href CDATA #IMPLIED>
 
 <!ELEMENT answerSheet (#PCDATA)>

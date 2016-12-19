@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2016</year>
+	<month>5</month>
+	<title>Parks and Recreation</title>
+	<notes>Thanks to Seattle Puzzled Pint player Jonah Ostroff for writing all of this month's puzzles!</notes>
+	<location>
+		<puzzle>
+			<title>Name Trouble</title>
+			<file href="00-location-puzzle.pdf"/>
+    		<hint>Identify the words and names that rhyme with "Gary".</hint>
+    		<hint>Did you find "Fairey" and "Dairy"?</hint>
+    		<hint>The words are Fairey, Barry, Harry, Kerry, Dairy, Sherry, Perry, and Mary</hint>
+    		<hint>Use the arrows to shift the letters</hint>
+            <hint>First letter is "E"</hint>
+            <hint>The solution is EAGLETON</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>eagleton</answerword>
+	</location>
+
+	<puzzle>
+		<title>Treat Yo Self!</title>
+		<file href="01-treat_yo_self-puzzle.pdf"/>
+		<solution href="01-treat_yo_self-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Cones of Dunshire</title>
+		<file href="02-cones_of_dunshire-puzzle.pdf"/>
+		<solution href="02-cones_of_dunshire-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Burt Macklin: FBI</title>
+		<file href="03-burt_macklin_fbi-puzzle.pdf"/>
+		<solution href="03-burt_macklin_fbi-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Food and Stuff</title>
+		<file href="04-food_and_stuff-puzzle.pdf"/>
+		<solution href="04-food_and_stuff-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>A Pit Into a Park (meta puzzle)</title>
+		<file href="05-pit_into_a_park-puzzle.pdf"/>
+		<solution href="05-pit_into_a_park-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Entertainment 720</title>
+		<file href="06-entertainment_720-puzzle.pdf"/>
+		<solution href="06-entertainment_720-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>

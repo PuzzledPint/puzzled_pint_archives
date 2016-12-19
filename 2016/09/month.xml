@@ -1,0 +1,108 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2016</year>
+	<month>9</month>
+	<title>Rats</title>
+	<notes>Thanks to [Bryan Clair](http://math.slu.edu/~clair) (St. Louis Game Control) for writing all the puzzles this month! You can find him [on Twitter](https://twitter.com/turtlegraphics), too!  He'd like to thank Larry Hosken, Felicia Styer, Michael Goldwasser, and Jen Dumont for being super helpful from conception to completion.</notes>
+	<location>
+		<puzzle>
+			<title>Star Rats</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>These famous rats are RODDY (Flushed Away), RUFUS (Kim Possible), RIZZO (Muppets), REMY (Ratatouille), SPLINTER (Teenage Mutant Ninja Turtles), TEMPLETON (Charlotte's Web), SCABBERS (Harry Potter).</hint>
+			<hint>Note the title of the puzzle, and its format.</hint>
+			<hint>Each rat's name appears twice in the word search.</hint>
+			<hint>The solution is SINATRA.</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>sinatra</answerword>
+	</location>
+
+	<puzzle>
+		<title>Lab Rats</title>
+		<file href="01-lab_rats-puzzle.pdf"/>
+        <hint>There are five rats. Each one has a maze. Notice the decisions a rat needs to make to solve its own maze.</hint>
+        <hint>When a rat runs the other mazes, it will use the same decisions it has learned on its own maze. It should end up at a letter.</hint>
+        <hint>The rats solve using these decisions (in order one to five): Left, Left, Right. RRR. RLL. LRL. LLL.</hint>
+        <hint>You should get twenty letters. For the answer key, you want the eleven letter word at the end.</hint>
+		<solution href="01-lab_rats-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Rat Genetics</title>
+		<file href="02-rat_genetics-puzzle.pdf"/>
+        <hint>Enter answers to clues in the circles for the top and bottom strands. The number of letters for each answer is in parenthesis. Answers should be entered from top left to bottom right, and note that the "top strand" is actually below the "bottom strand" as it runs across the middle.</hint>
+        <hint>The first entries are ATOM in the top and TAP in the bottom.</hint>
+        <hint>Notice each pair of entries in the two strands is joined by connecting lines.</hint>
+        <hint>In DNA, A is always paired with T. C is always paired with G. In this puzzle, pairs of letters always go together.</hint>
+        <hint>Pairs are AT, BX, CG, DY, EI, FV, GC, IE, KW, LR, MS, NU, OP, PO, RL, SM, TA, UN, VF, WK, XB, YD.</hint>
+		<solution href="02-rat_genetics-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Missing Rats</title>
+		<file href="03-missing_rats-puzzle.pdf"/>
+        <hint>There are sixteen escaped rats, and sixteen cages. Each cage has a word in it. Match the rats with the cages, and remember that each cage is missing a rat.</hint>
+        <hint>For example, the rat that loves cheese baked with potatoes corresponds to the cage 'GIN'.</hint>
+        <hint>Each cage has a word that, when the word RAT is added, becomes another word. The new word should match one of the rat descriptions. GIN + RAT = GRATIN.</hint>
+        <hint>Here are all the rats, as they appear on the page:
+
+- RRATED
+- PIRATE
+- CALIBRATER HYDRATE
+- CHLORATE CUT RATE
+- CURATE UNRATIFIED
+- ERRATIC GRATIN
+- RATTIER RATHER
+- RATION CASTRATE
+- RATTAN BERATE</hint>
+        <hint>Each rat has a mark on its forehead. Draw this mark in that rats cage.</hint>
+        <hint>Taken in pairs, the marks in the cages spell an eight letter word. This is not the solution (you need eleven letters to fit in the answer key). Think about the theme.</hint>
+        <hint>Add the word "RAT" to give the answer.</hint>
+		<solution href="03-missing_rats-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Rat King</title>
+		<file href="04-rat_king-puzzle.pdf"/>
+        <hint>Each rat has a thought. Each thought has a number attached, and each rat has a plus/value attached. Combine these two numbers.</hint>
+        <hint>Use the combined number to index into the thought. Begin with the "stuck first" rat and read clockwise to get "CUT THEN TURN" (which is not the answer).</hint>
+        <hint>To finish, you need to make a twelfth rat appear. Scissors would be helpful here.</hint>
+        <hint>Cut out the disk and turn it three rats counterclockwise so that there are twelve rats.</hint>
+        <hint>The same indexing process as before gives the solution.</hint>
+		<solution href="04-rat_king-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Sewer Rats (meta puzzle)</title>
+		<file href="05-sewer_rats-puzzle.pdf"/>
+        <hint>You need the four answers from the previous puzzles, entered in the appropriate lines of the answer sheet: BRAINWASHED, IMMORTALITY, RATTAILFILE, WETIEDONEON. Notice that some letters are in circles.</hint>
+        <hint>Each column of four solution letters will produce one letter of the meta. Circled letters correspond to locations in the sewers.</hint>
+        <hint>Water in the sewers flows from the bars to the outlet. If a rat blocks a pipe, all bars that can no longer drain will have overflowing toilets.</hint>
+        <hint>For example, the first step has circled B, I, W. This will cause the three left side bars to flood, and also flood the top right bar.</hint>
+        <hint>Each letter is coded in braille, with the dots corresponding to bars with overflowing toilets.</hint>
+		<solution href="05-sewer_rats-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Illiterats (bonus puzzle)</title>
+		<file href="06-illiterats-puzzle.pdf"/>
+        <hint>There is one quote from each book, torn into two pieces.</hint>
+            <hint>The quotes correspond like so:
+
+- The Jungle: "There would be meat stored in great piles"
+- Dracula: "Then he began to whisper"
+- Mrs. Frisby: "We don't know where to go because we don't know what we are."
+- The Ratcatcher: "There! he cried. Now you got it!"
+- Nineteen Eighty-Four: "The mask was closing on his face. The wire brushed his cheek."
+- The Plague: "On the fourth day the rats began to come out and die"
+- Les Mis: "Monsieur?"..."The child, in consternation"</hint>
+        <hint>Rats have eaten some of the letters, two from each quote.</hint>
+        <hint>Find the missing letters from each quote, in order of how the quote reads. Put them in order by the bookshelf.</hint>
+		<solution href="06-illiterats-puzzle.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<allPuzzles href="allpuzzles-uk.pdf">UK Version</allPuzzles>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>

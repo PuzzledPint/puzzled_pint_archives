@@ -1,0 +1,200 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2016</year>
+	<month>7</month>
+	<title>Pintopia Brewery Tours</title>
+	<notes>Thanks to the [Chicago Puzzled Pint](https://www.facebook.com/PuzzledPintChicago)'s Sandor for writing all of this month's puzzles!  He also produces puzzlehunts through [the Mystery League](http://mysteryleague.com/).</notes>
+	<location>
+		<puzzle>
+			<title>My Favorite Breweries</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>You'll likely need to use the internet for this.</hint>
+			<hint>This month's theme is breweries.</hint>
+			<hint>Look up the brewery that makes each of these beers.</hint>
+			<hint>Here are the breweries, in order:
+
+- 2 Brothers
+- 3 Floyds
+- 4 Hands
+- 5 Rabbit
+- 6 Point
+- 10 Barrel
+- 11 Below
+- 21 st Amendment</hint>
+			<hint>Each brewery has a number in it.</hint>
+            <hint>Use the number in each brewery as an index into…</hint>
+            <hint>…the quote for each bear.</hint>
+            <hint>The solution is PINTOPIA.</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>pintopia</answerword>
+	</location>
+
+	<puzzle>
+		<title>Map of Pintopia</title>
+		<file href="01-full_map-puzzle.pdf"/>
+        <hint href="01-flavor_pack-hints.pdf"/>
+		<solution>Multiple puzzles are encoded into the map. Individual hints and solutions are detailed below.</solution>
+	</puzzle>
+
+	<puzzle>
+		<title>Shifty Saul's Taxy Tour</title>
+        <notes>This puzzle is distributed between the map and the answer sheet.</notes>
+        <hint>You're looking to match one brewery to each beer.</hint>
+        <hint>The brewery names all have something in common with each other — and with the name of the tour.</hint>
+        <hint>Brewery Solutions: In order, the clues match up to these breweries:
+
+- Sexy
+- Galaxy
+- Epoxy
+- Proxy
+- Foxy
+- Apoplexy
+- Orthodoxy</hint>
+        <hint>Each brewery name ends in XY. The X &amp; Y, along with the + or -, is a clue about what to do next.</hint>
+        <hint>XY is a clue about using the X and Y axes along the edges of the map.</hint>
+        <hint>Use the letter and number of each brewery's coordinate, along with the +/-, to perform a letter shift.</hint>
+		<solution href="02-shifty_saul-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Clonnie &amp; Byde's Getaway Car Tour</title>
+        <notes>This puzzle is distributed between the map and the answer sheet.</notes>
+        <hint>You're looking to make pairs of streets.</hint>
+        <hint>The name of this tour is a spoonerism for Bonnie and Clyde.</hint>
+        <hint>The first pair is Dick St. and Qwerty St.</hint>
+        <hint>… which spoonerizes to the common phrase "quick and dirty".</hint>
+        <hint>You want to pairs all 22 streets to get 11 common X AND Y phrase.</hint>
+        <hint>Street pairs:
+
+- Dick/Qwerty = Quick and Dirty
+- Tow/Shell = Show and Tell
+- Cloud/Leer = Loud and Clear
+- Putt/Cased = Cut and Paste
+- Maze/Weans = Ways and Means
+- Gene/Clerk = Clean and Jerk
+- Whack/Blight = Black and White
+- Dead/Sun = Said and Done
+- Lie/Barge = By and Large
+- Far/Tether = Tar and Feather
+- Sarte/Hole = Heart and Soul</hint>
+        <hint>Each pair of streets is a clue for a brewery whose name is related to the spoonerized phrase.</hint>
+        <hint>Write the street names in the blanks and notice which letters are shaded.</hint>
+        <hint>Brewery Solutions:
+
+- Quick and Dirty = Makeshift
+- Show and Tell = Kindergarten
+- Loud and Clear = Audibly
+- Cut and Paste = Editor
+- Ways and Means = Methods
+- Clean and Jerk = Weightlifting
+- Black and White = Desaturate
+- Said and Done = Settled
+- By and Large = On The Whole
+- Tar and Feather = Angry Mob
+- Heart and Soul = True Love</hint>
+        <hint>Taken in the order of the first column of clues, the shaded letters spell the solution.</hint>
+		<solution href="03-clonnie_byde-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Crow's Flying Helicopter Tour</title>
+        <notes>This puzzle is distributed between the map and the answer sheet.</notes>
+        <hint>The clues here are “end to end”, “a different kind of beer while in each flight” and "path.”</hint>
+        <hint>There are eight breweries on the tour, but the answer will only be seven letters.</hint>
+        <hint>You're looking to pair up breweries that are on either end of a tour leg.</hint>
+        <hint>The first leg goes from APT PUPILS to NERDGLAM.</hint>
+        <hint>For the two breweries on either end of a leg, take the last part of one and the first part of another to get a type of beer. For example, on leg one, you can find PILSNER inside APTPUPILSNERDGLAM.</hint>
+        <hint>Itineray:
+
+- Apt Pupils → Nerdglam = PILSNER
+- Nerdglam → Bermuda Gambit = AMBER
+- Bermuda Gambit → Terrible Ghost = BITTER
+- Terrible Ghost→ Outlandport = STOUT
+- Outlandport → Errata = PORTER
+- Errata → Leila = ALE
+- Leila → Germaniacs = LAGER</hint>
+        <hint>Now draw lines on the map to indicate the helicopter paths.</hint>
+        <hint>The lines will intersect with the neighborhood names at 7 different letters.</hint>
+		<solution href="04-crow_flying-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Freya's First-rate Bike Tour Solution</title>
+        <notes>This puzzle is distributed between the map and the answer sheet.</notes>
+        <hint>We're dealing with different levels, numbered 1-4. Look for breweries that might take advantage of that.</hint>
+        <hint>The breweries are nine squares apart (that is, there are eight squares of biking between them).</hint>
+        <hint>Tour Order:
+
+        - Moonwalker
+        - Star Wars Episode
+        - Major Arcanum
+        - Weekday
+        - Book of Torah
+        - Rainbow Color
+        - Son of Abraham
+        - Planet
+        - Prime</hint>
+        <hint>Each brewery is a reference to an ordinal list.</hint>
+        <hint>Use the level of the brewery to determine the item of the list.</hint>
+        <hint>Partial Solution:
+
+- Men who walked on the moon → 2 → Buzz Aldrin
+- Star Wars Episodes → 3 → Revenge of the Sith
+- Tarot Major Arcana → 4 → Emperor
+- Weekdays (starting with Monday) → 3 → Wednesday
+- Books of the Torah → 2 → Exodus
+- Colors of the rainbow → 1 → Red
+- Sons of Abraham → 2 → Isaac
+- Planets in the Milky Way → 3 → Earth
+- Prime numbers → 4 → Seven</hint>
+        <hint>Look at the first letters of each answer</hint>
+        <hint>- **B**uzz Aldrin
+- **R**eturn of the Jedi
+- **E**mperor
+- **W**ednesday
+- **E**xodus
+- **R**ed
+- **I**saac
+- **E**arth
+- **S**even</hint>
+		<solution href="05-freya_bike_tour-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Meta Solution</title>
+        <notes>This puzzle is distributed between the map and the answer sheet.</notes>
+        <hint>The four answers spell SNIP OUT COLUMN HALFS WITHOUT BREWERIES.</hint>
+        <hint>There are nine such column-halfs (each is a 1x8 strip).</hint>
+        <hint>If you cut them out from the map, you’ll notice they all have lakes and rivers.</hint>
+        <hint>By arranging the nine halves so the water lines up, it spells …</hint>
+		<solution href="06-meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>My Underground Brewery</title>
+		<file href="06-my_underground_brewery-puzzle.pdf"/>
+        <hint>Each beer has five underlined phrases, and there are five parts to each beer.</hint>
+        <hint>Each underlined phrase matches up with one of the ingredients.</hint>
+        <hint>Each beer story includes...
+
+- A word or phrase that includes the letters GRAIN
+- A word or phrase that includes the letters HHO (i.e. H20, or water)
+- A word or phrase that rhymes with “yeast”
+- A creature or thing that hops
+- An anagram of a name of a fruit</hint>
+        <hint>For each beer, the five initial letters each ingredient form 5/6 of a six-letter word.</hint>
+        <hint>The definition for each of those six-letter words is a beer’s name on the left side of the page.</hint>
+        <hint>FIRST LABEL SOLUTION: [W] / INGRAINED / CHEAP / KANGAROO / ELEVENTH HOUR / RELEASED</hint>
+        <hint>SECOND LABEL SOLUTION: WIKI / [I] / GRAINGER / GRASSHOPPER / LEASED / YOUTH HOSTEL</hint>
+        <hint>THIRD LABEL SOLUTION: FROG / INCREASED / [N] / GIF / EARLY MORNING RAIN / RUSH HOUR</hint>
+        <hint>FOURTH LABEL SOLUTION: HIP / AMONG / NINTH HOLE / GREASED / [E] / READING RAINBOW</hint>
+        <hint>FIFTH LABEL SOLUTION: H.H. HOLMES / AT LEAST / MIGRAINE / POGO / EARP / [R]</hint>
+        <hint>SIXTH LABEL SOLUTION: BEAST / AGRA, INDIA / RABBIT / FRENCH HORN / LUMP / [Y]</hint>
+        <hint>Combine the missing sixth letters (the “secret ingredients”) of each beer to form the final six-letter answer.</hint>
+		<solution href="06-my_underground_brewery-solution.pdf"/>
+	</puzzle>
+
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>

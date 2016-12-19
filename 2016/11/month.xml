@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2016</year>
+	<month>11</month>
+	<title>I Puzzled</title>
+	<notes>November's puzzles were written by Puzzled Pint Game Control members all over the United States. Thanks to Pavel (Seattle), Ray (Detroit), [Sandor](http://www.mysteryleague.com/) (Chicago), [Steven C.](http://clontz.org/) (Huntsville), and Wil (Chicago) for this set!</notes>
+	<location>
+		<puzzle>
+			<title>Puzzles After Polls</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>It is fair to research theses, it's not cheating to look things up to help with Puzzled Pint!</hint>
+			<hint>The first answer is Jerry Springer</hint>
+			<hint>The first answer is Jerry Springer</hint>
+			<hint>The solution is PINTING PLACE.</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>pintingplace</answerword>
+	</location>
+
+	<puzzle>
+		<title>Kang vs. Kodos</title>
+		<file href="01-kang_vs_kodos-puzzle.pdf"/>
+		<solution href="01-kang_vs_kodos-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Every Vote Counts</title>
+		<file href="02-every_vote_counts-puzzle.pdf"/>
+		<solution href="02-every_vote_counts-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Leadership</title>
+		<file href="03-leadership-puzzle.pdf"/>
+		<solution href="03-leadership-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Polls</title>
+		<file href="04-polls-puzzle.pdf"/>
+		<solution href="04-polls-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Barnstorming (meta puzzle)</title>
+		<file href="05-barnstorming-puzzle.pdf"/>
+		<solution href="05-barnstorming-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Customer Service (bonus puzzle)</title>
+		<file href="06-customer_service-puzzle.pdf"/>
+		<solution href="06-customer_service-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>
