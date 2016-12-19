@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2016</year>
+	<month>4</month>
+	<title>The Queen's Birthday</title>
+	<notes>This month's puzzles were written by Game Control members from Austin, DC, Detroit, London, and Portland. Thanks everyone!</notes>
+	<location>
+		<puzzle>
+			<title>Title Here</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>Bold words in the flavour text are very useful.</hint>
+			<hint>"Base" and "six" are the key words here. If it helps, binary is base two.</hint>
+			<hint>Visited left bees and right bees are helpful bees.</hint>
+			<hint>In base six, a number like 14 is worth ten in decimal. To calculate base six, multiply the first digit by six and add it to the second digit. So 32 would be (3x6)+(2x1)=twenty in decimal. Each hexagonal cell represents a letter in base six. The bees on the bottom left are worth six, on the bottom right are worth one.</hint>
+            <hint>Follow the queen bee's path to see what message she's spelling out. The message starts "PUT...."</hint>
+			<hint>The message is PUT A RING ON IT SINGER</hint>
+            <hint>The solution is BEYONCE.</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>beyonce</answerword>
+	</location>
+	
+	<puzzle>
+		<title>Queen's Biggest Fan</title>
+		<file href="01-queens_biggest_fan-puzzle.pdf"/>
+        <hint>Look at each plate's border - Notice anything out of the ordinary?</hint>
+        <hint>Each plate has morse code in the border.</hint>
+        <hint>What could the numbers form when using the "center"?</hint>
+        <hint>Create a clock orintation for each plate around the one that is center.</hint>
+        <hint>Each fact can be applied to the clock to form a common encoding.</hint>
+        <hint>Use semaphore to get final answer.</hint>
+		<solution href="01-queens_biggest_fan-puzzle.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Poker Night</title>
+		<file href="02-poker_night-puzzle.pdf"/>
+        <hint>Perhaps start with the best possible hand and work backwards.</hint>
+        <hint>The hands are 2-pair, a straight, a flush, and a 4 of a kind.</hint>
+        <hint>Look at the marks on the cards two cards at a time.</hint>
+        <hint>Arrange each hand left to right, with rank decending and the suits reverse-alphabetical within cards of the same rank (standard Poker/Bridge suit ranking)</hint>
+		<solution href="02-poker_night-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Pièce De Résistance</title>
+		<file href="03-piece_de_res-puzzle.pdf"/>
+        <hint>You want to take turns making normal chess rules and recording them until there's only one piece left</hint>
+        <hint>The first four queen moves are: W->C1 B->F5 W->G5 B->E6</hint>
+        <hint>The next four queen moves are: W->D5 B->E7 W->D2 B->C5</hint>
+        <hint>The final four queen moves are: W->B4 B->F8 W->E7 B->E7</hint>
+        <hint>Note the flavortext and the fact that a chessboard has 8 directions you can move any piece.</hint>
+        <hint>You'll want to use semaphore where the first flag is the direction of the White Queen's move and the second flag is the direction of the Black Queen's move.</hint>
+		<solution href="03-piece_de_res-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Drama Queens of Queens</title>
+		<file href="04-drama_queens_of_queens-puzzle.pdf"/>
+        <hint>Notice there are 15 neigborhoods and 15 people at the party.</hint>
+        <hint>Each clue should match up fairly easily with one of the neighborhoods. Googling clue words and/or nieghborhood might help.</hint>
+        <hint>The flavortext is cluing you to find the minimum number of intersections you need to traverse to get to the party from each home.</hint>
+        <hint>There's an easy way to do this, and know you're right, involving labeling each intersection.</hint>
+        <hint>The house in Bay Side requires 9 intersections, yet "Bay Side" only has 7 letters in it. What has 9 letters?</hint>
+        <hint>Index the distance into the name to get the letter for each clue.</hint>
+		<solution href="04-drama_queens_of_queens-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Quotable Queens (meta puzzle)</title>
+		<file href="05-quotable_queens-puzzle.pdf"/>
+        <hint>Notice the symbols in each corner, and how they are oriented.</hint>
+        <hint>There is a familiar similarity among many of the repeated symbols on the page</hint>
+        <hint>Have you checked your code sheet?</hint>
+        <hint>Look for symbols matching the words in the NATO alphabet on your code sheet</hint>
+        <hint>Googling "&lt;queen&gt; &lt;word&gt;" where the word is a word you've found in the puzzle might help you find the right quote.</hint>
+        <hint>QUEEN MUM'S QUOTE: That’s the way you should live your life, as it tomorrow you’ll be run over by a big red bus</hint>
+        <hint>FREDDIE MERCURY'S QUOTE: I won't be a rock star. I will be a legend.</hint>
+        <hint>RUPAUL'S QUOTE: If you don't love yourself, how in the hell you gonna love somebody else?</hint>
+        <hint>QUEEN OF HEART'S QUOTE: Off with her head!</hint>
+        <hint>What's left once you've eliminated all the symbols used in all four of the quotes?</hint>
+		<solution href="05-quotable_queens-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Blockbuster Redux (bonus puzzle)</title>
+		<file href="05-blockbuster_redux-puzzle.pdf"/>
+        <hint>Do any words/phrases stick out to you from within the flavor text?</hint>
+        <hint>What could “my favorite song” be referring to?</hint>
+        <hint>Keep in mind this month’s theme.</hint>
+        <hint>What is the pattern of the numbers/letters on each movie picture?</hint>
+        <hint>How do the numbers/letters at the end of each grid row compare to this pattern?</hint>
+        <hint>How can these numbers/letters be applied to the song identified?</hint>
+        <hint>The song is Bohemian Rhapsody by Queen.</hint>
+        <hint>Use the song lyrics to match to the movie scenes provided.</hint>
+		<solution href="05-blockbuster_redux-solution.pdf"/>
+	</puzzle>
+    
+    <allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>

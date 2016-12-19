@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2016</year>
+	<month>7</month>
+	<title>Secret Societies</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Secret Societies</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>PRIORY OF SION goes down the column with an 8 in it.</hint>
+			<hint>One of the 11 letters words ends with the same letter as the only other 11 letter word.</hint>
+			<hint>Once all the words are in place, extract the letters from the numbered squares.</hint>
+			<hint>The solution is NORMAL SPOT.</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>normalspot</answerword>
+	</location>
+
+	<puzzle>
+		<title>Knights Templar</title>
+		<file href="01-knights_templar-puzzle.pdf"/>
+        <hint>Each of the six boards is a "mate in one" puzzle. Per conventions, white moves next. However, each is mated by a knight that is currently "disguised" as another piece.</hint>
+        <hint>For each board, take piece the knight is disguised as, and orient the letter grid with that piece facing up. Then take the letter in the square where the knight lands to make its mate.</hint>
+		<solution href="01-knights_templar-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Skull and Bones</title>
+		<file href="02-skull_and_bones-puzzle.pdf"/>
+        <hint>What can you do with the year associated with each member?</hint>
+        <hint>How many facts are there for each member? How many digits in the year?</hint>
+        <hint>Index the digits of the year into each fact for each member</hint>
+        <hint>CNEGVNY FBYHGVBA: Indexing gives you this: LOGO SUM INDEX FROM END</hint>
+        <hint>Did you notice the numbers on the skull and bones logo?</hint>
+        <hint>Index each fact from the end seven characters</hint>
+		<solution href="02-skull_and_bones-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Freemasons</title>
+		<file href="03-freemasons-puzzle.pdf"/>
+        <hint>Do you see any patterns of matching two words?</hint>
+        <hint>Some words match with an “Over” and some with a “Before”</hint>
+        <hint>Did you find “Head over Heals” and “Death before Dishonor”?</hint>
+        <hint>You will create a three by three grid.</hint>
+        <hint>Letters are formed</hint>
+		<solution href="03-freemasons-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Illuminati</title>
+		<file href="04-illuminati-puzzle.pdf"/>
+        <hint>Never heard of tri-hexaflexagon? Go here to learn all about them: https://www.youtube.com/watch?v=49zi7zzrYbg</hint>
+        <hint>You will create two tri-hexaflexagons. Each will contains three sides that you should decipher.</hint>
+        <hint>Each side has a letter to place it on first page.</hint>
+        <hint>Use the instructions to shift the letter found in the previous step. So first line A:ALPHA (BACKWARDS) = "SEMAPHORE SHIFT SIX" = C (Semaphore was side C) Plus Six = Nine = I</hint>
+		<solution href="04-illuminati-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Our Purpose (meta puzzle)</title>
+        <notes>Puzzle is included on the answer sheet linked to above.</notes>
+		<solution href="05-our_purpose-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Historical Professionals (bonus puzzle)</title>
+		<file href="06-historical_professionals-puzzle.pdf"/>
+        <hint>Both column one and two (middle and center) are out of order, you'll need to match them then connect them to column three (right)</hint>
+        <hint>These names are all taken from a list of the top two hundred people of all time. They're usually historical not modern, per the title</hint>
+        <hint>Each hint will really specifically hint one person if it's for the right occupation. Many "kings" have been military leaders and politicians, so that's not the right match.</hint>
+        <hint>The numbers in the left are used to extract letters from the middle to be placed into the blanks on the right.</hint>
+        <hint>CNEGVNY NAFJRE: Some hard matches: Rational->Philosophy Pyramid->Architect Analysis->Psychology Bolshevik->Politician</hint>
+        <hint>VAGREZRQVNGR FBYHGVBA: The Best Purpose</hint>
+		<solution href="06-historical_professionals-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>

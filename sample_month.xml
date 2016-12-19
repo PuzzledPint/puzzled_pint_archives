@@ -12,14 +12,14 @@
 			<file href="00-location-puzzle.pdf"/>
 			<hint>Hint 1</hint>
 			<hint>Hint 2</hint>
-			<hint>Hint 3</hint>		
+			<hint>Hint 3</hint>
 			<hint>Hint 4</hint>
 			<hint>Solution displayed to the player</hint>
 			<solution href="00-location-solution.pdf" />
 		</puzzle>
 		<answerword>bowlingalley</answerword>
 	</location>
-	
+
 	<puzzle>
 		<title>Title Here</title>
 		<file href="01-title_here-puzzle.pdf"/>
@@ -29,7 +29,7 @@
 		<hint>Hint 4</hint>
 		<solution href="01-title_here-solution.pdf"/>
 	</puzzle>
-	
+
 	<allPuzzles href="allpuzzles.pdf"/>
 	<answerSheet href="answersheet.pdf"/>
 	<answerSheetSolution href="answersheet-solution.pdf"/>

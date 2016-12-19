@@ -1,0 +1,134 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2016</year>
+	<month>10</month>
+	<title>Election</title>
+	<notes>Thanks to Jason Florek, Ron Clark, Jocelyn Adams, Dustin Foley, and Kenneth Marr for writing this month's puzzles. Jason and Ron are two of our Washington DC Game Control members, and Jocelyn, Dustin, and Ken are regular players.</notes>
+	<location>
+		<puzzle>
+			<title>Electoral Colleges</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>How could you combine 'sporting' and 'state colleges' to obtain the answers for each state?</hint>
+			<hint>You need to look up the mascots for the State University of each swing state.</hint>
+			<hint>- Ohio State Buckeyes
+- Louisiana State Tigers
+- Arizona State Sun Devils
+- Colorado State Rams
+- Florida State Seminoles
+- Washington State Cougars
+- North Carolina State Wolf Pack
+- Iowa State Cyclones
+- Oregon State Beavers</hint>
+			<hint>Just looking at the highlighted boxes doesn't spell anything. Is there something unusued about the puzzle that can adjust those letters?</hint>
+			<hint>Shift each boxed letter down in the alphabet by that state's number of electoral votes.</hint>
+            <hint>The solution is TOGA PARTY.</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>togaparty</answerword>
+	</location>
+
+	<puzzle>
+		<title>Campaign Trail</title>
+		<file href="01-campaign_trail-puzzle.pdf"/>
+        <hint>The letters you have to enter will be unique for each puzzle (duplicate letters are provided)</hint>
+        <hint>PARTIAL ANSWER: NOT JUST PEANUTSTJT,POSU,EAN</hint>
+        <hint>PARTIAL ANSWER: VOTE AS YOU SHOTVHT,SOYE,USA</hint>
+        <hint>PARTIAL ANSWER: ALL THE WAY WITH LBJWEYW,BAHI,JLLT</hint>
+        <hint>PARTIAL ANSWER: KINDER, GENTLER NATIONRGIK,ENTO,DLAN</hint>
+        <hint>The 7-4 means you're looking for a 7 letter word followed by a 4 letter word.</hint>
+		<solution href="01-campaign_trail-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Gerrymandering</title>
+		<file href="02-gerrymandering-puzzle.pdf"/>
+        <hint>There is no trick to this. Just find where to draw a line to divide the state.</hint>
+        <hint>PARTIAL ANSWER: TOP MIDDLEI to T</hint>
+        <hint>PARTIAL ANSWER: TOP RIGHTS to S</hint>
+        <hint>PARTIAL ANSWER: BOTTOM LEFTK (Top Left) to E (Bottom Right)</hint>
+        <hint>PARTIAL ANSWER: BOTTOM MIDDLEC to T (Bottom Left)</hint>
+        <hint>PARTIAL ANSWER: BOTTOM RIGHTH to Y</hint>
+        <hint>Read the letters in order on the page for the final answer</hint>
+		<solution href="02-gerrymandering-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Sound Bites</title>
+		<file href="03-sound_bites-puzzle.pdf"/>
+        <hint>Both words of the title are independently clues to the puzzle.</hint>
+        <hint>'Sound' implies you're looking for homophones.</hint>
+        <hint>'Bites' implies you're looking for food.</hint>
+        <hint>You're looking for words defined by the italicized words in the text of each line, e.g. a word that means 'couple'</hint>
+        <hint>'Pair' is the word that means 'couple' on the first line.</hint>
+        <hint>The word you get from the italics will have a homophone that is a food. Pair -> Pear</hint>
+        <hint>PARTIAL ANSWERWords from italics:
+
+- Pair
+- Bred
+- Mustered
+- Chilly
+- Stake
+- Bury
+- Pi
+- Moose
+- Plumb
+- Sunday
+- Karat
+- Beat
+- Serial
+- Muscle</hint>
+        <hint>The flavor text is suggesting how to find the boxed letter (bold) by looking at other letters across words (underlines)</hint>
+        <hint>Look for the Food (homophone) in the text of each line and add the extra letter, e.g. "hoPE (f)ARmers", so add the F in the box on the left.</hint>
+		<solution href="03-sound_bites-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Running Mates</title>
+		<file href="04-running_mates-puzzle.pdf"/>
+        <hint>You're looking for a pair of names for each answer. The clue only clues the first.</hint>
+        <hint>All of the first names have something in common, as hinted by the flavor text.</hint>
+        <hint>You're looking for names of dogs.</hint>
+        <hint>And the presidents who owned them.</hint>
+        <hint>Notice they're in alphabetical order.</hint>
+        <hint>A LOVEABLE (OR HATED) PURPLE DINOSAURBarney Bush</hint>
+        <hint>A SMALL FRUIT OR A CELLULAR DEVICEBlackberry Coolidge</hint>
+        <hint>A BLUNT WEAPON USED TO INCAPACITATE OR A CASINO GAMEBlackjack Roosevelt</hint>
+        <hint>FIRST NAME OF JIM CARREY’S ALMIGHTY CHARACTERBruce Wilson</hint>
+        <hint>FRIEND OR PAL OR GUYBuddy Clinton</hint>
+        <hint>A FAST 19TH CENTURY SAILING SHIP OR A MEMBER OF AN L.A. BASKETBALL TEAMClipper Kennedy</hint>
+        <hint>A POPULAR CHILDREN’S STORY (AND MOVIE) BY SWISS AUTHOR JOHANNA SPYRIHeidi Eisenhower</hint>
+        <hint>NICKNAME OF AN EGYPTIAN PHARAOH WHOSE RELICS FREQUENTLY TOUR THE WORLD King Tut Hoover</hint>
+        <hint>FREEDOM OR AUTONOMY OR USS RESEARCH SHIP ATTACKED BY ISRAELI JET FIGHTERS IN 1967Liberty Ford</hint>
+        <hint>HUSBAND OF MELISSA MCCARTHY’S TV MOLLYMike Truman</hint>
+        <hint>HOOK OR JAB OR COHORT OF PUPPET JUDY Punch Buchanan</hint>
+        <hint>BUZZ AND WOODY’S DINOSAUR PAL OR LATIN FOR “KING” Rex Reagan</hint>
+        <hint>HOME PLANET OF SPOCK OR ROMAN GOD OF FIRE AND METALWORKINGVulcan Washington</hint>
+        <hint>The highlighted letters are correct, but in the wrong order. How could you order them?</hint>
+        <hint>Order the letters according to the inauguration dates of their presidents.</hint>
+		<solution href="04-running_mates-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Hanging Chads (meta puzzle)</title>
+		<file href="05-hanging_chads-puzzle.pdf"/>
+        <hint>The four races correspond to the four puzzles in order, so County-Executive is Campaign Trail, and Senator is Running Mates.</hint>
+        <hint>You need to use a form of the technique for each puzzle on the list of names for that race.</hint>
+        <hint>Both the title of the puzzle and the puzzle answer is obscured using the technique for the puzzle.</hint>
+        <hint>COUNTY EXECUTIVEAs you're finding two names, see which two names can be 'navigated' like you did in the puzzle to find 'Campaign Trail' and/or 'Whistle Stop'</hint>
+        <hint>COUNTY EXECUTIVE - PARTIAL ANSWER3 and 4 are the right choices</hint>
+        <hint>REPRESENTATIVEThe puzzle title and answer have been 'gerrymandered'. Which two names can be combines and reordered to make the title and answer to the puzzle?</hint>
+        <hint>REPRESENTATIVE - PARTIAL ANSWER1 and 2 are the correct choices</hint>
+        <hint>GOVENORThe secret hidden words part of Sound Bites is what's being used here.</hint>
+        <hint>GOVENOR - PARTIAL ANSWERThe right choices are 1 and 5.</hint>
+        <hint>SENATORYou're looking for words related to the title or answer.</hint>
+        <hint>SENATOR - PARTIAL ANSWERThe choices are 3 and 5. (Games and synonyms)</hint>
+        <hint>Use the mathematical operator in the title of each race to combine the two numbers into one.</hint>
+        <hint>PARTIAL ANSWER - BALLOT PUNCHES12, 2, 4, 8 are what you should cut out of your ballot</hint>
+        <hint>Overlay the punched ballot on each race box to read the bolded letters through each hole.</hint>
+		<solution href="05-hanging_chads-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>
