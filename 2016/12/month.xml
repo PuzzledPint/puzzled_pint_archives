@@ -1,0 +1,174 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2016</year>
+	<month>12</month>
+	<title>Dungeons &amp; Dragons</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>The Enchanted Forest</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>This is a form of a common puzzle type called "Signpost" or "Arrow Path"
+
+See [this page](http://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/signpost.html) for an example.</hint>
+			<hint>It's helpful to number each step of your path from 1 (The starting square in the top left corner) to 16 (the cave entrance in the lower right corner)</hint>
+			<hint href="00-location-hint3.png" />
+			<hint>Beyond the "moors" is meant to clue morse code</hint>
+            <hint>Bags of gold/coins on your path are dots, and keys are dashes.</hint>
+            <hint>ITEMS COLLECTED
+
+-- .- --. .. -.-.</hint>
+			<hint>The solution is MAGIC</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>magic</answerword>
+	</location>
+
+	<puzzle>
+		<title>Fighter — Suiting Up</title>
+		<file href="01-Fighter-puzzle.pdf"/>
+        <hint>You have 9 types of armor you must wear, and 2 choices for each, but which of the two?</hint>
+        <hint>Notice anything strange about those names?</hint>
+        <hint>Each pair of names sounds like real English words that are opposites.</hint>
+        <hint>PARTIAL ANSWER: Take the first word of each of these pairs: 
+
+- Gorget - Agree over Disagree 
+- Gauntlets - Good(eon) over Bad(mar)
+- Helm - Virtue over Cin(dy)
+- Shield - Correct(i) over Incorrect(sun)
+- Greaves - Smart(en) over Dumb(a)
+- Braces - Just(in) over Unfair
+- Girdle - Zenith(um) over Nadir
+- Boots - Pos(sy) over Neg(gritte)
+- Breastplate - Yes over No(bby)</hint>
+        <hint>Your total negative AC should be -24</hint>
+        <hint>You'll want to wear each armor piece in order from head to toe (shield to boots).</hint>
+        <hint>Do a ceasar shift of the first letters of each item's name (+2 is equivalent to -24)</hint>
+		<solution href="01-Fighter-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Magic User — Memorizing Spells</title>
+		<file href="02-MagicUser-puzzle.pdf"/>
+        <hint>The given orientation of each scroll is a clue for how to fill in the grid</hint>
+        <hint>You want to put each word into the grid so that the center of the word aligns with a reasonable description given by the intersection of the grid's labeled axis words. For example DISINTEGRATE is REMOVE OBJECT.</hint>
+        <hint>You need to now again "combine two ideas" that you haven't used yet to finish the puzzle</hint>
+        <hint>Add the row and column values for each grey square to get the right order in which to read their letters</hint>
+		<solution href="02-MagicUser-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Cleric — Turning Around</title>
+		<file href="03-Cleric-puzzle.pdf"/>
+        <hint>Left to right, top to bottom: Skeleton Devourer Spectre
+
+- Mummy Skeleton Spectre
+- Zombie Spectre Devourer
+- Zombie Vampire Skeleton</hint>
+        <hint>You have answers, you need an index to extract letters. What piece of information haven't you used yet?</hint>
+        <hint>Look at the size in grid squares of each of the lairs on the map use that to extract from the name of the monster.</hint>
+		<solution href="03-Cleric-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Thief — Picking Locks</title>
+		<file href="04-Thief-puzzle.pdf"/>
+        <hint>Your code sheet will be very useful for this puzzle.</hint>
+        <hint>You need a KEY in different encoded forms</hint>
+        <hint>Top Left Lock: Hmm, coiled springs and cylindrical tumblers what code sheet column might apply?</hint>
+        <hint>This is morse code. Just add the key.</hint>
+        <hint>Literally add K-E-Y in morse code into the white space for the key</hint>
+        <hint>Now read morse from bottom to top (as if the lock were turned right-way up)</hint>
+        <hint>Top Right Lock: You have 3 sets of 5 boxes. What code sheet column could apply?</hint>
+        <hint>This is binary. Just add the key.</hint>
+        <hint>Literally add K-E-Y in binary code into the spaces</hint>
+        <hint>Notice 5 bits stick out the top, and 5 stick out the bottom. you need 2 letters for the blanks.</hint>
+        <hint>Bottom Left Lock: What code sheet column do those characters remind you of? You need a NEW code sheet!</hint>
+        <hint>This is Pig Pen.</hint>
+        <hint>Rotate the dials (in your head or cut them out) until you can spell K-E-Y in pigpen down from the top center</hint>
+        <hint>Now read the 6 o'clock side of the lock in pigpen too.</hint>
+        <hint>Bottom Right Lock: What code sheet column haven't you used yet? That EYE is a clue.</hint>
+        <hint>This is Braille. Just add the key.</hint>
+        <hint>Blacken the bumps on the box corresponding to the letters of K-E-Y in braille. Each 2x3 rectangle is a letter.</hint>
+        <hint>Now read the circled letters left to right, top to bottom.</hint>
+		<solution href="04-Thief-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>You Slayed the Dragon! (meta puzzle)</title>
+		<file href="05-YouSlayedTheDragon-puzzle.pdf"/>
+        <hint>This is a deduction puzzle. Start with putting the line containing "last 10 damage needed to slay the dragon" in the last slot.</hint>
+        <hint>The dragon's damage will be consistent based on which attack he uses. So his tail will always do 5 damage.</hint>
+        <hint>As you can tell from the "20 damage kills you" line, his fire breath always must be avoided by using your cloak</hint>
+        <hint>You'll want to heal when you're down to exactly 1 hit point.</hint>
+        <hint>His jaws will do more damage than his claw</hint>
+        <hint>Once you have the right choices, notice which item you used for each line.</hint>
+        <hint>Apply the Initative value as an index on the puzzle answer corresponding to the item you used on each line</hint>
+		<solution href="05-YouSlayedTheDragon-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Songs of the Bard (bonus puzzle)</title>
+		<file href="06-SongsOfTheBard-puzzle.pdf"/>
+        <hint>"Across" is meant to clue you to look for an acrostic</hint>
+        <hint>Each song's lyrics spells an acrostic for a number and a Performer or Band's name (except Garb)</hint>
+        <hint>Save the number for later indexing, all you need is the title and text to find a popular real song name</hint>
+        <hint>"Colorful" is your second hint to choose the right song</hint>
+        <hint>Each puzzle song title is reminiscent of the non-color words of the right title</hint>
+        <hint>Each puzzle song text is reminiscent of some lyrics to the right son, which you can use to confirm.</hint>
+        <hint>The Songs: 
+
+- Red, Red Wine (UB40)
+- Orange Crush (R.E.M.)
+- Yellow Submarine (Beatles)
+- Green River (Creedence Clearwater Revival)
+- Blue Moon (The Marcels)
+- Purple Rain (Prince)</hint>
+        <hint>Now use the number to index into the song titles (NOTE: You didn't need to actually figure out Greensleeves as you knew it would start with G)</hint>
+        <hint>Rainbow color order is the correct ordering of the letters</hint>
+		<solution href="06-SongsOfTheBard-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Meta-Meta (bonus puzzle using all twelve 2016 themes)</title>
+		<file href="07-MetaMeta-puzzle.pdf"/>
+        <hint>You need to place the rectangles on the first page into the empty boxes on the second to answer the trivia questions.</hint>
+        <hint>Each month's theme can act as a slight hint to the answer as it should be at least loosely related.</hint>
+        <hint>The unused boxes are EV, LTHI, and RTHD</hint>
+        <hint>Additional Hints:
+
+1. Not real estate nor theft
+2. The title is "Now Here's My Plan"
+3. Christoper &amp; Josie
+4. Lady Jane Grey was the 9-day queen
+5. http://parksandrecreation.wikia.com/wiki/Congressman_Murray 
+6. You burn the first part. The city has a Native American name.
+7. Not things tyou pick up, nor is it shortsteel.
+8. It's a shortcut through space and time, and Worf was one of these.
+9. The first book in the series, when he was still a lieutenant, is called The Road to the Rim.
+10. This year it's what Trump and Clinton awaits, and the 'exit' one of these will give early results.
+11. He was the president between the Bushes
+12. Elk are also known for the first part, and Eisenhower also promised the second part (Peace &amp; `____`)</hint>
+        <hint>Trivia Answers:
+
+1. Property, Stealing
+2. A Book of Futilities
+3. Walken, Bissett
+4. Bradgate Park
+5. Barkley, Robot
+6. Calories, Milwaukee
+7. Droppings, Longwood
+8. Wormhole, Klingons
+9. Grimes, Chandler
+10. Election Day, Polls
+11. Bill Clinton
+12. Antlers, Prosperity</hint>
+        <hint>Use the number in/under each box as an index into that box to know which letter to extract for the final answer</hint>
+		<solution href="07-MetaMeta-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>
