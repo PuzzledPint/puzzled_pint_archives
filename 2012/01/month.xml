@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2012</year>
+	<month>1</month>
+	<title>Calendars / Time</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Calendar</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>Separate out each person's events.</hint>
+			<hint>Emma, Steven, and Gabe all use analog clocks.</hint>
+			<hint>Emma, Steven, and Gabe all have the same novelty clocks with flags on the minute and hour hands.</hint>		
+			<hint>Emma's first event is at 4:00, which is the letter "V" in semaphore.  Thus, the first letter of one of the words is V.</hint>
+			<hint>The solution is VINCENTE'S ON HAWTHORNE</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>vincentesonhawthorne</answerword>
+	</location>
+	
+	<puzzle>
+		<title>In the Cards</title>
+		<file href="01-in_the_cards-puzzle.pdf"/>
+		<solution href="01-in_the_cards-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Movie Marathon</title>
+		<file href="02-movie_marathon-puzzle.pdf"/>
+		<solution>We currently do not have a solution archived for this puzzle.</solution>
+	</puzzle>
+	
+	<puzzle>
+		<title>A Puzzle a Day</title>
+		<file href="03-puzzle_a_day-puzzle.pdf"/>
+		<solution href="03-puzzle_a_day-solution.pdf"/>
+	</puzzle>
+	
+	<puzzle>
+		<title>Vocabulary</title>
+		<file href="04-vocabulary-puzzle.pdf"/>
+		<solution>We currently do not have a solution archived for this puzzle.</solution>
+	</puzzle>
+</PPMonth>

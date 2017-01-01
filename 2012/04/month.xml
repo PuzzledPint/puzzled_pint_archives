@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2012</year>
+	<month>4</month>
+	<title>Time Travel</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Time Travel</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>A crossword solver such as &lt;http://www.oneacross.com/&gt; may be helpful.</hint>
+			<hint href="00-location-hint2.pdf" />
+			<hint>You may find the phonetic alphabet useful.</hint>
+			<hint>Confounded by the space-time continuum? Just meet us at MULLIGAN'S BAR AND GRILL</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>mulligansbarandgrill</answerword>
+	</location>
+
+	<puzzle>
+		<title>Come Find Me</title>
+		<file href="01-come_find_me-puzzle.pdf"/>
+		<solution href="01-come_find_me-puzzle.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Chrononauts</title>
+		<file href="02-chrononauts-puzzle.pdf"/>
+		<solution>We do not currently have a solution for this puzzle in our archives.</solution>
+	</puzzle>
+
+	<puzzle>
+		<title>Flux Capacitors</title>
+		<file href="03-flux_capacitors-puzzle.pdf"/>
+		<solution href="03-flux_capacitors-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Alternative Timelines</title>
+		<file href="04-alternative_timelines-puzzle.pdf"/>
+		<solution href="04-alternative_timelines-solution.pdf"/>
+	</puzzle>
+
+</PPMonth>

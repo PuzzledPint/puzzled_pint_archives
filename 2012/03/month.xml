@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2012</year>
+	<month>3</month>
+	<title>Wedding</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>In Their Primes</title>
+			<notes>We do not currently have this puzzle in our archives.</notes>
+			<hint>Across
+
+```
+1. CHURCH
+3. OBSERVE
+4. HUG
+5. TUXEDO
+6. SHOWER
+7. UNIQUE
+10. CORDIAL
+11. SPINSTER
+15. HONEYMOON
+17. AISLE
+18. LIMOUSINE
+19. FOREVER
+23. ENAGEMENT
+```
+
+Down
+
+```
+1. COUPLE
+2. LEGACY
+8. VOW
+9. BOUQUET
+12. CELEBRATION
+13. CARING
+14. GATHERING
+16. DIAMOND
+20. USHER
+21. UNION
+22. DOWRY
+```</hint>
+			<hint>Did you notice the title?</hint>
+			<hint>Prime numbers are 2,3,5,7... Maybe you want to look at those clues.</hint>
+			<hint>Hint 4</hint>
+			<hint>The solution is LOTUS CAFE</hint>
+			<solution>We do not currently have this solution in our archives.</solution>
+		</puzzle>
+		<answerword>lotuscafe</answerword>
+	</location>
+
+	<puzzle>
+		<title>Wedding Playlist</title>
+		<file href="01-playlist-puzzle.pdf"/>
+		<solution href="01-playlist-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Reception Chatter</title>
+		<file href="02-reception_chatter-puzzle.pdf"/>
+		<solution href="02-reception_chatter-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Cake Cutting</title>
+		<file href="03-cake_cutting-puzzle.pdf"/>
+		<solution href="03-cake_cutting-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Rice Throwing</title>
+		<file href="04-rice_throwing-puzzle.pdf"/>
+		<solution href="04-rice_throwing-solution.pdf"/>
+	</puzzle>
+
+</PPMonth>

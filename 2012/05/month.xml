@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2012</year>
+	<month>5</month>
+	<title>National Water Safety Month</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Covers</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>Did you notice the numbers on each image?  Maybe you should track down these albums.</hint>
+			<hint>Artists and albums:
+
+- Hall and Oates - Change of Season
+- James Horner - Titanic: Music from the Motion Picture
+- Bobby Darin - That's All
+- Katrina and the Waves - Walking On Sunshine
+- Billy Ocean - Suddenly
+- Beach Boys - Still Cruisin'
+- Enya - Watermark
+- Doobie Brothers - What Were Once Vices Are Now Habits
+- Billy Joel - Storm Front
+- Muddy Waters - The Real Folk Blues</hint>
+			<hint>Track names:
+
+- Heavy Rain
+- Unable to Stay, Unwilling to Leave
+- Beyond the Sea
+- Brown Eyed Son
+- If I Should Lose You
+- Kokomo
+- Exile
+- Black Water
+- And So It Goes
+- Rollin' and Tumblin'</hint>
+			<hint>The solution is HOPWORKS BIKE BAR</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>hopworksbikebar</answerword>
+	</location>
+
+	<puzzle>
+		<title>Flag</title>
+		<file href="01-flag-puzzle.pdf"/>
+		<hint href="01-flag-hint1.pdf" />
+		<solution href="01-flag-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Shuffleboard</title>
+		<file href="02-shuffleboard-puzzle.pdf"/>
+		<solution href="02-shuffleboard-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>CrossWordSearch</title>
+		<file href="03-crosswordsearch-puzzle.pdf"/>
+		<solution href="03-crosswordsearch-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Whirlpool</title>
+		<file href="04-whirlpool-puzzle.pdf"/>
+		<solution href="04-whirlpool-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Treasure (meta puzzle)</title>
+		<file href="05-treasure-puzzle.pdf"/>
+		<solution href="05-treasure-solution.pdf"/>
+	</puzzle>
+    
+    <answerSheet href="answersheet.pdf"/>
+</PPMonth>

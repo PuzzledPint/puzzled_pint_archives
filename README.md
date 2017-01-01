@@ -20,6 +20,7 @@
 - Each month has a `month.xml` describing the month and its puzzles.
 - There are also the various support files — puzzle PDFs, answer sheets, solutions, etc.
 - Upon import, I was anal-retentive and renamed the puzzle PDFs to `{number}-{title}-{puzzle | solution}.pdf`. That let me better see what files mapped to what puzzle. Some of the original names were pretty silly and embarrassing (“mypuzzle.pdf” and “final, version 3” and such). We don't have to stick to this naming.
+- The test app doesn't specifically test for this (yet?) but there should be no files in these folders that are not referenced in the XMLs. That is, the XML always points to files that have no local external dependencies (such as images, or links to other local files). It's possible that some things may have links out to external resources such as crossword solvers, anagram solvers, etc.
 
 ##month.xml
 
@@ -50,7 +51,13 @@ Linked files are typically PDF, but could technically be anything. We have a few
 
 The hint file `./2015/06/00-location-hint1.html` hotlinks images on snout.org.
 
-December 2011 is missing some solutions.
+Missing solutions:
+
+- December 2011
+- January 2012
+- February 2012
+- March 2012 is missing both the LOCATION PUZZLE and the solution
+- April 2012
 
 ----------------------------------------
 

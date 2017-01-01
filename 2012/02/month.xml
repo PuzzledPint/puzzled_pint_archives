@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2012</year>
+	<month>2</month>
+	<title>Wedding Planning</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Love Poems</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint href="00-location-hint1.pdf" />
+			<hint href="00-location-hint2.pdf" />
+			<hint>The title of this puzzle is "First Comes Love"... Notice anything interesting about the FIRST letters of the replaced words?</hint>
+			<hint>Chris and Pat each prepared a series of couplets to give to the other person. Notice any patterns in the couplets for Chris? What about the couplets for Pat?</hint>
+			<hint>The letter pairs spell: WH ER EW EM ET / LA ST FE BR UA RY</hint>
+			<hint>The solution is Lucky Lab SE</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>luckylabse</answerword>
+	</location>
+
+	<puzzle>
+		<title>Seating Plan</title>
+		<file href="01-seating_plan-puzzle.pdf"/>
+		<solution href="01-seating_plan-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Guest List</title>
+		<file href="02-guest_list-puzzle.pdf"/>
+		<hint href="02-guest_list-hint1.pdf" />
+		<solution href="02-guest_list-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Cake Decorating</title>
+		<file href="03-cake_decorating-puzzle.pdf"/>
+		<solution>We do not currently have a solution to this puzzle in the archives</solution>
+	</puzzle>
+
+	<puzzle>
+		<title>Caterers</title>
+		<file href="04-caterers-puzzle.pdf"/>
+		<solution href="04-caterers-solution.pdf"/>
+	</puzzle>
+
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>
