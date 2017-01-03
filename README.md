@@ -53,7 +53,6 @@ The hint file `./2015/06/00-location-hint1.html` hotlinks images on snout.org.
 
 Missing solutions:
 
-- December 2011
 - January 2012
 - February 2012
 - March 2012 is missing both the LOCATION PUZZLE and the solution
