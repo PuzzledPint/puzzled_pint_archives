@@ -1,0 +1,93 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2017</year>
+	<month>01</month>
+	<title>Hamilton</title>
+	<notes>Thanks to St. Louis Puzzled Pint player Matthew Stern for writing all of this month's main puzzles!  Thanks to [Curtis Chen](https://twitter.com/sparckl) (Puzzled Pint co-founder and Portland Game Control) for writing the bonus puzzle!</notes>
+	<location>
+		<puzzle>
+			<title>Alexander Hamilton</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>Every four-line stanza describes a different well-known historical figure or celebrity. Web searching is encouraged; try combinations of quoted phrases, proper names, and any other unusual details.</hint>
+			<hint>The people described are: Isaac Newton, Tony Hawk, Ernest Hemingway, Eric Idle, George Harrison, and Taylor Swift.</hint>
+			<hint>Fill in the blanks with each person's first and last initials to spell out the final, 3-word answer.</hint>
+			<hint>The solution is IN THE HEIGHTS.</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>intheheights</answerword>
+	</location>
+
+	<puzzle>
+		<title>Guns and Ships</title>
+		<file href="01-guns_and_ships-puzzle.pdf"/>
+		<hint>FIVE(5) soldiers will end up adjacent to more than one object (tree, tent, flag, or cannon). Remember, diagonal does NOT count as adjacent!</hint>
+		<hint>There are FOUR(4) soldiers in the third column from the right (labeled with letters EU-E-YO-E, top to bottom).</hint>
+		<hint>There are THREE(3) soldiers in the top row (labeled TG-O-ME-E, left to right)</hint>
+		<hint>There is only ONE(1) soldier in the bottom row, in square E to the left of the American tent and below the cannon.</hint>
+        <hint>Using the blanks below the grid, break up the sequence of letters marked by the soldiers (TEE-EYE-EN-KAY-E-ARE), then sound them out as letters to spell a word: T-I-N-K-E-R</hint>
+        <hint>Every British ship can be seen by at least two US ships.</hint>
+        <hint>There are THREE(3) British ships in the third column from the right (labeled 3RLYDTEK4, top to bottom).</hint>
+        <hint>There are TWO(2) British ships in the second row from the top (labeled QSOLOURZ3, left to right).</hint>
+        <hint>The last TWO(2) British ships are in the far right column and the bottom row.</hint>
+        <hint>Do the words TINKER and SOLDIER remind you of anything? Perhaps a 1974 spy novel by British author John le Carré, which was made into a 2011 film starring Gary Oldman?</hint>
+        <hint>The answer is TAILOR SPY.</hint>
+		<solution href="01-guns_and_ships-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Nonstop</title>
+		<file href="02-nonstop-puzzle.pdf"/>
+		<hint>Notice the bold words in the flavortext: flag and time. (Also the alarm-clock and human-with-arms icons in the corners of the "parchment.") Yup, it's everyone's favorite code: semaphore using analog clock hands!</hint>
+		<hint>To start, only look at the times (7:50PM, 4:35PM, etc.) and translate those as semaphore letters.</hint>
+		<hint>The semaphore spells: INDEX SUM OF MONTH DAY</hint>
+		<hint>Now substitute the proper number for each month name, add that value to the day number, and use the result to index into the associated essay title. For example, the first line: 1+7=8 and the 8th letter is "I".</hint>
+        <hint>The answer is: I NEED A RIGHT HAND MAN (but you only need the last three words for the meta).</hint>
+		<solution href="02-nonstop-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>What'd I Miss?</title>
+		<file href="03-whatd_i_miss-puzzle.pdf"/>
+		<hint>Note the bold word miss in the flavortext: every crossword answer will include that sequence of four letters.</hint>
+		<hint>Furthermore, when filling in the grid, all four letters "MISS" are crammed into a single cell. So the answer for 13-down is actually eight(8) letters long.</hint>
+		<hint>MISSpoke, MISSissippi queen, reMISSion, eMISSary, MISSion impossible, MISS universe, interMISSion</hint>
+		<hint>transMISSion, subMISSive, perMISSion, case disMISSed, MISSouri, little MISS muffet, lying by oMISSion, comMISSioner, MISSoula</hint>
+        <hint>Once you've filled in the grid, take the letters from the cells labeled with round callouts in alphabetical order.</hint>
+        <hint>The answer is PRIDE OF MT. VERNON.</hint>
+		<solution href="03-whatd_i_miss-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The Room Where It Happens</title>
+		<file href="04-the_room-puzzle.pdf"/>
+		<hint>Note the bold word in flavortext: initial. Only look at the first letters of the words in each speech bubble.</hint>
+		<hint>Each person is saying something different. "James Madison's guiding words" tell you what to do: SHIFT STATES AND THEN REVERSE</hint>
+		<hint>"Thomas Jefferson's stated claims (often abbreviated)" indicates you want the two-letter postal abbreviation for the states whose capital cities are named. The next hint is a reference sheet.</hint>
+        <hint href="04-the_room-hint.pdf"/>
+		<hint>"Hamilton's calculated comments" are numbers: ELEVEN, TWENTY-THREE, FIFTEEN, and ELEVEN.</hint>
+		<hint>For each "table," take Jefferson's letter pair, shift the individual letters forward in the alphabet by Hamilton's number, then reverse the order of those two letters as Madison instructed. So "The Meeting" yields PA, shifted by 11 to AL, then reversed to LA</hint>
+		<hint>The answer is LANCELOT.</hint>
+		<solution href="04-the_room-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Who Lives, Who Dies, Who Tells Your Story (meta puzzle)</title>
+		<file href="05-meta-puzzle.pdf"/>
+		<hint>The first letters of the biographies spell out BOOK CIPHER. Fun fact: in musical theater, "book" means the lyrics of a show. Do you see Hamilton lyrics anywhere on the previous four puzzles?</hint>
+		<hint>The bold words in the flavortext indicate a specific variety of book cipher: puzzle, quote line, word, and letter. Every sequence of four numbers will yield a single letter. Can you connect the icons on page 2 to four of the bios on page 1?</hint>
+		<hint>The previous puzzle answers appear in the relevant biographies: Alexander Hamilton ("right hand man"), Marquis de Lafayette ("Lancelot"), Hercules Mulligan ("tailor...spy"), and George Washington ("pride of Mount Vernon"). On page 2, draw two lines for each man's "life path": from his birth decade to the puzzle referencing him, then from the puzzle icon to his death decade. For example, Hercules Mulligan goes from "1740-1749" to the top icon ("Guns and Ships") to "1820-1829". You'll end up with eight lines total.</hint>
+		<hint>Each line segment crosses exactly four numbered scrolls. That book cipher uses the lyrics quoted inside the scrolls at the top of each puzzle. For example, Hercules Mulligan's first cipher is 4-3-2-1: puzzle #4 (The Room Where It Happens), 3rd line of quote ("We just assume that it happens"), 2nd word, 1st letter = J. Lather, rinse, repeat.</hint>
+        <hint>The final answer is... JUST WAIT !</hint>
+		<solution href="05-meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>A Rainbow Chorus (bonus puzzle)</title>
+		<file href="06-bonus-puzzle.pdf"/>
+		<solution href="06-bonus-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>

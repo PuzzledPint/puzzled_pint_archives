@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2017</year>
+	<month>02</month>
+	<title>Valentine's Day</title>
+	<notes>Thanks to [Jen Dumont](https://twitter.com/jenofthemt) of Puzzled Pint HQ/Portland for writing nearly all of this month's puzzles!  Thanks to [Curtis Chen](https://twitter.com/sparckl) (HQ/Portland/Co-founder) for writing the location puzzle!</notes>
+	<location>
+		<puzzle>
+			<title>Written in the Stars</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>Have you noticed that some of the names pair up?</hint>
+			<hint>Harry goes with Sally. Connect the two.</hint>
+			<hint>Once you have all the pairs connected, the lines should give you the answer.</hint>
+			<hint>The lines create letters that spell the answer which is FAULT.</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>fault</answerword>
+	</location>
+
+	<puzzle>
+		<title>Movie Time</title>
+		<file href="01-movie_time-puzzle.pdf"/>
+		<hint>This is a classic puzzle found in puzzle magazines. The vertical rectangles share the same letter.</hint>
+		<hint>Every movie title should fit in the grid.</hint>
+		<hint>Take the numbered gray blocks to get final answer.</hint>
+		<hint>Answer is "BACON MY HEART"</hint>
+		<solution href="01-movie_time-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Pint Love</title>
+		<file href="02-pint_love-puzzle.pdf"/>
+		<hint>Cut out the strips and fold them so that one side has boxes and one side has lines.</hint>
+		<hint>Try matching up the line side. Perhaps wrapping around a pint glass will help?</hint>
+		<hint>Once the line side is right you will see beer type names - Ale, Wheat, Porter, Stout, etc.</hint>
+		<hint>Look inside of the pint glass. Are you blind or can you "see" a pattern there?</hint>
+        <hint>2 rows of braille are inside the glass.</hint>
+        <hint>Solution is "IS ALE WE NEED"</hint>
+		<solution href="02-pint_love-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Cupid's Follow Up</title>
+		<file href="03-cupids_follow_up-puzzle.pdf"/>
+		<hint>Find famous couples in the grid. This is a word search, but with a twist.</hint>
+		<hint>One couple is BUTTERCUP &amp; WESTLEY (you will not find the &amp; in the grid)</hint>
+		<hint>You will find the couples not in a straight line. It may turn up, down, left, right, and/or diagonally.</hint>
+		<hint>The couples are: George Takei &amp; Brad Altman, Cleopatra &amp; Marc Antony, Romeo &amp; Juliet, Buttercup &amp; Westley, Ellen Degeneres &amp; Portia Derossi, Beyonce &amp; Jay-Z, Tristan &amp; Isolde, John Lennon &amp; Yoko Ono. Once you found all the couples in the grid, have you noticed that shape of each in the grid?</hint>
+		<hint>Each couple is a letter. Answer is "THIS MUCH"</hint>
+		<solution href="03-cupids_follow_up-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Love You, I Do</title>
+		<file href="04-love_you_i_do-puzzle.pdf"/>
+		<hint>This is origami. When you have followed the instructions you should have a heart.</hint>
+		<hint>One side of the heart has 6 numbers.</hint>
+		<hint>Some numbers are light and some are dark. Which should you use?</hint>
+		<hint>Choose the light "side" and the 4 numbers are 25,15,4,1 which spell YODA</hint>
+		<solution href="04-love_you_i_do-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Valentine's Day (meta puzzle)</title>
+		<file href="05-meta-puzzle.pdf"/>
+		<hint>Complete the classic logic puzzle based on the clues given. If you are unfamilar with these types of puzzles go here: https://en.wikipedia.org/wiki/Logic_puzzle</hint>
+		<hint>Once you complete the logic place the answers in the grid below under the pictures.</hint>
+		<hint>So... you notice that the number of words each valentine has doesn't match the other puzzle answers. Perhaps those answers weren't complete?</hint>
+		<hint>Each answer from each puzzle needs to be combined with the candy heart in the logo for that puzzle. Then you will have the complete message to put on the valentine to use. For example "Yoda one for me"</hint>
+		<hint>Index both the received and given numbers into the valentine message to get the answer.</hint>
+		<hint>Final answer is "Brie Mine"</hint>
+		<solution href="05-meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Sonnet (bonus puzzle)</title>
+		<file href="06-sonnet-puzzle.pdf"/>
+		<hint>The word "Initially" is bold. I wonder why?</hint>
+		<hint>The valid values of letters are between 1-23.</hint>
+		<hint>Take the first letter of each sonnet line and convert to a number. Replace the letter in the grid with that value to complete the nonogram (don't know what a nonogram is check this website out: https://en.wikipedia.org/wiki/Nonogram</hint>
+		<hint>The solution is PINT LOVE (pint is spelled out and there is a heart in the nonogram).</hint>
+		<solution href="06-sonnet-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>
