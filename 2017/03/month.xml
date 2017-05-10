@@ -1,0 +1,217 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2017</year>
+	<month>03</month>
+	<title>Alice in Wonderland</title>
+	<notes>Thanks to Justin Melvin and Elizabeth French of Seattle Eastside Game Control for writing all this month's core puzzles!  Thanks to [Cathy Saxton](https://www.idleloop.com/puzzles/) (also Seattle Eastside Game Control) for writing this month's bonus puzzle.</notes>
+	<location>
+		<puzzle>
+			<title>Down the Rabbit Hole</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>Daisy-Chain means you're connecting the words together in a chain.</hint>
+			<hint>Start with putting "Hole" in the blanks after Rabbit.</hint>
+			<hint>It's not a Hole Card from Poker that you're looking for, which other word would fit in the middle?</hint>
+			<hint>Hints for all answers:
+
+- Home for a bunny
+- Three-ring binder user's gadget
+- Frequent customer reward system
+- Place for poker
+- Ping-Pong
+- Wimbleton footware
+- Scuff remedy
+- Finish
+- Not quite grey
+- Character from Alice in Wonderland</hint>
+            <hint>Take the numbered entries in order.</hint>
+            <hint>Partial Answer:
+
+- Rabbit Hole
+- Hole Punch
+- Punch Card
+- Card Table
+- Table Tennis
+- Tennis Shoe
+- Shoe Polish
+- Polish Off
+- Off White
+- White Rabbit</hint>
+            <hint>The solution is DON'T BE LATE</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>dontbelate</answerword>
+	</location>
+
+	<puzzle>
+		<title>Advice from a Caterpillar</title>
+		<file href="01-Advice_from_a_Caterpillar-puzzle.pdf"/>
+		<hint>The set of four words in each column have a connection, as represented by the column header question mark</hint>
+		<hint>You are not changing the words in the word bank, only copying them into place</hint>
+		<hint>Not all of the words in the word bank are full words, some are partial words</hint>
+		<hint>What happened to Alice throughout the story when she ate or drank?</hint>
+        <hint>PARTIAL ANSWER: HEADER 1: Small</hint>
+        <hint>PARTIAL ANSWER: HEADER 2: Little</hint>
+        <hint>PARTIAL ANSWER: HEADER 3: Short</hint>
+        <hint>PARTIAL ANSWER: HEADER 4: Big</hint>
+        <hint>PARTIAL ANSWER: HEADER 5: Super</hint>
+        <hint>PARTIAL ANSWER: HEADER 6: Mega</hint>
+        <hint>PARTIAL ANSWER: COLUMN 1Small-Minded, Small Talk, Small Potatoes, Small Print</hint>
+        <hint>PARTIAL ANSWER: COLUMN 2: Little:Rascals, Finger, Lord Fauntleroy, Mermaid</hint>
+        <hint>PARTIAL ANSWER: COLUMN 3: Short:Bread, Cut, Circuits, Changed</hint>
+        <hint>PARTIAL ANSWER: COLUMN 4: Big: Bang, Shot, Cheese, Apple</hint>
+        <hint>PARTIAL ANSWER: COLUMN 5: Supersonic, Superfluidity, Superhero, Supermodel</hint>
+        <hint>PARTIAL ANSWER: COLUMN 6: Megalith, Megabyte, Megalodon, Megalomania</hint>
+        <hint>Put all the indicated letters into a 5x3 grid then read left to right top to bottom.</hint>
+        <hint>ANSWER: Little Alice Liddell</hint>
+		<solution href="01-Advice_from_a_Caterpillar-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>A Mad Tea-Party</title>
+		<file href="02-Mad_Tea_Party-puzzle.pdf"/>
+        <hint>Filling in the grid is a straightforward logic puzzle with no tricks to it</hint>
+        <hint>The column and row totals are the total number of O's in that row or column (characters that did sit in that seat)</hint>
+        <hint>The Mad Hatter did not sit in the striped armchair</hint>
+        <hint>The March Hair sat in the Side Chair</hint>
+        <hint>PARTIAL ANSWER: COMPLETED GRID
+        
+```
+                1 2 3 4 5 6 7 8 9 10 
+Bill the Lizard o o o   o   o     o 
+Alice                         o o
+Mad Hatter      o       o       o 
+March Hare      o o o     o o     o 
+Dormouse          o   o o o   o o 
+Duchess         o   o   o       o
+```</hint>
+        <hint>Notice in the flavor text the words "I feel"</hint>
+        <hint>Notice the pattern of darker lines on the grid, making 2x3 sections</hint>
+        <hint>ANSWER: Decode the Braille to obtain "Makes Notes" which is the answer to Carrol's famous query</hint>
+		<solution href="02-Mad_Tea_Party-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Off With Her Head!</title>
+		<file href="03-Off_With_Her_Head-puzzle.pdf"/>
+        <hint>You have to draw lines between dots. The title of the puzzle is a big clue</hint>
+        <hint>This is a beheadment puzzle. Take the first letter off the word on the left and connect it to the word on the right</hint>
+        <hint>PARTIAL ANSWER: LEFT WORDS
+            
+- FLOCK
+- SWORD
+- EYES
+- YAWNING
+- HANGER
+- ABUSES
+- WEIGHT
+- UNIT
+- FAIR
+- LICE
+- AGREED</hint>
+        <hint>Focus on the letters that were beheaded</hint>
+        <hint>Put them in order by card rank.</hint>
+        <hint>ANSWER: SHUFFLE AWAY</hint>
+		<solution href="03-Off_With_Her_Head-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Lobster Quadrille</title>
+		<file href="04-Lobster_Quad-puzzle.pdf"/>
+        <hint>"The sound of the creatures"</hint>
+        <hint>Add the sound of "fish" to complete each word, e.g. the first one is BENE'FISH'AL -> BENEFICIAL</hint>
+        <hint>PARTIAL ANSWER: ALL WORDS
+
+- Beneficial
+- Elfish
+- Artifical
+- Uffish (look it up)
+- Deficient
+- Fishtail
+- Standoffish
+- Sufficient
+- Official
+- Selfish
+- Afficionado
+- Superficial
+- Proficient</hint>
+        <hint>FINAL ANSWER: Take the highlighted words to get BEAUTIFUL SOUP</hint>
+		<solution href="04-Lobster_Quad-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Curiouser and Curiouser (meta puzzle)</title>
+		<file href="05-curiouser_and_curiouser-puzzle.pdf"/>
+        <hint>You need to cut out the grid and remake a 3x3 grid. Note, keep the numbers upright! No rotation necessary!</hint>
+        <hint>Don't forget to use your puzzle answers! They will help you know which edges to connect</hint>
+        <hint>Each edge is a synonym for one half of each puzzle answer.</hint>
+        <hint>Connect those to the other half of each answer to make a 3x3 grid.</hint>
+        <hint>CDEFGABC is the center tile's top edge</hint>
+        <hint>PARTIAL ANSWER: CENTER TILE CONNECTIONS: TOP Fabricates</hint>
+        <hint>PARTIAL ANSWER: CENTER TILE CONNECTIONS: RIGHT Elsewhere</hint>
+        <hint>PARTIAL ANSWER: CENTER TILE CONNECTIONS: BOTTOM Gone</hint>
+        <hint>PARTIAL ANSWER: CENTER TILE CONNECTIONS: LEFT Young</hint>
+        <hint>Connect the dots to make a drawing</hint>
+        <hint>It's a cat. Know any famous cats from Alice in Wonderland?</hint>
+        <hint>ANSWER: Cheshire Cat</hint>
+		<solution href="05-curiouser_and_curiouser-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Pi Day (bonus puzzle)</title>
+		<file href="06-pi_day-puzzle.pdf"/>
+        <hint>Word Chain Puzzle Answers:
+
+- Cherry
+- Peach
+- Coconut Cream
+- Rhubarb
+- Strawberry
+- Key Lime
+- Pumpkin
+- Pecan
+- Apple</hint>            
+        <hint>Word Search Puzzle: Replace the π in the search grid with the letters "pi"</hint>
+        <hint>CLUE ANSWERS:
+            
+- Spider
+- Spice
+- Pushpin
+- Typing
+- Picture
+- Cockpit
+- Pita
+- Tropical
+- Bagpipes
+- Scampi
+- Toothpick
+- Pupil
+- Pint
+- Typical</hint>
+        <hint>REMAINING LETTERS: The remaining letters say: "Read letters on left side of the π"</hint>
+        <hint>FINAL ANSWER: Happy Pi Day</hint>
+        <hint>Sectioned Grid Puzzle Answers:
+
+```
+. . . P . .
+. . . . . A
+. S . . . .
+. . . . T .
+Y . . . . .
+
+. . . . . G . .
+O . . . . . . .
+. . . . . . O .
+. . D . . . . .
+. . . . . . . N
+. . . . E . . .
+. S . . . . . .
+. . . S . . . .
+```</hint>
+        <hint>PASTRY GOODNESS</hint>
+		<solution href="06-pi_day-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>
