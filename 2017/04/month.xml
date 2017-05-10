@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2017</year>
+	<month>04</month>
+	<title>Playing Cards</title>
+	<notes>Thanks to Pittsburgh player Justin Weinbaum for writing all of the playing cards puzzles!  A first-time Puzzled Pint author, Justin is a bioengineer with an addiction to solving puzzles.  And thanks to Pittsburgh Game Control member [E. Forney](https://twitter.com/e_forney) for writing the bonus puzzle!</notes>
+	<location>
+		<puzzle>
+			<title>Tar Trivia</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>Notice that "suitable" is emphasized.</hint>
+			<hint>Each "sailing fact" contains the name of a playing card suit...almost.</hint>
+			<hint>The first fact contains "Club" but it is spelled "dlub".</hint>
+			<hint>Once you have all the suits found, perhaps do something with the wrong letter.</hint>
+			<hint>The solution is DECKHAND.</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>deckhand</answerword>
+	</location>
+
+	<puzzle>
+		<title>Clubs</title>
+		<file href="01-Clubs-puzzle.pdf"/>
+        <hint>Can you make a common phrase out of each box?</hint>
+        <hint>Add one to "Hole in" to make "Hole in One"</hint>
+        <hint>You should be able to make a phrase of each boxe by adding one, two, three, or four</hint>
+        <hint>Notice how the boxes with the same number are kind of together?</hint>
+        <hint>Each group will make a letter on the "dance floor"</hint>
+        <hint>Order the letters by the numbers (1,2,3,4)</hint>
+        <hint>ANSWER: LEFT</hint>
+		<solution href="01-Clubs-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Diamonds</title>
+		<file href="02-Diamonds-puzzle.pdf"/>
+        <hint>Once you find all of the items, place in alpha order in the grid.</hint>
+        <hint>Notice the gray boxes. Anything interesting about them?</hint>
+        <hint>Too bad there aren't 26 gray boxes to complete the set.</hint>
+        <hint>Find the missing letters of the alphabet from the gray boxes. For example "H" is missing</hint>
+        <hint>ANSWER HUNT</hint>
+		<solution href="02-Diamonds-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Hearts</title>
+		<file href="03-Hearts-puzzle.pdf"/>
+        <hint>Notice that the first letter of girls names. It provides an instruction.</hint>
+        <hint>Find in each peson's quote the five letter word (there is only one per quote).</hint>
+        <hint>Any way you can match a guy to a gal using that 5 letter word? Is there anything similar between them?</hint>
+        <hint>Andrea's "petal" goes with Ichabod's "ideal". They each share 4 letters.</hint>
+        <hint>With the unmatched letters you should be able to spell out a 16 letter phrase.</hint>
+        <hint>PARTIAL ANSWER: PLENTY OF IN THE SEA</hint>
+        <hint>ANSWER: FISH</hint>
+		<solution href="03-Hearts-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Spades</title>
+		<file href="04-Spades-puzzle.pdf"/>
+        <hint>Find the hidden codings in the image</hint>
+        <hint>The codings are: Pigpen, morse, braille, and semaphore.</hint>
+        <hint>FINAL ANSWER: SOLE</hint>
+		<solution href="04-Spades-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Gin? Rum? (meta puzzle)</title>
+		<file href="05-gin_rum-puzzle.pdf"/>
+        <hint>Player 1 should end up with 2 Clubs,3 Spades,4 Hearts,5 Diamonds with should spell "LOST"</hint>
+        <hint>Player 2 will have 10 Hearts,Jack of Diamonds,Queen of Clubs,King of Diamonds = "INTH"</hint>
+        <hint>ANSWER: LOST IN THE SHUFFLE</hint>
+		<solution href="05-gin_rum-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Sunrise, Sunset (bonus puzzle)</title>
+		<file href="06-bonus-puzzle.pdf"/>
+		<solution href="06-bonus-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>
