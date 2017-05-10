@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2012</year>
+	<month>10</month>
+	<title>Dogs</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Dog Adoption</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>Convert the ages of the dogs to letters.</hint>
+			<hint>“binary to decimal then read as octal”</hint>
+			<hint>“North Killingsworth at Concord Ave”</hint>
+			<hint>The solution is LUCKY LABRADOR TAP ROOM</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>luckylabradortaproom</answerword>
+	</location>
+
+	<puzzle>
+		<title>Fetch</title>
+		<file href="01-fetch-puzzle.pdf"/>
+		<solution href="01-fetch-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Shikaku</title>
+		<file href="02-Shikaku-puzzle.pdf"/>
+		<solution href="02-Shikaku-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Howl-o-ween</title>
+		<file href="03-howloween-puzzle.pdf"/>
+		<solution href="03-howloween-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Bones</title>
+		<file href="04-dem_bones-puzzle.pdf"/>
+		<solution href="04-dem_bones-solution.txt"/>
+	</puzzle>
+</PPMonth>

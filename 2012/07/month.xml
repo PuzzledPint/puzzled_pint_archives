@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2012</year>
+	<month>07</month>
+	<title>Second Birthday</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Invitation</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>Did you notice the left over letters? They tell you what you should do next. </hint>
+			<hint>You may want to use a pen for the balloons.</hint>
+			<hint>Did you make sure to fold the card cleanly along the lines?</hint>
+			<hint>The solution is FUN HOUSE LOUNGE</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>funhouselounge</answerword>
+	</location>
+
+	<puzzle>
+		<title>Birthday Candles</title>
+		<file href="01-birthday_candles-puzzle.pdf"/>
+		<solution href="01-birthday_candles-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Pin the Tale on the Donkey</title>
+		<file href="02-Pin_the_Tail_on_the_Donkey-puzzle.pdf"/>
+		<solution href="02-Pin_the_Tail_on_the_Donkey-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Musical Chairs</title>
+		<file href="03-Musical_Chairs-puzzle.pdf"/>
+		<solution href="03-Musical_Chairs-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Video</title>
+		<file href="https://www.youtube.com/watch?v=98XedbezGjg"/>
+		<solution href="04-video-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Button Candy (meta puzzle)</title>
+		<file href="05-Button_Candy-puzzle.pdf"/>
+		<solution href="05-Button_Candy-solution.pdf"/>
+	</puzzle>
+</PPMonth>

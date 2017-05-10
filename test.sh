@@ -13,14 +13,14 @@ for YEAR in `find . -type d -maxdepth 1 -name '2*'` ; do
 				exit 1
 			fi
 			echo " + conforms to DTD"
-			for HREF in `cat month.xml | grep href | grep -v http:// | sed 's/.*href="//' | sed 's/".*//'` ; do
+			for HREF in `cat month.xml | grep href | grep -v http:// | grep -v https://| sed 's/.*href="//' | sed 's/".*//'` ; do
 				if [ ! -f "$HREF" ] ; then
 					echo " - Referenced file $HREF is missing."
 					exit 1
 				fi
 			done
 			echo " + href files exist"
-			for HREF in `cat month.xml | grep href | grep http:// | sed 's/.*href="//' | sed 's/".*//'` ; do
+            for HREF in `cat month.xml | grep href | egrep '(http://)|(https://)' | sed 's/.*href="//' | sed 's/".*//'` ; do
                 echo " = Note: not checking offsite href $HREF"
             done
 		fi
