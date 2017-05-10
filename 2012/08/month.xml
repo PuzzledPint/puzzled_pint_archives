@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2012</year>
+	<month>08</month>
+	<title>This month, we used selected puzzles from the [WarTron Game](http://wartron.net/).  Since the Game will be re-run in June of 2013, we are going to wait until everyone has had an opportunity to play before updating this site with puzzles.</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Placeholder</title>
+			<file href="placeholder.txt"/>
+			<hint>No known solution.</hint>
+			<solution href="placeholder.txt" />
+		</puzzle>
+		<answerword>placeholder</answerword>
+	</location>
+
+	<puzzle>
+		<title>Placeholder</title>
+		<file href="placeholder.txt"/>
+		<solution href="placeholder.txt"/>
+	</puzzle>
+</PPMonth>

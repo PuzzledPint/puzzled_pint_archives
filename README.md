@@ -58,6 +58,8 @@ Missing solutions:
 - March 2012 is missing both the LOCATION PUZZLE and the solution
 - April 2012
 
+For months with two location puzzles (Portland + Seattle), I only captured the Portland variant.
+
 ----------------------------------------
 
 ##Data Format

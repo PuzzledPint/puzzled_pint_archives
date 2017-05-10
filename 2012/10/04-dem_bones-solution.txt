@@ -1,0 +1,30 @@
+Dem Bones Solution
+~~~~~~~~~~~~~~~~~~
+
+* Each bone is a letter: add up the pips and apply the modifier.  For example the "4 / 1" domino with a "-4" modifier is "4 + 1 - 4", or "1", which becomes "A".
+
+* The bones connect up in one long string following standard domino pip-matching rules.
+
+letter  Value   Dot1    Dot2    Modifier
+J       10      0       3       7
+A       1       3       2       -4
+C       3       2       9       -8
+K       11      9       0       2
+S       19      0       8       11
+K       11      8       4       -1
+E       5       4       6       -5
+L       12      6       1       5
+L       12      1       5       6
+I       9       5       6       -2
+N       14      6       1       7
+G       7       1       8       -2
+T       20      8       5       7
+O       15      5       4       6
+N       14      4       6       4
+S       19      6       0       13
+D       4       0       7       -3
+O       15      7       9       -1
+G       7       9       0       -2
+
+
+Jack Skellington's Dog from "Nightmare Before Christmas" is named "Zero."

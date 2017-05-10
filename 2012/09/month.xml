@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2012</year>
+	<month>09</month>
+	<title>8s</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Traffic Jam</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>You may find this grid useful:
+
+```
+ You may find this grid useful: 
+
+                          1 2 3 4 5 6 7 8
+Theodora and Jeff+Ben     . . . . . . . .
+Francine and Olvanne      . . . . . . . .
+Branndon and Edduardo     . . . . . . . .
+Gretchen and Maverick     . . . . . . . .
+Dafneigh                  . . . . . . . .
+Jaquelin                  . . . . . . . .
+Sheridan and Winifred     . . . . . . . .
+Carolina and Dorothea     . . . . . . . .
+```</hint>
+			<hint>You may find THIS grid useful:
+
+```
+ You may find this grid useful: 
+
+                          1 2 3 4 5 6 7 8
+Theodora and Jeff+Ben     . . . . O . . .
+Francine and Olvanne      O . . . . . . .
+Branndon and Edduardo     . O . . . . . .
+Gretchen and Maverick     . . . . . . . O
+Dafneigh                  . . O . . . . .
+Jaquelin                  . . . . . . O .
+Sheridan and Winifred     . . . . . O . .
+Carolina and Dorothea     . . . O . . . .
+```</hint>
+			<hint>You may want to try indexing the number of the car’s position into the name(s) of the people in the car.</hint>
+			<hint>The solution is FORD FOOD + DRINK</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>fordfooddrink</answerword>
+	</location>
+
+	<puzzle>
+		<title>8 x 8</title>
+		<file href="01-8x8-puzzle.pdf"/>
+		<solution href="01-8x8-puzzle.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Pieces of 8</title>
+        <notes>Puzzle Missing</notes>
+		<solution>Solution Missing</solution>
+	</puzzle>
+
+	<puzzle>
+		<title>Investigate the Estate</title>
+		<file href="03-estate-puzzle.pdf"/>
+		<solution href="03-estate-puzzle.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Eight the Hardway</title>
+		<file href="04-hard8-puzzle.pdf"/>
+		<solution href="04-hard8-puzzle.pdf"/>
+	</puzzle>
+</PPMonth>
