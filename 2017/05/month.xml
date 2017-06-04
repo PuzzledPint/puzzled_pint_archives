@@ -1,0 +1,198 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2017</year>
+	<month>5</month>
+	<title>Pintopia Press</title>
+	<notes>Thanks to the [Chicago Puzzled Pint](https://twitter.com/puzzpintchi)'s Sandor Weisz for writing all of this month's main puzzles!  He also produces puzzlehunts through [the Mystery League](http://mysteryleague.com/).  (Location puzzle courtesy Chicago's Wil Z., and bonus puzzle was a collaboration between Sandor, Wil, and Sarah Weisz.)</notes>
+	<location>
+		<puzzle>
+			<title>Pintopia Press Delivery</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>According to step 2, Pete doesn't live in column 4.</hint>
+			<hint>Step 3 must be the Okafars' or Ruzickas' house, since they are the only uniquely colored house east of a black house.</hint>
+			<hint>In combination with step 2, we now know that Pete is a Tropp, Bentley, or Chatterjee.</hint>
+			<hint>Step 4 is Tays. Since that house is green, and since we know that he never visits two of the same color in a row, we now know step 3 must be Okafors.</hint>
+			<hint>Solution displayed to the player</hint>
+            <hint>Step 5 is Irwins. Step 6 is Ruzickas. Step 7 is Edwards.</hint>
+            <hint>Since we know Pete's house is blue or orange, and there are no orange houses available for this last step, that means Pete's house -- and this house -- are both blue.</hint>
+            <hint>So we now know: Pete's last name is Tropp, the 2nd stop was the Wattanasins, and the 8th stop is the Demirs.</hint>
+            <hint>Take the first letters of the eight houses Pete visits, including his own, to get TWO TIRED</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>twotired</answerword>
+	</location>
+
+	<puzzle>
+		<title>Front Page</title>
+		<file href="01-front_page-puzzle.pdf"/>
+        <hint>You're looking for 6 stolen gems.</hint>
+        <hint>The gems are split up.</hint>
+        <hint>The gems you're looking for are the birthstones for each of the six months shown in the middle. Note that some of these months have multiple birthstones, depending on where you look it up.</hint>
+        <hint>You're looking for:
+
+- GARNET
+- AQUAMARINE
+- DIAMOND
+- EMERALD
+- MOONSTONE
+- RUBY</hint>
+        <hint>The first half of each gem name is in the left column, the second half is in the right column.</hint>
+        <hint>The gem parts are also parts of hyphenated words (the only hyphenated words in the article.)</hint>
+        <hint>Draw lines connecting the two parts of each gem.</hint>
+        <hint>Look where the lines cross. Read underneath</hint>
+        <hint>The words under the line crosses read SHIFT HEADLINE INITIALS BACK TWO</hint>
+        <hint>The headline initials are LGYGN. Shift them back two to get…</hint>
+        <hint>JEWEL</hint>
+        <solution href="01-front_page-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Weather and Sports (two puzzles)</title>
+		<file href="02-weather_and_sports-puzzle.pdf"/>
+        <hint>The %s should be use with the weather conditions.</hint>
+        <hint>Take just the listed percentage of each condition, starting at the front.</hint>
+        <hint>The %s yield the following strings:
+            
+- COUNT
+- RIE
+- SL
+- AST
+- LET
+- TER
+- S
+
+Which spells COUNTRIES LAST LETTERS</hint>
+        <hint>The last letters of the seven countries that the seven cities are located in spell…</hint>
+        <hint>CLEMENT</hint>
+
+        <hint>Connect 4 is indexing: use the 4 extracted letters to spell a 4-letter word.</hint>
+        <hint>Before &amp; After requires you to think about the word semantically…</hint>
+        <hint>… Think of a word that comes after the first word, and before the second.</hint>
+        <hint>Leapfrog is a game of going back and forth between the two words…</hint>
+        <hint>Look at the first letter of the first word, the second of the second, third of the first, and fourth of the second.</hint>
+        <hint>Match Game means find the letters that are shared between the two words</hint>
+        <hint>- SUMP
+- IRON
+- MISO
+- BOWL
+- GENE
+- HALL
+- BASS
+- ROLL</hint>
+        <hint>- POOL
+- DRUM
+- PUMP
+- SOUP</hint>
+        <hint>- PROM
+- POMP</hint>
+        <hint>POM POM</hint>
+        <solution href="02-weather_and_sports-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Word Games</title>
+		<file href="03-word_games-puzzle.pdf"/>
+        <hint>Do the Jumble first. It's straightforward jumble.</hint>
+        <hint>- CRUSH
+- JOKERS
+- PRAWNS
+- TRASHY
+- HOUSE</hint>
+        <hint>The final Jumble phrase starts with a C.</hint>
+        <hint>The jumble phrase is "CROSS" YOUR HEARTS.</hint>
+        <hint>The crossword is normal, except the five missing clues correspond to the five Jumble words. Each of those Jumble words can serve as a missing crossword clue.</hint>
+        <hint>The answers to the five crossword clues that are missing are:
+    
+- SMASH
+- CLOWNS
+- SHRIMP
+- GARISH
+- ABODE</hint>
+        <hint>Note that the Jumble words and the crossword words they pair with are the same lengths.</hint>
+        <hint>"CROSS" YOUR HEARTS means move the position of the hearts to the corresponding boxes in the crossword.</hint>
+        <hint>Those five hearts, in the order of the Jumble words, spell…</hint>
+        <hint>ALPHA        </hint>
+
+        
+		<solution href="03-word_games-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Business News</title>
+		<file href="04-business_news-puzzle.pdf"/>
+        <hint>Each headline refers to two stock symbols, one explicitly given, one not.</hint>
+        <hint>The rest of the headline is a clue for a word.</hint>
+        <hint>Words clued in each headline, in order:
+- MASK
+- FUDGE
+- DOMES
+- NECKLACE
+- HOEDOWN
+- HARNESS
+- MASTIFF
+- MOSS
+- ALCOHOL
+- SAFE
+- MOPED
+- TABBY
+- EVIL
+- GERM
+- NURSE</hint>
+        <hint>Each pair of stock tickers completes the full word, minus a letter.</hint>
+        <hint>Mergers mean the missing letter comes between the two symbols. Acquisitions mean the acquired company goes inside the named company, along with missing letter.</hint>
+        <hint>The missing letters, in order, spell SUM CENTS OF PAIRS</hint>
+        <hint>By adding the cents of the stock prices of each pair of companies, you get a number between 1 and 26.</hint>
+        <hint>The cent totals convert to alpha characters: SOLUTION IS BUCKY. The solution is BUCKY</hint>
+		<solution href="04-business_news-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The Next Day (meta puzzle)</title>
+		<file href="05-next_day-puzzle.pdf"/>
+        <hint>1. First, cut off or fold back the right margin on each page.
+2. Orient each page so the P in the logo is facing the proper way. The front page should be oriented normally.
+3. Interleaf the pages: tuck the bottom 1/4 or so of each page under the next page. You'll end up with a 4x4 grid of pages. The middle intersection will make a bullseye out of the Target logos.
+4. Tape them together</hint>
+        <hint>Time to use those strange black splotches. Next to each one, write the letter that's being obscured.</hint>
+        <hint>You need to use the five pet names. It'll help to spin the resulting 16"x16" square so a given puzzle is oriented right while work on that puzzle's answer.</hint>
+        <hint>The petsitter's note says "connect the dots".</hint>
+        <hint>For each of the five pet names, draw an imaginary path between the black dots that represent the letters in the answer, in order. No letter of the alphabet is obscured by more than one black dot.</hint>
+        <hint>Each of the five paths will spell a letter. POM POM will spell the same letter twice.</hint>
+        <hint>The final answer is YELLOW.</hint>
+		<solution href="05-next_day-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Horoscopes (bonus puzzle)</title>
+		<file href="06-horoscopes-puzzle.pdf"/>
+
+        <hint>Each horoscope describes a famous person. Most are fictional; a few are real.</hint>
+        <hint>Every answer is a first name or single name.</hint>
+        <hint>In order from Aries to Pisces, the horoscopes describe these people:
+            
+- JESUS
+- THELMA
+- KERMIT
+- TARZAN
+- LOT
+- VENUS
+- BJORK
+- MAGNETO
+- RUBYTUESDAY
+- DAREDEVIL
+- SUPERMAN
+- GASTON</hint>
+        <hint>Note that LOT is LEO. And RUBYTUESDAY is a SAGITTARIUS.</hint>
+        <hint>Each name is the same length as its sign.</hint>
+        <hint>Each name and correspondign sign shares one letter in one position. LOT / LEO shares an L.</hint>
+        <hint>The 12 matched letters should be put in order according to the number of stars at the end of the horoscope, from 1 to 12.</hint>
+        <hint>The 12 extracted letters spell OVER LAST STAR.</hint>
+        <hint>Look at the letter immediately over the last — i.e. rightmost — star in each horoscope. In order from Aries to Pisces, they spell…</hint>
+        <hint>UNSUBSCRIBE!</hint>
+		<solution href="06-horoscopes-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>
