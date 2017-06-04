@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2012</year>
+	<month>12</month>
+	<title>Disney Star Wars</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Title Here</title>
+			<file href="https://www.youtube.com/watch?v=aU-DEbZ_kIE"/>
+			<hint>There are multiple clips, each played one or more times fast or slower.</hint>
+			<hint>Each clip is separated by a cheesy video transition.</hint>
+			<hint>The transitions separate each letter from the next.</hint>
+			<hint>You can translate the fast playing video into one kind of symbol, the slow playing into another.</hint>
+            <hint>Have you tried mapping to Morse code?</hint>
+			<hint>Solution displayed to the player</hint>
+            <hint>The solution is VELOCULT.</hint>
+			<solution>This puzzle consists of a sequence of video clips. Of Jar-Jar. Each letter is a single scene, with cheesy video transitions between letters. The clip is repeated some number of times, fast or slow. The fast (short) clips are Morse Code dots. The slow (long) clips are Morse Code dashes.
+
+- V = fast, fast, fast, slow
+- E = fast
+- L = fast, slow, fast, fast
+- O = slow, slow, slow
+- C = slow, fast, slow, fast
+- U = fast, fast, slow
+- L = fast, slow, fast, fast
+- T = slow
+Meet at Velocult.
+</solution>
+		</puzzle>
+		<answerword>velocult</answerword>
+	</location>
+
+	<puzzle>
+		<title>Voice</title>
+		<file href="01-voice-puzzle.pdf"/>
+		<solution href="01-voice-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Power</title>
+		<file href="02-power-puzzle.pdf"/>
+<hint>The shifters only fit certain spots and can be placed on the board without much effort.</hint>
+<hint>Toward the bottom-left, there is a spot with two primary-color inputs.  It doesn't make sense to put a subtractor there.  Use a combiner.</hint>
+<hint>Close to the middle of the board is a spot that has a yellow and a blue input.  You can't subtract blue from yellow, so this must be a combiner.</hint>
+<hint>The remaining two spots are the two subtractors.</hint>
+<hint>Now label or color the lines and work out the final output colors.  </hint>
+<hint>Confirm that your outputs are:
+    
+  - red
+  - green
+  - white
+  - cyan
+  - cyan
+  - magenta
+  - yellow
+  - blue
+  - black</hint>
+<hint>Those are the English names, but who did Luke buy the power converter parts from?  Use the equivalent Jawa names.</hint>
+<hint>Take the first letter of each Jawa color name.</hint>
+		<solution href="02-power-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Racist</title>
+		<file href="03-racist-puzzle.pdf"/>
+		<solution href="03-racist-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Santa</title>
+		<file href="04-santa-puzzle.pdf"/>
+		<solution href="04-santa-solution.pdf"/>
+	</puzzle>
+</PPMonth>
