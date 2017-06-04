@@ -1,0 +1,24 @@
+#Webcomics XKCD Solution
+
+1. Look at each picture and try to identify the colored object.
+2. Turn each color into a number using [resistor color codes](http://en.wikipedia.org/wiki/Resistor_color_codes#Resistor_color_coding)
+3. Use the number to index into each name
+4. How do xkcd fans find each other?  "Using Geohashing"  (see also: <http://wiki.xkcd.com/geohashing/Main_Page>)
+
+| Color  | Item       | Index | Indexed Letter | Image Source         |
+|:-------|:-----------|:-----:|:--------------:|:---------------------|
+| Violet | Dinosaur   |   7   |       U        | http://xkcd.com/15/  |
+| Blue   | Cactus     |   6   |       S        | http://xkcd.com/35/  |
+| Yellow | String     |   4   |       I        | http://xkcd.com/260/ |
+| Violet | Balloon    |   7   |       N        | http://xkcd.com/260/ |
+| White  | Boomerang  |   9   |       G        | http://xkcd.com/475/ |
+| Brown  | Globe      |   1   |       G        | http://xkcd.com/825/ |
+| Red    | Bed        |   2   |       E        | http://xkcd.com/571/ |
+| Green  | Laptop     |   5   |       O        | http://xkcd.com/538/ |
+| Red    | Sheep      |   2   |       H        | http://xkcd.com/571/ |
+| Yellow | Kayak      |   4   |       A        | http://xkcd.com/209/ |
+| Brown  | Squirrel   |   1   |       S        | http://xkcd.com/776/ |
+| Yellow | Lighthouse |   4   |       H        | http://xkcd.com/59/  |
+| Blue   | Sierpinski |   6   |       I        | http://xkcd.com/95/  |
+| Yellow | Coin       |   4   |       N        | http://xkcd.com/693/ |
+| Orange | Megaphone  |   3   |       G        | http://xkcd.com/684/ |

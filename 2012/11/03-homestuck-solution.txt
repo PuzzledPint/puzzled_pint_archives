@@ -1,0 +1,11 @@
+Terezi - hints & solution
+
+The two grids are Tentaizu puzzles ("tentaizu" translates as "star map").
+A tentaizu puzzle is solved by placing a number of stars in the grid. The total number of stars is given outside the grid. The numbers printed in the grid are the number of adjacent squares (orthagonal and diagonal) that have stars.
+ - no cell with a number may contain a star
+ - a star may appear in a cell with no (or not all) adjacent cells containing numbers
+
+Once the two tentaizu are solved, resolve the stars as letters in Braille.
+
+Braille should spell-out AQUA-RIUS.
+

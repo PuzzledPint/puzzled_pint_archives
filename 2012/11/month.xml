@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2012</year>
+	<month>11</month>
+	<title>Webcomics</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Webcomics</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>List of Characters
+
+- Aubrey from Something Positive
+- Detestai from RPG World
+- Brent from PVP
+- Annabelle from Inherit the Earth
+- Hazel from Girls with Slingshots
+- Ray Smuckles from Achewood
+- Zeetha from Girl Genius
+- Atlas from Lackadaisy
+- Snooch from Two Lumps
+- Freyja from Diesel Sweeties
+- Nick Wellington from General Protection Fault
+- Ozy from Ozy and Millie
+- Marten Reed from Questionable Content
+- Tip Wilkin from Skin Horse
+- Catsby from Penny Arcade
+- Sheldon from Sheldon
+- Millie from Ozy and Millie
+- Gabe from Penny Arcade
+- Tagon from Schlock Mercenary
+- Torg from Sluggy Freelance
+- Avery from Ozy and Millie
+- Mitzi May from Lackadaisy
+- John Egbert from Homestuck
+- Gilgamesh from Girl Genius
+- Dragobo from RPG World
+- Kestrel from Queen of Wands
+- Machine Elf from Overcompensating
+- Hero from RPG World
+- Buck Godot from Buck Godot
+- Maura from Diesel Sweeties
+- Joanna from Overcompensating
+- Gwynn from Sluggy Freelance
+- Modest Medusa from Modest Medusa</hint>
+			<hint>The text below each portrait is a cryptogram for the character's name.</hint>
+			<hint>DRMT KUSSRDPZJD is NICK WELLINGTON</hint>
+			<hint>Read the boxed letter in each character's name in order, left to right and top to bottom.</hint>
+            <hint>Once you have the webcomics with non-human characters, look at their first letters in order to find out where to go.</hint>
+			<hint>Solution displayed to the player</hint>
+            <hint>The solution is RIALTO POOLROOM</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>rialtopoolroom</answerword>
+	</location>
+
+	<puzzle>
+		<title>xkcd</title>
+		<file href="01-xkcd-puzzle.pdf"/>
+		<hint href="01-xkcd-hints.pdf"/>
+		<solution href="01-xkcd-solution.txt"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Dinosaur Comics</title>
+		<file href="02-dinosaur_comics-puzzle.pdf"/>
+		<solution href="02-dinosaur_comics-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Homestuck</title>
+		<file href="03-homestuck-puzzle.pdf"/>
+		<solution href="03-homestuck-solution.txt"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Spin-Offs</title>
+		<file href="04-spinoffs-puzzle.pdf"/>
+		<solution href="04-spinoffs-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Ballot (bonus puzzle)</title>
+		<file href="05-ballot-puzzle.pdf"/>
+		<solution href="05-ballot-solution.pdf"/>
+	</puzzle>
+</PPMonth>
