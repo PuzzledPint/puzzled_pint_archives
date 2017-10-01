@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2014</year>
+	<month>10</month>
+	<title>Back to the Future</title>
+	<notes>Thanks to the Chicago Puzzled Pint organizers for writing all of this month's puzzles!</notes>
+	<location>
+		<puzzle>
+			<title>The Future is in Trouble</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>These Polaroids are from the past... [past Puzzled Pints](http://www.puzzledpint.com/puzzles/), to be exact!</hint>
+			<hint>The numbers tell you what to do with the Polaroids. What time-based information do you have about each photo?</hint>
+			<hint>Find the month when each photo was featured. Use the number to index into the month name and extract a letter!</hint>
+			<hint>"Restore the timeline" by placing the letters in chronological order (look at when the Puzzled Pint events happened).</hint>
+			<hint>The solution is: Mr. Fusion</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>mrfusion</answerword>
+	</location>
+
+	<puzzle>
+		<title>1885</title>
+		<file href="01-1885-puzzle.pdf"/>
+        <hint href="01-1885-hint.pdf"/>
+        <hint>Except for the cells with intersections, you must enter/exit each cell on exactly two sides. If you establish two of those, you can draw the track.</hint>
+        <hint>If you can eliminate one side of a cell containing a station, you know which two sides must be passed through.</hint>
+        <hint>You can't position track that will cause you to create a loop before entering every cell.</hint>
+        <hint>For an idea on how to begin the extraction, read the end of the flavortext.</hint>
+		<solution href="01-1885-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>1955</title>
+		<file href="02-1955-puzzle.pdf"/>
+        <hint>The title is a clue.</hint>
+        <hint>Seas = Cs</hint>
+        <hint>Connect all the letters of ENCHANTMENT, which appear under all the Cs.</hint>
+        <hint>Start at the 10:00 position and move clockwise.</hint>
+        <hint>Find the letters in each of the 10 names that intersect with the C you just drew.</hint>
+        <hint>Read the intersected letters clockwise.</hint>
+		<solution href="02-1955-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Alt. 1985</title>
+		<file href="03-1985-puzzle.pdf"/>
+        <hint>Don't recognize anything in the trivia questions? Remember, things have really gotten mixed up.</hint>
+        <hint>The answers have gotten mixed up two, though a bit extra.</hint>
+        <hint>Some of the answers are more than one word.</hint>
+        <hint>Sample Hints for individual questions:</hint>
+        <hint>Geography (7):</hint>
+        <hint>The first two nicknames mentioned contain the word "City".</hint>
+        <hint>The city is in Illinois.</hint>
+        <hint>Entertainment (5):</hint>
+        <hint>The sisters' last name is Wilson.</hint>
+        <hint>Their other hits include Dreamboat Annie, Barracuda, and All I Want to Do is Make Love to You.</hint>
+        <hint>History (6,6):</hint>
+        <hint>The summit took place in Switzerland.</hint>
+        <hint>The answer to the question was an American, and the man he met with mentioned in the question was a Russian.</hint>
+        <hint>Art and Literature (5, 4):</hint>
+        <hint>The title of the movie mentioned is "A {blank} to a {blank}".</hint>
+        <hint>The series is a spy series.</hint>
+        <hint>Science and Nature (5):</hint>
+        <hint>One of the words of the first anagram is SOUTH</hint>
+        <hint>The answer relates to a feature of the Earth's atmosphere.</hint>
+        <hint>Sports and Leisure (9):</hint>
+        <hint>The athlete mentioned is a German with the initials B. B.</hint>
+        <hint>The sport is Tennis.</hint>
+		<solution href="03-1985-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>2015</title>
+		<file href="04-2015-puzzle.pdf"/>
+        <hint>Almost every team in a division belongs to a category that spans all divisions.</hint>
+        <hint>Categories: Mythical creatures, Positions of leadership, Diseases, Units of measurement, Comic strip characters, Liquors, Cheeses, Weather systems, Arcade game characters.</hint>
+        <hint>Find the teams that don’t fit into any category. There is one per division.</hint>
+        <hint>Use the W number as an index on the City name of those outlier teams, and the L number as an index on the Team name.</hint>
+        <hint>The 20 letters in order spell DISEASES NORTH TO SOUTH</hint>
+        <hint>The cities in order are: Calgary, Seattle, San Francisco, Los Angeles, Miami, Havana, Panama City, Quito, Cape Horn, Antarctic.</hint>
+        <hint>Look at the first letters of the team names from those 10 cities.</hint>
+		<solution href="04-2015-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Restore the Timeline (Meta Puzzle)</title>
+		<file href="05-restore_the_timeline-puzzle.pdf"/>
+        <hint>Each clue fits a word that was found in the previous 4 puzzles.</hint>
+        <hint>Locate that word in the grid. You may want to give the first letter of each one.</hint>
+        <hint>Place the grids in the appropriate part of the timeline</hint>
+		<solution href="05-restore_the_timeline-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Save the Clock Tower (Bonus Puzzle)</title>
+		<file href="06-save_the_clock_tower-puzzle.pdf"/>
+        <hint>What part of a clock can translate to missing letters?</hint>
+        <hint>Bolts may have struck multiple letters at once.</hint>
+        <hint>Now that you have the numbers can they be used with the circled letters in some way? Does the flavor text hint at that?</hint>
+		<solution href="06-save_the_clock_tower-solution.pdf"/>
+	</puzzle>
+</PPMonth>

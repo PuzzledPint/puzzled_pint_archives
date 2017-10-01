@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2014</year>
+	<month>9</month>
+	<title>Let's Talk About...</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>SACKS</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>The flavor text hints at a common code.</hint>
+			<hint>Who was born on the date in the flavor text?</hint>
+			<hint>Dotters of Ye Olde Revolution and Dashiell Hammett's Falconry and Typewriter Society also hint at the code.</hint>
+			<hint>Between "plastic" and "paper," which font would be favored by the Dotters and which by the Dashiells?</hint>
+            <hint>Can you make a paper/plastic choice with each of the grouped words?</hint>
+            <hint>Each word can have either "plastic" or "paper" in front of it...</hint>
+            <hint>Plastic words are dots.  Paper words are dashes.</hint>
+            <hint>Each group of dots and dashes decodes into a morse letter.</hint>
+			<hint>Solution displayed to the player</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>bowlingalley</answerword>
+	</location>
+
+	<puzzle>
+		<title>SIX</title>
+		<file href="01-six-puzzle.pdf"/>
+		<solution href="01-six-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>SOCKS</title>
+		<file href="02-socks-puzzle.pdf"/>
+		<solution href="02-socks-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>SETS</title>
+		<file href="03-sets-puzzle.pdf"/>
+		<solution href="03-sets-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>SAX</title>
+		<file href="04-sax-puzzle.pdf"/>
+        <hint href="04-sax-hints.pdf"/>
+		<solution href="04-sax-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>??? (Meta Puzzle)</title>
+		<file href="05-meta-puzzle.pdf"/>
+		<solution href="05-meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>SPECS (Bonus Puzzle)</title>
+		<file href="06-specs-puzzle.pdf"/>
+		<solution href="06-specs-solution.pdf"/>
+	</puzzle>
+	<allPuzzles href="allpuzzles.pdf"/>
+</PPMonth>

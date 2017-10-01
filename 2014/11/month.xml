@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2014</year>
+	<month>11</month>
+	<title>Ancient Egypt</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>X Marks the...</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>2 down is OX. 4 across is EARWAX. 16 down is TAXES. See anything eXciting yet?</hint>
+			<hint>Every crossword answer contains an X.</hint>
+			<hint>The answers to the clues are listed below in crossword order:
+
+Across: ONYX, EARWAX, ELIXIR, AXIS, HEXAGON, XCHROMOSOME, XA, XI, TEXAS, SYNTAXES, AXLE, XENON, EXILES, APEX, XOR, XS
+
+Down: EXPLICIT, OX, XE, EXHALE, XEROX, APEX, NOX, LYNXES, IBEXES, TAX, AUXILIARY, AXE, EPOXY, LAX, SAX</hint>
+			<hint>Join the dots.  What could the dots be...?</hint>
+            <hint>Join the X's in the answers in the order given in the blurb beneath the title. So, for 7-4d-1-7-12, join the X in 7 (AXIS) to the X in 4d (EXHALE), then join the X in 4d (EXHALE) to the X in 1 (EXPLICIT), etc.</hint>
+            <hint>Joining the dots makes letters. The first letter is an E.</hint>
+			<hint>The solution is: ECZEMA</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>eczema</answerword>
+	</location>
+
+	<puzzle>
+		<title>The Library of Alexandria</title>
+		<file href="01-library-puzzle.pdf"/>
+		<solution href="01-library-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Secret of the Pyramid</title>
+		<file href="02-secret_of_the_pyramid-puzzle.pdf"/>
+        <hint href="02-secret_of_the_pyramid-hints.pdf"/>
+		<solution href="02-secret_of_the_pyramid-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>For the Want of a Stargate</title>
+		<file href="03-stargate-puzzle.pdf"/>
+		<solution href="03-stargate-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Rosetta Stone (regular version)</title>
+		<file href="04-rosetta_stone-puzzle.pdf"/>
+        <hint href="04-rosetta_stone-hint.pdf"/>
+		<solution href="04-rosetta_stone-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Rosetta Stone (large print version)</title>
+		<file href="04-rosetta_stone_large-puzzle.pdf"/>
+        <hint href="04-rosetta_stone-hint.pdf"/>
+		<solution href="04-rosetta_stone-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The Great Pyramid (Meta Puzzle)</title>
+        <notes>Note: the answer sheet is required to solve the meta.</notes>
+		<file href="05-great_pyramid-puzzle.pdf"/>
+        <hint href="05-great_pyramid-hints.txt"/>
+		<solution href="05-great_pyramid-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Who Am I? (Bonus Puzzle)</title>
+		<file href="06-who_am_i-puzzle.pdf"/>
+		<solution href="06-who_am_i-solution.txt"/>
+	</puzzle>
+    
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>

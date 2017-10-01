@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2014</year>
+	<month>12</month>
+	<title>Reason's Greetings</title>
+	<notes>This month's puzzles were created by Puzzled Pint organizers from Portland, Chicago, and the Bay Area.</notes>
+	<location>
+		<puzzle>
+			<title>Gift Exchange</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>Each answer word on the left side is similar to an answer word on the right.</hint>
+			<hint>An example word pair is auditory organs EARS and eons ERAS.</hint>
+			<hint>The AR and RA in EARS/ERAS fit in the windowpane-shaped blanks. You can use this to figure out which word pair goes in which spot.</hint>
+			<hint>The remaining word pairs are :
+
+- FARMER/FRAMER
+- DEIFY/EDIFY
+- SIGN/SING
+- SPILT/SPLIT
+- VEER/EVER
+- BOAST/BOATS
+- PLAIN/PALIN
+- ARCING/RACING</hint>
+			<hint>The solution is: EYESTRAIN</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>eyestrain</answerword>
+	</location>
+
+	<puzzle>
+		<title>Elf Adventures</title>
+		<file href="01-elf_adventures-puzzle.pdf"/>
+        <hint href="01-elf_adventures-hints.txt"/>
+		<solution href="01-elf_adventures-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Make It Snow!</title>
+		<file href="02-make-it-snow-puzzle.pdf"/>
+		<solution href="02-make-it-snow-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Solstice</title>
+		<file href="03-solstice-puzzle.pdf"/>
+        <hint href="03-solstice-hints.txt"/>
+		<solution href="03-solstice-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Yule Log</title>
+		<file href="04-yulelog-puzzle.pdf"/>
+		<solution href="04-yulelog-puzzle.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>A Gift for My True Love (Meta Puzzle)</title>
+		<file href="05-gift-puzzle.pdf"/>
+		<solution href="05-gift-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Spin the Dreidels (Bonus Puzzle)</title>
+		<file href="06-dreidel-puzzle.pdf"/>
+		<solution href="06-dreidel-solution.pdf"/>
+	</puzzle>
+</PPMonth>
