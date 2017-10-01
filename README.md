@@ -1,4 +1,4 @@
-#Puzzled Pint Puzzle Archive Format
+# Puzzled Pint Puzzle Archive Format
 
 ## Intent / In-Scope
 
@@ -22,7 +22,7 @@
 - Upon import, I was anal-retentive and renamed the puzzle PDFs to `{number}-{title}-{puzzle | solution}.pdf`. That let me better see what files mapped to what puzzle. Some of the original names were pretty silly and embarrassing (“mypuzzle.pdf” and “final, version 3” and such). We don't have to stick to this naming.
 - The test app doesn't specifically test for this (yet?) but there should be no files in these folders that are not referenced in the XMLs. That is, the XML always points to files that have no local external dependencies (such as images, or links to other local files). It's possible that some things may have links out to external resources such as crossword solvers, anagram solvers, etc.
 
-##month.xml
+## month.xml
 
 Each month folder holds a `month.xml` file. This describes the following:
 
@@ -35,7 +35,7 @@ Each month folder holds a `month.xml` file. This describes the following:
 
 They should all conform to the top level `month.dtd`. Look at the comments there for more info. A `sample_month.xml` file lives at the top level as an example to copy when adding new months.
 
-##Validation
+## Validation
 
 Run the top level `test.sh` script and this will spider into each year/month folder and:
 
@@ -43,7 +43,7 @@ Run the top level `test.sh` script and this will spider into each year/month fol
 - Validate that any `href` attributes point to real files.
 - Warn of any `href` attributes that point to external domains.
 
-##Assorted Notes
+## Assorted Notes
 
 All freeform text in the XML is Markdown. We don't have to stick to this — for example, we can render it as HTML upon database import — but it's a start. They should be considered [Github-flavored markdown](https://help.github.com/articles/github-flavored-markdown/). They occasionally make use of links, bold, italics, tables, and occasional code-blocks.
 
@@ -62,7 +62,7 @@ For months with two location puzzles (Portland + Seattle), I only captured the P
 
 ----------------------------------------
 
-##Data Format
+## Data Format
 
 ### The Puzzle
 
