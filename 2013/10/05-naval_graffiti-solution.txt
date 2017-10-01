@@ -1,0 +1,11 @@
+Most of these men are Dancing Men, per the Sherlock Holmes story of the same name. Using a Dancing Men codesheet (and ignoring the men with two flags), you can read the message:
+
+TWICE FLAGGED MEN HOLD VIGENERES KEY UHO AFVOW YCBIIT YOD ZVFJTXQIE YOIK BNCAVV
+
+"Naval" and men with two flags both point to semaphore. Reading the two-flagged men as semaphore, the key is
+BAKER ELEMENTARY
+
+The remainder of the message then decodes to:
+THE WORDS MYOPIC AND PROFITEER FORM ANSWER
+
+MYOPIC PROFITEER

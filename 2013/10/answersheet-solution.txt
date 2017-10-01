@@ -1,0 +1,11 @@
+Each of the other answers contains the name of one of the seven given characters:
+
+heADLinERs - ADLER
+WhATS yOur poisoN - WATSON
+MORtAl wouNds - MORAN
+LoudEST RoADiEs - LESTRADE
+MYopiC pROFiTeer - MYCROFT
+MinORIty pARTY - MORIARTY
+
+The unmatched character is the mastermind:
+MRS. HUDSON

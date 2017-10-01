@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2013</year>
+	<month>7</month>
+	<title>Tripel Agent</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Rule of Three</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>Rule of Three is a writing principle that says things are more meaningful when they come in threes.</hint>
+			<hint>When using the "rule of three," which letter from each filled-in word is most meaningful?</hint>
+			<hint>The solution is: Horse Brass</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>horsebrass</answerword>
+	</location>
+
+	<puzzle>
+		<title>Suspicious Characters</title>
+		<file href="01-characters-puzzle.pdf"/>
+		<solution href="01-characters-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Numbers Station</title>
+		<file href="02-numbers-puzzle.pdf"/>
+        <hint href="02-numbers-transcript.pdf"/>
+        <hint href="02-numbers-hints.txt"/>
+		<solution href="02-numbers-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Spy vs. Spy vs. Spy</title>
+		<file href="03-spy_vs_spy_vs_spy-puzzle.pdf"/>
+		<solution href="03-spy_vs_spy_vs_spy-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Shady Message</title>
+		<file href="04-shady_message-puzzle.pdf"/>
+		<solution href="04-shady_message-solution.pdf"/>
+	</puzzle>
+
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>

@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2013</year>
+	<month>3</month>
+	<title>Jeopardy</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Title Here</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>Trivia Answers:
+
+- Arsenic
+- Austin
+- Bismarck
+- Cobalt
+- Dilemma
+- Face
+- Fava
+- French Connection
+- Giboon
+- Gold digger
+- Gong
+- Hamlet
+- Iron
+- Julius Caesar
+- Just dance
+- Lincoln
+- London Bridge
+- Low
+- Madison
+- Margarita
+- Nickel
+- Othello
+- Oxygen
+- Providence
+- Rope
+- Salty Dog
+- Scrwdriver
+- Tank
+- Tempest
+- Twelfth Night</hint>
+			<hint href="00-location-hint2.png"/>
+			<hint>Have you tried indexing?</hint>
+			<hint>“What is at Basecamp Brewing Company?”</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>basecampbrewingcompany</answerword>
+	</location>
+
+	<puzzle>
+		<title>Recap</title>
+		<file href="01-recap-puzzle.pdf"/>
+        <hint href="01-recap-hints.txt"/>
+		<solution href="01-recap-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Mustaches</title>
+		<file href="02-mustache-puzzle.pdf"/>
+		<solution href="02-mustache-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Off Course</title>
+		<file href="03-off_course-puzzle.pdf"/>
+		<solution href="03-off_course-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Boolean Jeopardy</title>
+		<file href="04-boolean-puzzle.pdf"/>
+		<solution href="04-boolean-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Meta Puzzle (on the answer sheet)</title>
+		<file href="answersheet.pdf"/>
+		<solution href="answersheet-solution.pdf"/>
+	</puzzle>
+
+	<answerSheet href="answersheet.pdf"/>
+	<answerSheetSolution href="answersheet-solution.pdf"/>
+</PPMonth>

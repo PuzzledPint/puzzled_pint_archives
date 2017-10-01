@@ -1,0 +1,56 @@
+﻿Table is a color wheel.  White is the center.  Green puts his in the center showing that he is hooking up with White.  Therefore, Mrs. White's six pack is put on the green section of the color wheel to indicate that she is hooking up with him.  The other colors can then be determined from the green with warmer colors going clockwise from there.  For instance, Prince Azure puts his on the “mustard” colored spot on the wheel while Col Mustard puts his on the Azure (blue) spot on the wheel.  Note:  Mrs. Meadow-Brook in the Clue expansion is a kind of blue.
+
+
+
+The pairings end up being …
+
+
+Ms Scarlett & Mrs Meadow-Brook
+
+Col Mustard & Prince Azure
+
+Professor Plum & Mrs. Peacock
+
+Ms White & Mister Green
+
+
+
+The six packs are coded numbers based on the Nemeth Braille system of numbers and math.
+
+
+
+Ms. Scarlett's own six pack is a 9 in this system.  This indexed into her name gives a T.  She adds to this the encoded 1 that the six pack that her lover (Mrs.Meadow-Brook) has brought decodes to.  So indexing from the 9th letter we go 1 space to the 10th letter also a T.  So Ms. Scarlett decodes to TT.
+
+
+
+Similarly, Col Mustard's own six pack is a 1 which gives the letter C.  His partner (Prince Azure) gives him a six pack that decodes to 5.  Going 5 letters from the C (or 1 + 5 from the start) we get a T.  Thus Col Mustard decodes to CT.
+
+
+
+Doing the same for all we get...
+
+
+Plum – OP
+
+Peacock – PO
+
+White – SI
+
+Green – TE
+
+Meadow-Brook – SA
+
+Scarlett – TT
+
+Azure – RA
+
+Mustard – CT
+
+
+
+I've put them in order but they will have to do a bit of shuffling to get OPPOSITES ATTRACT
+
+
+Then this is used to solve the cards.  Opposite colors/ideas than the one expected.
+
+

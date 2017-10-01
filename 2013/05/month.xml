@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2013</year>
+	<month>5</month>
+	<title>Arrested Development</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Title Here</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>Did you notice that it is a PIG PEN cipher?</hint>
+			<hint>The first word decodes cleanly, but there's something about the rest that isn't quite right.</hint>
+			<hint>Have you tried reorienting the symbols?</hint>
+			<hint>Have you tried reorienting the symbols by using the time?</hint>
+			<hint>Orient your paper so that the top of the page faces an analog clock's hour hand (90 degrees right for 3:00, 90 degrees left for 9:00, upside-down for 6:00, etc.)</hint>
+			<hint>The message says: Prison break on Tuesday meet at Columbia River Brewing</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>columbiariverbrewing</answerword>
+	</location>
+
+	<puzzle>
+		<title>Banana Stand</title>
+		<file href="01-bananastand-puzzle.pdf"/>
+		<solution href="01-bananastand-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Hashiwokakero</title>
+		<file href="02-hashiwokakero-puzzle.pdf"/>
+		<solution href="02-hashiwokakero-solution.txt"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Stair Car</title>
+		<file href="03-staircar-puzzle.pdf"/>
+        <hint href="03-staircar-grid.pdf"/>
+		<solution href="03-staircar-puzzle.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>White Collar Crimes</title>
+		<file href="04-crimes-puzzle.pdf"/>
+		<solution href="04-crimes-solution.pdf"/>
+	</puzzle>
+</PPMonth>

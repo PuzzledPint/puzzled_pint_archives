@@ -1,0 +1,12 @@
+The Owls -- Hints
+~~~~~~~~~~~~~~~~~
+
+1. Note the word "elementary" in the flavor text.
+ 
+2. In the plaintext message -- notice anything different about the black letters vs. the gray (specifically relating to hint 1)?
+ 
+3. In the coded message, there are pairs of letters and numbers.  What the letters represent should be obvious now (same as dark letters in previous hint).  But what do the numbers mean?
+ 
+4. Use the numbers to index letters into the element names.  This should work until you reach the last line.
+ 
+5. Use the message to decode the last line.

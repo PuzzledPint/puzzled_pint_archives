@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2013</year>
+	<month>9</month>
+	<title>Bar Games</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Pub/Bar Trivia</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>Every answer in the left column contains "PUB." Every answer in the right column is a NUMBER.</hint>
+			<hint>Have you tried indexing?</hint>
+			<hint>The solution is: Spirit of 77</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>spiritof77</answerword>
+	</location>
+
+	<puzzle>
+		<title>Beer Pong</title>
+        <notes>Page 1: ignore names on left, those were part of the "at event" game to receive part 2 pieces.
+            
+Page 2: cut out the pieces.</notes>
+		<file href="01-beer_pong-puzzle.pdf"/>
+		<solution href="01-beer_pong-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Photo Hunt</title>
+		<file href="02-photo_hunt-puzzle.pdf"/>
+		<solution href="02-photo_hunt-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Pool Tables</title>
+		<file href="03-pool_tables-puzzle.pdf"/>
+        <hint href="03-pool_tables-hints.txt"/>
+		<solution href="03-pool_tables-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>White Elephant</title>
+		<file href="04-white_elephant-puzzle.pdf"/>
+		<solution href="04-white_elephant-solution.pdf"/>
+	</puzzle>
+</PPMonth>

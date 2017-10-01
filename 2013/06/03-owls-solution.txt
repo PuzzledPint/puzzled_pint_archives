@@ -1,0 +1,73 @@
+FOR THE FIRST MESSAGE:
+~~~~~~~~~~~~~~~~~~~~~~
+
+N	Nitrogen	3	T
+P	Phosphorus	6	H
+U	Uranium	        3	A
+K	Potassium	3	T
+AR	Argon	        3	G
+PU	Plutonium	8	U
+LA	Lanthanum       7	M
+PR	Praseodymium	8	Y
+OS	Osmium	        1	O
+GA	Gallium	        6	U
+AL	Aluminum	2	L
+MG	Magnesium	7	I
+NI	Nickel	        4	K
+CL	Chlorine	8	E
+Y	Yttrium	        5	I
+NA	Sodium	        1	S
+F	Fluorine	8	E
+S	Sulphur	        3	L
+AG	Silver	        5	E
+PD	Palladium	9	M
+MO	Molybdenum      2	E
+ZN	Zinc	        3	N
+LI	Lithium	        3	T
+MN	Manganese	6	N
+U	Uranium	        1	U
+Y	Yttrium	        7	M
+CO	Cobalt	        3	B
+O	Oxygen	        5	E
+B	Boron	        3	R
+SR	Strontium	2	T
+C	Carbon	        5	O
+CA	Calcium	        3	L
+NE	Neon	        2	E
+N	Nitrogen	3	T
+KR	Krypton	        5	T
+HE	Helium	        2	E
+FE	Iron	        2	R
+HE	Helium	        7	(uh, oh -- past the end of the word!)
+MG	Magnesium	10	(uh, oh -- past the end of the word!)
+H	Hydrogen	9	(uh, oh -- past the end of the word!)
+LI	Lithium	        8	(uh, oh -- past the end of the word!)
+NA	Sodium	        7	(uh, oh -- past the end of the word!)
+NE	Neon	        5	(uh, oh -- past the end of the word!)
+H	Hydrogen	9	(uh, oh -- past the end of the word!)
+LI	Lithium	        8	(uh, oh -- past the end of the word!)
+NA	Sodium	        7	(uh, oh -- past the end of the word!)
+N	Nitrogen	9	(uh, oh -- past the end of the word!)
+SC	Scandium	9	(uh, oh -- past the end of the word!)
+AL	Aluminum	9	(uh, oh -- past the end of the word!)
+
+
+FOR THE SECOND MESSAGE:
+~~~~~~~~~~~~~~~~~~~~~~~
+Take the last section, the ones that do not index correctly, and use the
+element's number within the periodic table as an index into the
+alphabet:
+
+HE	Helium	        2       B
+MG	Magnesium	12      L
+H	Hydrogen	1       A
+LI	Lithium	        3       C
+NA	Sodium	        11      K
+NE	Neon	        10      J
+H	Hydrogen	1       A
+LI	Lithium	        3       C
+NA	Sodium	        11      K
+N	Nitrogen	7       G
+SC	Scandium        21      U
+AL	Aluminum        13      M
+

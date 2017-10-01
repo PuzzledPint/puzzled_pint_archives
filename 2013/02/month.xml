@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2013</year>
+	<month>2</month>
+	<title>Clue</title>
+	<notes>Hey archival solver: Our puzzle standards have gotten much better over the years.  Solve these early puzzles at your own peril.
+
+Errata For Suspects: Coming soon!
+
+Errata For Room: In the third item, the text “and chaparone” should read “aand chaperone”.</notes>
+	<location>
+		<puzzle>
+			<title>Invitation</title>
+			<file href="00-location-puzzle.jpg"/>
+			<hint>Did you notice the border?</hint>
+			<hint>The border can be read as morse code - short loops are dots, long loops are dashes.</hint>
+			<hint>The solution is CHAPEL PUB</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>chapelpub</answerword>
+	</location>
+
+	<puzzle>
+		<title>Weapons</title>
+		<file href="01-weapons-puzzle.pdf"/>
+        <hint href="01-weapons-hints.txt"/>
+		<solution href="01-weapons-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Suspects</title>
+		<file href="02-suspects-puzzle.pdf"/>
+        <hint href="02-suspects-hint.png"/>
+		<solution href="02-suspects-solution.txt"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Rooms</title>
+		<file href="03-rooms-puzzle.pdf"/>
+		<solution href="03-rooms-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Meta</title>
+        <notes>Printed double-sided so that the card backs align with the fronts. One set of cards given after solving each puzzle.</notes>
+		<file href="04-meta_cards.pdf"/>
+		<solution href="04-meta-solution.pdf"/>
+	</puzzle>
+
+	<answerSheet href="answersheet.pdf"/>
+	<answerSheetSolution href="answersheet-solution.pdf"/>
+</PPMonth>

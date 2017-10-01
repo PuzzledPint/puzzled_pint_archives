@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2013</year>
+	<month>8</month>
+	<title>Magazine</title>
+	<notes>Thank you [@jaylorch](https://twitter.com/jaylorch), this month's guest author.
+
+[Acknowledgments](Acknowledgments.pdf)
+	</notes>
+	<location>
+		<puzzle>
+			<title>Variety</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>In each set of five words, the words have something in common.</hint>
+			<hint>For each commonality on the left, one commonality on the right is similar.  The similar commonalities will be somewhat opposite of each other.</hint>
+			<hint>Four of the ten commonalities on each side involve what the words are in:  titles, sentences, two-word compounds, or longer words.  Two involve modifying the word:  changing or removing one letter.  Two involve parts of the words:  substrings or phonetic sub-sounds.  The remaining two involve the letters of the words.</hint>
+			<hint>For each pair of similar commonalities, draw a line connecting their dots.  Read the uncrossed-out letters from top to bottom to get a message telling you in what order to read the crossed-out letters.</hint>
+			<hint>Bring scissors to Kell's Brew Pub.</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>kellsbrewpub</answerword>
+	</location>
+
+	<puzzle>
+		<title>WIRED</title>
+		<file href="01-wired-puzzle.pdf"/>
+		<solution href="01-wired-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>WIRED</title>
+		<file href="02-cosmopolitan-puzzle.pdf"/>
+		<solution href="02-cosmopolitan-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>WIRED</title>
+		<file href="03-cooking_light-puzzle.pdf"/>
+		<solution href="03-cooking_light-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>WIRED</title>
+		<file href="04-rolling_stone-puzzle.pdf"/>
+		<solution href="04-rolling_stone-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>WIRED</title>
+		<file href="05-meta-puzzle.pdf"/>
+		<solution href="05-meta-solution.pdf"/>
+	</puzzle>
+</PPMonth>

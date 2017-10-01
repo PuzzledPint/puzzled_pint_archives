@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2013</year>
+	<month>12</month>
+	<title>Hitchhiker's Guide to the Galaxy</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Drink Specials</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>Each of these drinks has a location (e.g., a city) as part of its name. </hint>
+			<hint>The drink names, in alphabetical order, are:
+
+- Dublin Doubler
+- London Buck
+- Lynchburg Lemonade
+- Manhattan
+- Moscow Mule
+- Portland Coffee
+- Southampton Slam
+- Tokyo Rose
+- Washington Apple</hint>
+			<hint>Not sure what to do with those numbers in parentheses? Look up the "Indexing" method in our Puzzling Basics guide!</hint>
+			<hint>The solution is: on the heart of gold</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>ontheheartofgold</answerword>
+	</location>
+
+	<puzzle>
+		<title>Not Entirely Unlike</title>
+		<file href="01-not_entirely_alike-puzzle.pdf"/>
+		<solution href="01-not_entirely_alike-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The Answer</title>
+		<file href="02-answer-puzzle.pdf"/>
+		<solution href="02-answer-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>So Long, and Thanks for All the...</title>
+		<file href="03-so_long-puzzle.pdf"/>
+		<solution href="03-so_long-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Pan-Alphabetic Gargle Blaster</title>
+		<file href="04-pan_alphabetic-puzzle.pdf"/>
+        <hint href="04-pan_alphabetic-hint.txt"/>
+		<solution href="04-pan_alphabetic-solution.pdf"/>
+	</puzzle>
+</PPMonth>

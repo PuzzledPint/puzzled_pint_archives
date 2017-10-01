@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2013</year>
+	<month>11</month>
+	<title>The Five Senses</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Sound</title>
+			<file href="00-location-puzzle.mp3"/>
+			<hint>These are quotations from the American television show The X-Files.</hint>
+			<hint>You might find [this Wikiquote page](https://en.wikiquote.org/wiki/The_X-Files) and [this fan site](http://www.insidethex.co.uk/#one) helpful.</hint>
+			<hint>Use the first letter of each word that is bleeped out to discover: "What does Fox say?"</hint>
+			<hint>The solution is: STRATEGO</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>stratego</answerword>
+	</location>
+
+	<puzzle>
+		<title>Scent</title>
+		<file href="01-scent-puzzle.pdf"/>
+		<solution href="01-scent-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Sight</title>
+		<file href="02-sight-puzzle.pdf"/>
+		<solution href="02-sight-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Taste</title>
+		<file href="03-taste-puzzle.pdf"/>
+		<solution href="03-taste-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Touch</title>
+		<file href="04-touch-puzzle.pdf"/>
+        <hint href="04-touch-hints.pdf"/>
+		<solution href="04-touch-solution.pdf"/>
+	</puzzle>
+</PPMonth>

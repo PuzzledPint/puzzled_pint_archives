@@ -1,0 +1,22 @@
+The diagram is a Japanese puzzle form called HASHIWOKAKERO, or BRIDGES.
+
+Each circle represents an island and the number in each island tells how many bridges are connected to it. The object is to connect all islands according to the number of bridges so that there are no more than two bridges in the same direction and all bridges are interconnected enabling passage from any island to another. Bridges can only be vertical or horizontal and are not allowed to cross islands or other bridges.
+
+In this case, instead of "islands" we have "boats", and instead of "bridges" we have "lines" or "ropes".
+
+Taking each character's movement in the order described, and using the number from the boat to index into their name with,
+ Kitty moving from 1 to the Seaward
+ Buster moving from 6 to 2 to the Seaward
+ George Sr moving from 1 to 2 to 4 to the Seaward
+ Oscar moving from 5 to 4 to the Seaward
+ Lindsay moving from 3 to 4 to 5 to Seaward
+
+Indexing those numbers into the character names gives us
+K - KITTY  1
+R U - BUSTER  6 2
+G E R - GEORGE SR  1 2 4
+R A - OSCAR  5 4
+N D S - LINDSAY  3 4 5
+
+K R U G E R R A N D S
+

@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2013</year>
+	<month>4</month>
+	<title>420</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Dude</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>Did you notice that the number three appears frequently in this puzzle?  The variants on "dude" even occur in multiples of three.</hint>
+			<hint>Is there anything three-like on the code sheet?</hint>
+			<hint>Ternary looks good, but which "dude" is which?</hint>
+			<hint>Use the order of the words in the title for your numeric ordering: 0=dewd, 1=duuuuude, 2=dude.  Each grouping of three words in the conversation is a new ternary letter.</hint>
+			<hint>The solution is Barley Mill Pub</hint>
+			<solution href="00-location-solution.txt" />
+		</puzzle>
+		<answerword>barleymillpub</answerword>
+	</location>
+
+	<puzzle>
+		<title>How High</title>
+		<file href="01-howhigh-puzzle.pdf"/>
+		<solution href="01-howhigh-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Dance Party</title>
+		<file href="02-dance_party-puzzle.pdf"/>
+        <hint href="02-dance_party-hint.pdf"/>
+		<solution href="02-dance_party-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Slitherlink</title>
+		<file href="03-slitherlink-puzzle.pdf"/>
+		<solution href="03-slitherlink-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Awesome Movies</title>
+		<file href="04-movies-puzzle.pdf"/>
+		<solution href="04-movies-solution.pdf"/>
+	</puzzle>
+</PPMonth>

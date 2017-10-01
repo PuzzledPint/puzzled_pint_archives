@@ -1,0 +1,28 @@
+HINTS
+
+1. The grid puzzle is an Akari, with extra information (the numbers below and on the right).
+
+2. There are 11 lanterns to place. All lanterns will be adjacent to a numbered black square.
+
+3. The numbers adjacent to the rows and columns are used to resolve the lantern locations into letters.
+
+4. The resulting letters must be anagramed for the solution.
+
+
+AKARI - rules
+
+goal: place lanterns in empty grid squares so that each empty square is illuminated
+
+ - The number in a black square is the number of lanterns orthagonally adjacent to the black square.
+ - Each lantern illuminates from the bulb along a row or column. The light from a lantern is blocked by any black square.
+ - Every white square must be illuminated.
+ - A lantern cannot illuminate another lantern.
+
+
+SOLUTION
+1) place lanterns
+2) multiply row & column numbers of lantern locations
+3) index those numbers into alphabet
+4) anagram to PHOTOPHOBIA
+
+

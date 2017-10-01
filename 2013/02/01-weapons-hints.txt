@@ -1,0 +1,5 @@
+- I see lots of hex triplets on the second page.  What else uses hex triplets?
+
+- The hex triplets are colors, as used in web design: red, green, blue.  What is the picture?
+
+- Do you remember that an even number plus an even number is always even?  Even+odd=>odd.  Odd+odd=>even.  You can quickly determine even/odd by looking at the last digits of each square.

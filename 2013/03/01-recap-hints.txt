@@ -1,0 +1,7 @@
+#Hints
+
+1. Do the answer items have any common properties?
+2. Don't look at the words, the letters, or even the categories.  Do the answer items have common physical properties, such as shape?
+3. Treat oblong or tall items as dashes.  Treat round items as dots.
+4. But where are the word breaks?  Each bullet point of question-answering in the flavor text is one Morse code letter, so the final answer is 12 letters long.
+5. Eight Magnums

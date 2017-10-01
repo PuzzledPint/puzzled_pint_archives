@@ -1,0 +1,64 @@
+PUZZLED PINT - JUNE 2013
+LOCATION PUZZLE: "VIDEO"
+------------------------
+
+PORTLAND:
+http://youtu.be/vnBDpWS00qo
+http://vimeo.com/teamsnout/pp201306pdx (password: donsdavis)
+
+SEATTLE:
+http://youtu.be/K2CDY2Bf6zQ
+http://vimeo.com/teamsnout/pp201306sea (password: donsdavis)
+
+#
+
+HINTS:
+
+1. Did you notice anything "subliminal" toward the end of the video?
+
+2. Did you notice that the video clips are running backwards?
+
+3. This video hides a backwards Morse code message.  Each clip,
+featuring a Twin Peaks actor appearing on another show, represents a
+different symbol:
+- Carnivale (Michael J. Anderson) is a SEPARATOR;
+- Portlandia (Kyle MacLachlan) is a DASH; and
+- Reaper (Ray Wise) is a DOT.
+Read the entire sequence backwards to get the answer!
+
+#
+
+HOW IT WORKS:
+
+The video contains clips from three(3) different TV shows featuring
+actors who were on Twin Peaks:
+- Carnivale (Michael J. Anderson)
+- Portlandia (Kyle MacLachlan)
+- Reaper (Ray Wise)
+
+The "subliminal" bits at the end of the video tell you how to
+translate each clip into a Morse code symbol:
+- Carnivale = / (separator)
+- Portlandia = - (dash)
+- Reaper = . (dot)
+
+Because the video runs backwards, you must REVERSE the entire string
+of symbols to get the correct letters--i.e., the symbols which make up
+each letter are in backwards order, and the overall answer word is
+also spelled backwards.
+
+#
+
+SOLUTION:
+
+(PDX)
+shown: /..-/.-/-./..-./..../-./..-./-.././...-/ "UANFHNFDEV"
+reversed: /-..././..-/.-../.-/..../.-../.-/-./-../ "BEULAHLAND"
+location: http://beulahlandpdx.com/
+
+(SEA) 
+shown: /.-/.-/../.../.-././..-./..-/..-/../.-../ "AAISREFUUIL"
+reversed: /..-./../-../-../.-.././.-./.../../-./-./ "FIDDLERSINN"
+location: http://www.3pubs.com/Fiddler.html
+
+###

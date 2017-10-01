@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2013</year>
+	<month>6</month>
+	<title>Twin Peaks</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Backwards</title>
+			<file href="https://www.youtube.com/watch?v=vnBDpWS00qo&amp;feature=youtu.be"/>
+			<hint>Did you notice anything "subliminal" toward the end of the video?</hint>
+			<hint>Did you notice that the video clips are running backwards?</hint>
+			<hint>This video hides a backwards Morse code message. Each clip, featuring a Twin Peaks actor appearing on another show, represents a different symbol:
+
+- Carnivale (Michael J. Anderson) is a SEPARATOR;
+- Portlandia (Kyle MacLachlan) is a DASH; and
+- Reaper (Ray Wise) is a DOT.
+
+Read the entire sequence backwards to get the answer!</hint>
+			<hint>The solution is BEULAHLAND</hint>
+			<solution href="00-location-solution.txt" />
+		</puzzle>
+		<answerword>beulahland</answerword>
+	</location>
+
+	<puzzle>
+		<title>Previously, on Twin Peaks</title>
+		<file href="01-previously-puzzle.pdf"/>
+		<solution href="01-previously-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Mix Tape</title>
+		<file href="02-mixtape-puzzle.pdf"/>
+		<solution href="02-mixtape-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The Owls</title>
+		<file href="03-owls-puzzle.pdf"/>
+        <hint href="03-owls-hints.txt"/>
+		<solution href="03-owls-solution.txt"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Career Peaks</title>
+		<file href="04-career_peaks-puzzle.pdf"/>
+		<solution href="04-career_peaks-solution.pdf"/>
+	</puzzle>
+</PPMonth>

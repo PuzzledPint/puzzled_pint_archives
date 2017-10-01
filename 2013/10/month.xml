@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2013</year>
+	<month>10</month>
+	<title>Sherlock</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Elementary/Where and When</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>Each line resolves to a two-letter answer.</hint>
+			<hint>All the answers, in alphabetical order (match with clues to get actual solution): HB, IA, IX, LS, LS, NC, OC, OW, PM, PU.</hint>
+			<hint>The solution is: Punchbowl Social Six PM</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>punchbowlsocial</answerword>
+	</location>
+
+	<puzzle>
+		<title>The Mystery of the Crossword Clues</title>
+		<file href="01-crossword-puzzle.pdf"/>
+        <hint href="01-crossword-hint1.pdf"/>
+        <hint href="01-crossword-hint2.pdf"/>
+		<solution href="01-crossword-solution.txt"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The Mystery of the Last Call</title>
+		<file href="02-last_call-puzzle.pdf"/>
+		<solution href="02-last_call-solution.txt"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The Mystery of the Morgue</title>
+		<file href="03-morgue-puzzle.pdf"/>
+		<solution href="03-morgue-solution.txt"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The Mystery of the Set List</title>
+		<file href="04-set_list-puzzle.pdf"/>
+		<solution href="04-set_list-solution.txt"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The Mystery of the Naval Graffiti</title>
+		<file href="05-naval_graffiti-puzzle.pdf"/>
+        <hint href="05-naval_graffiti-hint.pdf"/>
+		<solution href="05-naval_graffiti-solution.txt"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The Mystery of the Odd Man Out</title>
+		<file href="06-odd-puzzle.pdf"/>
+		<solution href="06-odd-solution.txt"/>
+	</puzzle>
+    
+	<puzzle>
+		<title>The Mystery of Mysteries (Meta-Puzzle and Answer Sheet)</title>
+		<file href="answersheet.pdf"/>
+		<solution href="answersheet-solution.txt"/>
+	</puzzle>
+
+	<answerSheet href="answersheet.pdf"/>
+	<answerSheetSolution href="answersheet-solution.txt"/>
+</PPMonth>

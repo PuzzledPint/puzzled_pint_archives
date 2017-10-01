@@ -1,0 +1,9 @@
+#Pan-Alphabetic Gargle Blaster Hints
+
+- Focus on the paragraphs first, not the symbols.
+- Have you noticed the name of the puzzle? "Pan-Alphabetic" instead of "Pan-Galactic"?
+- Pan-Alphabetic sounds conceptually similar to Pangram. (Google it!) "The quick brown fox jumps over the lazy dog."
+- Is there something a little off about the pangram paragraphs?
+- For each paragraph, find the letter that isn't used.
+- SWAP DOT DASH
+- The code around the outside is Morse code, but you'll have to replace dots with dashes and vice-versa

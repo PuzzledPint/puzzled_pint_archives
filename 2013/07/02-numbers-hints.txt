@@ -1,0 +1,17 @@
+Numbers Station Hints
+~~~~~~~~~~~~~~~~~~~~~
+
+- The internet technology used to deliver the numbers station stream is a means to an end.  Don't try to read anything in to the server, serving mechanism, or timing differences in two different devices buffering the same stream.  Pretend you're listening on a timeless old transistor radio and forget that there's an internet layer between you and the audio.
+
+- You can confirm that you have the correct sequence of digits, if you'd like...
+
+[LONG BEEP] 60 24 15 [BLIP] 3 21 15 42 60 [BLIP] 9 45 42 57 27 12 15 54 15 12
+[BLIP] 60 24 15 [BLIP] 18 3 9 60 57 [BLIP] 3 42 12 [BLIP] 24 27 21 24 [BLIP]
+48 27 60 9 24 [BLIP] 12 15 9 27 39 3 36 [BLIP] 42 63 39 6 15 54 57 [BLIP] 60
+24 45 63 21 24 [BLIP] 6 3 9 33 69 3 54 12 57 [BLIP] 69 3 57 [BLIP] 57 3 60 27
+57 18 3 9 60 45 54 75
+
+- You know that the theme this month is "triple agent," right?
+
+- Did you notice that all the numbers are multiples of three?
+

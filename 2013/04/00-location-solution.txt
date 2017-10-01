@@ -1,0 +1,19 @@
+“Dude” Solution
+===============
+
+    B 002   dewd        dewd        dude
+    A 001   dewd        dewd        duuuuude
+    R 200   dude        dewd        dewd
+    L 110   duuuuude    duuuuude    dewd
+    E 012   dewd        duuuuude    dude
+    Y 221   dude        dude        duuuuude
+    M 111   duuuuude    duuuuude    duuuuude
+    I 100   duuuuude    dewd        dewd
+    L 110   duuuuude    duuuuude    dewd
+    L 110   duuuuude    duuuuude    dewd
+    P 121   duuuuude    dude        duuuuude
+    U 210   dude        duuuuude    dewd
+    B 002   dewd        dewd        dude
+
+Barley Mill Pub
+    

@@ -1,0 +1,98 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2013</year>
+	<month>1</month>
+	<title>Apocalypse Not</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Dates</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>Do you know how to read [Mayan numerals](http://en.wikipedia.org/wiki/Maya_numerals)?</hint>
+			<hint>Do you know how to [convert Mayan dates to the Gregorian calendar](http://www.nytimes.com/interactive/2009/11/16/science/20091116-maya.html)?</hint>
+			<hint>Do you know what significant historical event happened on each of these dates?
+
+- May 18, 1980
+- August 6, 1945
+- June 30, 1908
+- April 14, 1912
+- November 22, 1963
+- October 29, 1929
+- August 26, 1883
+- April 18, 1906
+- December 26, 2004</hint>
+			<hint>Here is all the data:
+
+- May 18, 1980 - MT ST HELENS ERUPTION
+- August 6, 1945 - HIROSHIMA ATOMIC BOMB
+- June 30, 1908 - TUNGUSKA EVENT
+- April 14, 1912 - TITANIC HITS ICEBERG
+- November 22, 1963 - KENNEDY ASSASSINATION
+- October 29, 1929 - STOCK MARKET CRASH
+- August 26, 1883 - KRAKATAU ERUPTION
+- April 18, 1906 - SAN FRANCISCO EARTHQUAKE
+- December 26, 2004 - BOXING DAY TSUNAMI</hint>
+			<hint>The solution is TAVIN'S PUB</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>tavinspub</answerword>
+	</location>
+
+	<puzzle>
+		<title>Averted</title>
+		<file href="01-averted-puzzle.pdf"/>
+		<solution href="01-averted-solution.txt"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Apocalypse</title>
+		<file href="02-apocalypse-puzzle.pdf"/>
+		<solution href="02-apocalypse-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Nuclear Codes (normal difficulty)</title>
+		<file href="03-nuclear_codes-normal-puzzle.pdf"/>
+		<solution href="02-apocalypse-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Nuclear Codes (hard difficulty)</title>
+		<file href="03-nuclear_codes-difficult-puzzle.pdf"/>
+		<solution href="02-apocalypse-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Cycles</title>
+		<file href="04-cycles-puzzle.pdf"/>
+        <hint>The words around the rings overlap.</hint>
+        <hint>All words around the rings are the same length.</hint>
+        <hint>That length is eight characters.</hint>
+        <hint>Words on the spokes start with the first letter at the outside and go inward</hint>
+        <hint>Read the final solution around the outside of the ring (the letters in the half-circles)</hint>
+        <hint>1. not read-only : editable</hint>
+        <hint>2. Food like Hummus and baba ghanoush : Lebanese</hint>
+        <hint>3. harshly, extremely : severely</hint>
+        <hint>4. They write songs : lyricist</hint>
+        <hint>5. [Hunter S.] Thompson's illustrator : Steadman</hint>
+        <hint>6. Films like The Little Mermaid, Pinocchio, and The Lion King : animated</hint>
+        <hint>7.  to adjust and control, often with government oversight : regulate</hint>
+        <hint>8.  of clocks, calendars, and time travel : temporal</hint>
+        <hint>9.  rebellious coalition : alliance</hint>
+        <hint>10. decadal tallies : censuses</hint>
+        <hint>11. Italian coffee : espresso</hint>
+        <hint>12. Instructions for chips : software</hint>
+        <hint>creeping vine : tendril</hint>
+        <hint>argued over price : haggled</hint>
+        <hint>the period after Friday : weekend</hint>
+        <hint>mentally distressing : anxious</hint>
+        <hint>to make correct : rectify</hint>
+        <hint>rebellious absence : truancy</hint>
+        <hint>abstain or avoid : eschews</hint>
+        <hint>patterned linens or silks (plural) : damask</hint>
+        <hint>Final Answer: thwarted</hint>
+		<solution href="04-cycles-solution.pdf"/>
+	</puzzle>
+</PPMonth>

@@ -1,0 +1,18 @@
+The four objects are always in alphabetical order.
+One object in each set isn't like the others in some essential way.
+
+jupiter mars MOON venus (planets)
+australia brazil ICELAND south africa (southern hemisphere)
+mariners NETS orioles red soz (baseball teams)
+broccoli carrots lettuce ORANGES (vegetables)
+batman flash RIDDLER superman (superheroes)
+canada ITALY uk usa (countries where English is spoken)
+jack king queen THREE (face cards)
+green orange purple YELLOW (secondary colors)
+bellingham PORTLAND seattle walla walla (washington state cities)
+AMAZON facebook tumblr twitter (social sites)
+blair churchill REAGAN thatcher (UK politicians)
+ant mosquito TARANTULA wasp (insects)
+illinois st. james ventnor YESLER (streets on a monopoly board)
+
+MINORITY PARTY

@@ -1,0 +1,22 @@
+SET LIST
+
+These are all popular songs (#1 hits, in fact), with one word wrong.
+
+CRADLE -> OUTFIELD
+AT -> ON
+PLAY -> DROP
+WALK -> EAT
+BABY -> LADY
+JET -> SLOW
+MOVES -> OLD
+FALLIN' -> DRIPPIN'
+LADY -> TANGY
+GOD -> EVERYONE
+LONG -> RARE
+ECLIPSE -> UPHEAVAL
+START -> IGNITE
+WINGS -> SAILS
+
+The list is in alphabetical order. Alphabetize the correct words, then take the first letters of the incorrect words for your answer.
+
+LOUDEST ROADIES
