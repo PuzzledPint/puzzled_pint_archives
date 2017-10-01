@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2017</year>
+	<month>6</month>
+	<title>The Prisoner</title>
+	<notes>Thanks to [E &amp; S Lindstrom](https://twitter.com/Eric_Lindstrom) of San Francisco for writing this month's set!</notes>
+	<location>
+		<puzzle>
+			<title>Welcome</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>It's a word search: scratch out the deer names that are strung together in the line at the bottom.</hint>
+			<hint>The deer are: sika, marsh, red, fallow, mule, rusa, rein, tufted, roe, and brocket</hint>
+			<hint>Read the remaining letters not used by words in the bank.</hint>
+			<hint>The solution is COME TO THE GREEN DOME</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>cometothegreendome</answerword>
+	</location>
+
+	<puzzle>
+		<title>International Cheat Sheet</title>
+        <notes>This is NOT A PUZZLE. It holds useful idioms and words for non-Americans</notes>
+		<file href="InternationalCheatSheet.pdf"/>
+		<solution href="InternationalCheatSheet.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Telephone</title>
+		<file href="01-telephone-puzzle.pdf"/>
+        <hint>the number of slots at the top of the switchboard wiring diagram is equal to the number of digits in the “international phone number” provided</hint>
+        <hint>the funnel lines below the slots imply that what goes into each of the eight empty boxes is determined by three digits above</hint>
+        <hint>each three digit set has a five in the middle, just like the phone pad shown, where all digits also connect to the five in the center</hint>
+        <hint>each three digit set makes semaphore on the phone pad</hint>
+        <hint>the eight letters for the empty boxes are: o, s, n, l, l, a, c, y</hint>
+        <hint>follow the cables to populate the final message with those letters, sometimes in more than one place</hint>
+		<solution href="01-telephone-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Walk on the Grass</title>
+		<file href="02-walk_on_the_grass-puzzle.pdf"/>
+        <hint>each sentence describes a number in some way</hint>
+        <hint>the number is an index for that sentence – count in that number of letters to get the letter for that sentence</hint>
+        <hint>USEFUL IDIOMS (PARTIAL ANSWERS)
+    
+- There are 7 Deadly Sins
+- Snow White knows 7 dwarves
+- 2's Company, but 3's a crowd
+- There are 3 Blind Mice in the famous children's song
+- If you're "living on cloud 9", you're very happy
+- The old addage about proactivity is "a stitch in time saves 9"
+- Cats are said to have 9 lives, so how many ressurections is that?
+- Due to standard burial depth, dead people are said to be "6 feet under"
+- Finding a 4-leafed clover is said to bring good luck</hint>
+		<solution href="02-walk_on_the_grass-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>A Still Tongue</title>
+		<file href="03-still_tongue-puzzle.pdf"/>
+        <hint>start at the upper left circle with “hook” and “crook” and think about what these words share, do not share, and how this relates to the bottom image in their circle</hint>
+        <hint>in each circle, upper right words have five letters; upper left and bottom words have four; remove letters that the upper words have in common, and the remaining three, plus one you must add, make a word that describes the bottom image; e.g. Hook – CRook + I = RICH</hint>
+        <hint>use solved circles to tell you what words to use for pictures in unsolved circles and continue the process for all the circles; e.g., when you solve Hook – Crook = RICH, look for the other circle with the RICH picture in the upper left and solve that one next, and so on</hint>
+        <hint>ROW 1 PICTURES
+            
+- Hook, Crook, Rich
+- Trap, Earth, Hemp
+- Tuna, Acute, Cane</hint>
+        <hint>ROW 2 PICTURES
+        Tail, Liter, Fear
+
+- Hemp, Peach, Camo
+- Cane, Ranch, Hero
+- Rich, Chart, Tail</hint>
+        <hint>ROW 3 PICTURES
+
+- Camo, March, Horn
+- Hero, Store, Shot
+- Fear, Ferry, Tray</hint>
+        <hint>ROW 4 PICTURES
+
+- Horn, Phone, Pear
+- Shot, Chest, Core
+- Tray, Party, Trap
+- Pear, Prune, Tuna</hint>
+        <hint>look at the letters you need to add to make bottom words, reading left to right, top to bottom</hint>
+		<solution href="03-still_tongue-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Questions</title>
+		<file href="04-questions-puzzle.pdf"/>
+        <hint>the “what” questions are in pairs – connected by “and” – where both have the same seven-letter answer</hint>
+        <hint>PARTIAL ANSWER: ALL 15 ANSWERS soluble, nosejob, inquiry, sidearm, inertia, station, saffron, diamond, exhaust, cricket, bishops, capital, burning, affairs, incense</hint>
+        <hint>the letters in the circles spell, left to right, top to bottom, the word “squares”</hint>
+        <hint>mark all letters tagged with a number that’s a perfect square</hint>
+        <hint>the marked “square” letters string along in the shape of a question mark – read these letters along the direction of writing that mark</hint>
+		<solution href="04-questions-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>It Can Be Done (Meta Puzzle)</title>
+		<file href="05-meta-puzzle.pdf"/>
+        <hint>Follow the example, filling in the 3 choices for each shape into the boxes.</hint>
+        <hint>Each letter of the answer's blanks are a choice of three, find English words and figure out where the spaces are to solve this</hint>
+		<solution href="05-meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Humour (Bonus Puzzle)</title>
+		<file href="06-bonus-puzzle.pdf"/>
+        <hint>All the quotes are slightly wrong</hint>
+        <hint>fix the incorrect word in each quote, then read the correct words from top to bottom, and do the same with the incorrect words</hint>
+        <hint>CORRECT WORDS I got your number I need to make you mine Jenny</hint>
+        <hint>INCORRECT WORDS white letters case sensitive phone number indicates which used for Gramogram</hint>
+        <hint>LEFT BLANKS the Jenny quote implies the phone number: 8 7 6 5 3 0 9</hint>
+        <hint>each quote has a white letter on black – instead of writing the phone number, write the case sensitive white letter from the quote of that number; e.g., instead of “eight” write a capital B because quote number eight highlights that letter</hint>
+        <hint>CENTER BLANKS on the underscores at the bottom, you get the gramogram: BeC-ingU</hint>
+		<solution href="06-bonus-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>
