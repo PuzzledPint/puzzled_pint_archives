@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2014</year>
+	<month>6</month>
+	<title>The Doubleclicks</title>
+	<notes>All puzzles written by Portland team the PuzzleQuicks.</notes>
+	<location>
+		<puzzle>
+			<title>Party</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>Did you find all the words?  They can be forward, backward, up, down, or on any diagonal.  Many will overlap.</hint>
+			<hint>Where there any letters that weren't part of the words you found?</hint>
+			<hint>The leftover letters spell: READ PRIMES
+
+The first twenty prime numbers are: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, and 71.</hint>
+			<hint>Count letters, left to right, from the top left.
+
+So: in the top row, you'd select letters 2, 3, 5, and 7, which are C, H, A, and I.
+
+The second row would start with 11 (N), then go to 13 (M), 17 (A), and 19 (I).
+
+Continue counting through all the rows to spell out the entire answer!</hint>
+			<hint>The solution is: CHAINMAIL AND CELLO</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>chainmailandcello</answerword>
+	</location>
+
+	<puzzle>
+		<title>Educational Songs</title>
+		<file href="01-edu-songs-puzzle.pdf"/>
+		<solution href="01-edu-songs-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Favorite Tune</title>
+		<file href="02-song-puzzle.pdf"/>
+		<solution href="02-song-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>T-shirts</title>
+		<file href="03-tshirts-puzzle.pdf"/>
+		<solution href="03-tshirts-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Will They or Won't They?</title>
+		<file href="04-will_they-puzzle.pdf"/>
+        <hint href="04-will_they-hints.pdf"/>
+		<solution href="04-will_they-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Blue Screen of Death (Bonus Puzzle)</title>
+		<file href="05-bonus-puzzle.pdf"/>
+		<solution href="05-bonus-solution.pdf"/>
+	</puzzle>
+</PPMonth>

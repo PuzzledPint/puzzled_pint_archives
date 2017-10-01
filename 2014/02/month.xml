@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2014</year>
+	<month>2</month>
+	<title>Spinal Tap</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Lyrics</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>The correct song lyrics are:
+
+- "Got my first real six-string, bought it at the five and dime"
+- "'Scuse me, while I kiss the sky"
+- "Ah, ah, ah, ah, stayin' alive, stayin' alive"
+- "It doesn't make a difference if we make it or not"
+- "Then I saw her face. Now I'm a believer"
+- "You Catholic girls start much too late, but sooner or later it comes down to fate"
+- "We built this city on rock and roll"
+- "Might as well face it, you're addicted to love"
+- "The girl with kaleidoscope eyes"
+- "The answer, my friends, is blowin' in the wind"</hint>
+			<hint>The original artists for each song are:
+
+- Bryan Adams
+- Jimi Hendrix
+- Bee Gees
+- Bon Jovi
+- The Monkees
+- Billy Joel
+- Starship
+- Robert Palmer
+- The Beatles
+- Bob Dylan</hint>
+			<hint>Use the ten-digit number shown on the sticky note to index into the names of the original artists. (For example: the first artist is "Bryan Adams," and indexing by "1" gives the letter "B.")
+
+You should get a three-word answer.</hint>
+			<hint>The answer is: BIG IN JAPAN</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>biginjapan</answerword>
+	</location>
+
+	<puzzle>
+		<title>Neighbo(u)rs</title>
+		<file href="01-neighbours-puzzle.pdf"/>
+        <hint href="01-neighbours-hint.txt"/>
+		<solution href="01-neighbours-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>World Tour</title>
+		<file href="02-world_tour-puzzle.pdf"/>
+		<solution href="02-world_tour-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Notes</title>
+		<file href="03-notes-puzzle.pdf"/>
+		<solution href="03-notes-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The Curse</title>
+		<file href="04-curse-puzzle.pdf"/>
+		<solution href="04-curse-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Finale (Meta Puzzle)</title>
+		<file href="05-finale-puzzle.pdf"/>
+        <hint href="05-finale-hints.pdf"/>
+		<solution href="05-finale-solution.pdf"/>
+	</puzzle>
+</PPMonth>

@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2014</year>
+	<month>5</month>
+	<title>The Princess Bride</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>The Cliffs of Insanity</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>Here is a list of the words unscrambled and in alphabetical order. 
+
+- CRAZINESS
+- HYSTERIA
+- LUNACY
+- MADNESS
+- MANIA
+- PREPOSTEROUSNESS
+- PSYCHOPATHY
+- SCHIZOPHRENIA
+- SCREWINESS</hint>
+			<hint>Here is a list of the unscrambled words in the correct order.
+
+- HYSTERIA
+- PREPOSTEROUSNESS
+- CRAZINESS
+- SCREWINESS
+- LUNACY
+- SCHIZOPHRENIA
+- PSYCHOPATHY
+- MADNESS
+- MANIA</hint>
+			<hint>The solution is: AS YOU WISH</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>asyouwish</answerword>
+	</location>
+
+	<puzzle>
+		<title>Anybody Want a Peanut?</title>
+		<file href="01-peanut-puzzle.pdf"/>
+		<solution href="01-peanut-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Plato, Aristotle, Socrates... Morons!</title>
+		<file href="02-morons-puzzle.pdf"/>
+		<solution href="02-morons-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Hello, My Name Is...</title>
+		<file href="03-hello-puzzle.pdf"/>
+		<solution href="03-hello-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Mostly Dead</title>
+		<file href="04-mostly_dead-puzzle.pdf"/>
+		<solution href="04-mostly_dead-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Mawidge...</title>
+		<file href="05-mawidge-puzzle.pdf"/>
+		<solution href="05-mawidge-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>I Do Not Think Think It Means What You Think It Means (Meta Puzzle)</title>
+        <notes>Note that the answer sheet is required to solve this puzzle.</notes>
+		<file href="06-means-puzzle.pdf"/>
+		<solution href="06-means-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Written in the Stars (Bonus Puzzle)</title>
+		<file href="07-stars-puzzle.pdf"/>
+		<solution href="07-stars-solution.pdf"/>
+	</puzzle>
+    
+	<answerSheet href="answersheet.pdf"/>
+	<answerSheetSolution href="answersheet-solution.pdf"/>
+</PPMonth>

@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2014</year>
+	<month>3</month>
+	<title>Casino</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Connection</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>The name's Bond. James Bond.</hint>
+			<hint>Each of the eight reels represents a Bond movie - for example, reel 7 is A View To A Kill</hint>
+			<hint>The eight Bond movies are, in reel order:
+
+- Goldfinger
+- The Living Daylights
+- Quantum of Solace
+- Dr. No
+- For Your Eyes Only
+- You Only Live Twice
+- A View To A Kill
+- Die Another Day</hint>
+			<hint>Dr. No = 1</hint>
+            <hint>Find the number each Bond movie is in the official sequence (Skyfall = 23)</hint>
+            <hint>You should have the numbers 3, 15, 22, 1, 12, 5, 14, 20</hint>
+            <hint>Replace the movie numbers using A=1, B=2, C=3, and you should find another type of 'bond'. That is the answer.</hint>
+			<hint>The solution is COVALENT (another type of Bond!)</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>covalent</answerword>
+	</location>
+
+	<puzzle>
+		<title>Cards</title>
+		<file href="01-cards-puzzle.pdf"/>
+		<solution href="01-cards-solution.jpg"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Roulette</title>
+		<file href="02-roulette-puzzle.pdf"/>
+        <hint href="02-roulette-hints.txt"/>
+		<solution href="02-roulette-puzzle.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Numbers</title>
+		<file href="03-numbers-puzzle.pdf"/>
+        <hint href="03-numbers-hint.pdf"/>
+		<solution href="03-numbers-puzzle.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Keno</title>
+        <notes>The hint link goes to an alternate (easier) variant of the puzzle.
+
+Erratum: Single digit numbers should be considered to have a "0" preceding the digit.  So "1" is "01", etc.</notes>
+		<file href="04-keno-puzzle.pdf"/>
+        <hint href="04-keno-hint.pdf"/>
+		<solution href="04-keno-puzzle.pdf"/>
+	</puzzle>
+</PPMonth>

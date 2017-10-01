@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2014</year>
+	<month>1</month>
+	<title>Transportation</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Subways</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>You are looking for the names of cities.</hint>
+			<hint>Two are in Europe, three in the United States, one in Asia.</hint>
+			<hint>In alphabetical order, the cities are: Berlin, New York, Paris, Portland, San Francisco, Tokyo.</hint>
+			<hint>The solution is: OYSTER</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>oyster</answerword>
+	</location>
+
+	<puzzle>
+		<title>A Transatlantic Flight</title>
+        <notes>Clarification: Each page has an area where the overlapping grids form a 3x3 square.  (Incidentally, both are on the right side of their page.)  The middle box of these should be filled in with black ink; that is, no letter goes in that one middle square.</notes>
+		<file href="01-transatlantic-puzzle.pdf"/>
+		<solution href="01-transatlantic-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Signs</title>
+		<file href="02-signs-puzzle.pdf"/>
+		<solution href="02-signs-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Parking Lot</title>
+		<file href="03-parking_lot-puzzle.pdf"/>
+		<solution href="03-parking_lot-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Seven Ships for Seven Captains</title>
+		<file href="04-7ships-puzzle.pdf"/>
+		<solution href="04-7ships-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The _____ on the Bus</title>
+		<file href="05-bus-puzzle.pdf"/>
+		<solution href="05-bus-solution.pdf"/>
+	</puzzle>
+</PPMonth>

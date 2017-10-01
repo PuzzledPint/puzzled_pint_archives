@@ -1,0 +1,11 @@
+Hints
+=====
+
+The list of numbers on the tape tell you how long each word is.
+
+Look for the two pair you can easily stitch together based on their edges:
+
+WEMOVE and AYWEWA
+
+There are only a few spots where "we move" (4 2) fit the word pattern. Try starting off using it for the first two words of the song.
+

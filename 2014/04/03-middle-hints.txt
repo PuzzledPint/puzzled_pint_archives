@@ -1,0 +1,122 @@
+STUCK IN THE MIDDLE WITH YOU
+
+HINTS
+
+SPOILER SPACE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 - You're looking for pairs words that can go BEFORE and AFTER another word.
+
+
+
+
+
+
+
+
+
+
+2 - WOMEN AND CHILDREN pairs with WORLD (in the given position).
+
+
+
+
+
+
+3 - It's [women and children] FIRST [world], FIRST will be the word on the next level for that entry. Always put the word that goes before the middle word on the upper bracket.
+
+
+
+
+
+4 - The level 1 pairings are:
+PEEPING, CAT
+FRIEND, WRECK
+GRANDFATHER, FACE
+CHOPPING, BUSTER
+FREE, APART
+TRADE, BREAK
+WOMEN AND CHILDREN, WORLD
+ICE, CHEESE
+
+
+
+
+
+
+5 - These lead to the following words on level 2:
+
+PEEPING, CAT -> TOM
+FRIEND, WRECK -> SHIP
+GRANDFATHER, FACE -> CLOCK
+CHOPPING, BUSTER -> OVER
+FREE, APART -> FALL
+TRADE, BREAK -> WIND
+WOMEN AND CHILDREN, WORLD -> FIRST
+ICE, CHEESE -> CREAM
+
+
+
+6 - These generate the following level 3 words:
+TOM, SHIP -> CRUISE
+CLOCK, OVER -> TOWER
+FALL, WIND -> DOWN
+CREAM, FIRST -> HAND
+
+
+
+7 - These generate the following level 4 words:
+CRUISE, TOWER -> CONTROL
+HAND, DOWN -> STAGE
+
+8 - One further word goes in the middle. 
+
+9 - It's CONTROL [x] STAGE
+
+10 - It's 6 letters and starts with C.
+
+11 - It's a synonym for MIDDLE.
+
+12 - C _ _ _ _ R
+
+13 - C _ N _ _ R
+
+14 - C _ N T _ R
+
+15 - C E N T _ R
+
+16 - C E N T E R - and that's the answer :)

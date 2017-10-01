@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2014</year>
+	<month>4</month>
+	<title>Mix Tape</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Forest for the Trees</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>The labels for each row are:
+
+- 11 SLANG TERMS FOR UNITED STATES CURRENCY
+- 9 DEAD MUSICIANS
+- 5 MEMBERS OF ONE DIRECTION</hint>
+			<hint>The matching items in each row are:
+
+- Bread, Cabbage, Cheddar, Clams, Dough, Lettuce, Bones, Smackers, Stacks, Fins, and Spondoolie.
+- Duane Allman, Stevie Ray Vaughan, Hank Williams, Jimi Hendrix, Jerry Garcia, Buddy Holly, John Bonham, Jim Morrison, and Otis Redding.
+- Harry, Zayn, Louis, Niall, and Liam.</hint>
+			<hint>This grid can be divided into 2x3 sections, which should remind you of the braille symbols on the Puzzled Pint Code Sheet.
+
+The final answer is a 10-letter proper name.</hint>
+			<hint>The solution is: TIMBERLAKE</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>timberlake</answerword>
+	</location>
+
+	<puzzle>
+		<title>Rapper's Delight</title>
+		<file href="01-rappers_delight-puzzle.pdf"/>
+		<solution href="01-rappers_delight-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Cut Here</title>
+		<file href="02-cut_here-puzzle.pdf"/>
+        <hint href="02-cut_here-hints.txt"/>
+		<solution href="02-cut_here-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Stuck in the Middle with You</title>
+		<file href="03-middle-puzzle.pdf"/>
+        <hint href="03-middle-hints.txt"/>
+		<solution href="03-middle-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Cover Me</title>
+		<file href="04-cover_me-puzzle.pdf"/>
+		<solution href="04-cover_me-puzzle.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The Song Remains the Same (US variant, Bonus Puzzle)</title>
+		<file href="05-song_US-puzzle.pdf"/>
+		<solution href="05-song_US-solution.pdf"/>
+	</puzzle>
+    
+	<puzzle>
+		<title>The Song Remains the Same (UK variant, Bonus Puzzle)</title>
+		<file href="05-song_UK-puzzle.pdf"/>
+		<solution href="05-song_UK-solution.pdf"/>
+	</puzzle>
+</PPMonth>

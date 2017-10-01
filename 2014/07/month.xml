@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2014</year>
+	<month>7</month>
+	<title>Monty Python and the Holy Grail</title>
+	<notes>All puzzles this month were written by guest author Cathy Saxton!  Thanks!  Also, this happened to be Puzzled Pint's fourth birthday!</notes>
+	<location>
+		<puzzle>
+			<title>The Black Knight</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>The top puzzle is a KenKen.</hint>
+			<hint>For the lower puzzle, figure out which number 0-9 to use for each letter to make the addition equation true.</hint>
+			<hint>In the KenKen puzzle: the 75x in the upper left corner must be 3x5x5; since no row or column may repeat a number, the 3 must go in the corner. The 20x in the lower corner must be 4x5 (in either order), which forces the locations of the 3 and 5 in the 15x cage above it. This leaves 1, 2, and 6 for the upper three squares in the last column, so the 1- at the top must be 2-1 (in either order).</hint>
+			<hint>For the math puzzle: on the left side, a 1 must have carried and added to the E in order to get AT for the sum; this means that E is 9, A is 1, and T is 0. Next find S, then L.</hint>
+            <hint>The right column (R, H, M) must be all even numbers since there's only one odd number available. Look at the next column (A, R, H) for additional relationships.</hint>
+            <hint>The math puzzle solution is: 973516 + 78568 = 1052084</hint>
+            <hint>Use the mappings from the math puzzle to determine which letters to use for the highlighted numbers in the KenKen puzzle.</hint>
+			<hint>The solution is: DISARM</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>disarm</answerword>
+	</location>
+
+	<puzzle>
+		<title>Sir Lancelot</title>
+		<file href="01-lancelot-puzzle.pdf"/>
+        <hint>What is the main action of this scene? What stands out in how the script is shown? (The hiccoughs are irrelevant; yes, they're in the movie!) Take a look at how the characters are introduced.</hint>
+        <hint>The characters are "bit parts" and they are "present" in the scene. Does this suggest an encoding and what you might represent with it?</hint>
+        <hint>The scene deals with people entering and leaving a room. There are periodic breaks in the scene (depicted with 5 boxes).</hint>
+        <hint>You want to consider who is in the room at each 5-box break in the scene.</hint>
+        <hint>Each of the five people is either in or not in the room. Looks like binary to me!</hint>
+        <hint>The character list provides the order, from most significant to least significant bit.</hint>
+        <hint>Each binary value represents a letter. The code sheet will be helpful.        </hint>
+		<solution href="01-lancelot-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Sir Robin</title>
+		<file href="02-robin-puzzle.pdf"/>
+        <hint>Anagram the letter groups at the bottom and use those words to complete the limericks. They are not in order. The rhyme scheme for a limerick is AABBA.</hint>
+        <hint>You will select one letter from each anagrammed word. A few of the words in the puzzle's introduction hint at how each index is encoded.</hint>
+        <hint>The music notes specify which letter to use from each word. Notice that there are only two different notes. (You do not need to be able to read music.)</hint>
+        <hint>The notes are Morse code. Dots are represented by the solid (eighth) notes; dashes are the hollow (half) notes.</hint>
+        <hint>Use the Morse-code letter's position in the alphabet (A = 1, B = 2, etc.) as the position of the letter you want in each anagrammed word.        </hint>
+		<solution href="02-robin-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Sir Bedevere</title>
+		<file href="03-bedevere-puzzle.pdf"/>
+        <hint>Cut apart the pieces and assemble into an image. It will not be rectangular. The numbers will not all face the same way.</hint>
+        <hint>The numbers give a hint about how to read the letters. The orientation of the numbers is irrelevant.</hint>
+        <hint>Translate each number into a letter based on alphabet order (1 = A, 2 = B, etc.).</hint>
+        <hint>Rotate the assembled image 45 degrees clockwise. Read only the letters that are right side up ("CONT..."). Rotate the image counterclockwise (anti-clockwise) 90 degrees to continue reading.</hint>
+        <hint>After the "shift" instruction, you need to translate each letter by advancing later in the alphabet by an amount equal to the tile's number (wrapping from Z to A as necessary). For example, M shifted by 7 becomes T.</hint>
+        <solution href="03-bedevere-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Sir Galahad (US variant)</title>
+		<file href="04-galahad_US-puzzle.pdf"/>
+        <hint>The italicized words in the introduction hint at how to fill the blanks.</hint>
+        <hint>Find homophones (words that are pronounced the same but with different meaning) for the blanks in each sentence.</hint>
+        <hint>Note that there are numbers next to some of the entries on page 2. How might they relate to the first part?</hint>
+        <hint>The numbers indicate the ordinal of the word from the first part.</hint>
+        <hint>Replicate letters up and down based on the lines connecting boxes. Fill in remaining letters to form words. There is a theme...</hint>
+        <hint>The theme is movie terms (combined with words from the story on page 1).</hint>
+        <hint>Not all of the words fit the theme...</hint>
+        <hint>Read the anomalous words for further instructions.</hint>
+		<solution href="04-galahad-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Sir Galahad (UK variant)</title>
+		<file href="04-galahad_UK-puzzle.pdf"/>
+        <hint>The italicized words in the introduction hint at how to fill the blanks.</hint>
+        <hint>Find homophones (words that are pronounced the same but with different meaning) for the blanks in each sentence.</hint>
+        <hint>Note that there are numbers next to some of the entries on page 2. How might they relate to the first part?</hint>
+        <hint>The numbers indicate the ordinal of the word from the first part.</hint>
+        <hint>Replicate letters up and down based on the lines connecting boxes. Fill in remaining letters to form words. There is a theme...</hint>
+        <hint>The theme is movie terms (combined with words from the story on page 1).</hint>
+        <hint>Not all of the words fit the theme...</hint>
+        <hint>Read the anomalous words for further instructions.</hint>
+		<solution href="04-galahad-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>King Arthur (Meta Puzzle + Answer Sheet)</title>
+		<file href="05-arthur-puzzle.pdf"/>
+        <hint>You'll take one letter from each of the knight puzzle answers.</hint>
+        <hint>The puzzle contains guidance about where to find each letter.</hint>
+		<solution href="05-arthur-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Fourth Birthday (Bonus Puzzle)</title>
+		<file href="06-bonus-puzzle.pdf"/>
+		<solution href="06-bonus-solution.pdf"/>
+	</puzzle>
+    
+	<answerSheet href="05-arthur-puzzle.pdf"/>
+	<answerSheetSolution href="05-arthur-solution.pdf"/>
+</PPMonth>

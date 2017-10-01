@@ -1,0 +1,30 @@
+NEIGHBOURS
+
+Don't you hate it when your neighbours turn it up to 11... and what about ADDING up to 11...
+
+
+
+
+
+...
+
+
+
+
+
+...
+
+
+
+
+
+
+
+
+ANSWER METHOD:
+
+
+
+Shade numbers whose neighbours add up to 11. Diagonal numbers don't count as neighbours.
+
+This should spell F O on the top line, I L on the bottom.

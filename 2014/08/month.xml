@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2014</year>
+	<month>8</month>
+	<title>Moving Day</title>
+	<notes>August's guest author was [Dave Mattingly](http://www.twitter.com/dpmattingly).  All puzzles, except the bonus puzzle, were created by Dave.  Thanks for your contributions!</notes>
+	<location>
+		<puzzle>
+			<title>Boxes</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>Identify the building/location which contains each of the named rooms.
+
+NOTE: two of the location names are not in English, and a third is fictional!</hint>
+			<hint>Here are the locations for each room:
+
+1844 Room - Buckingham Palace
+Pavillon de Flore - Palais du Louvre
+At The Top - Burj Khalifa
+Poets' Corner - Westminster Abbey
+Indian Hall - Monticello
+Oval Office - White House
+Room of Requirement - Hogwarts
+1812 Military Gallery - Winter Palace
+Hall of Mirrors - Palace of Versailles
+USA Hall of Heroes - Pentagon</hint>
+			<hint>Have you tried INDEXING into the location names using the number on each box?</hint>
+			<hint>The solution is: BUBBLE WRAP</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>bubblewrap</answerword>
+	</location>
+
+	<puzzle>
+		<title>Directions</title>
+		<file href="01-directions-puzzle.pdf"/>
+		<solution href="01-directions-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Security System</title>
+		<file href="02-security-puzzle.pdf"/>
+		<solution href="02-security-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Entertainment Center</title>
+		<file href="03-entertainment_center-puzzle.pdf"/>
+		<solution href="03-entertainment_center-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Kitchen</title>
+		<file href="04-kitchen-puzzle.pdf"/>
+		<solution href="04-kitchen-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>A Cold One (Meta Puzzle)</title>
+		<file href="05-cold_one-puzzle.pdf"/>
+		<solution href="05-cold_one-solution.pdf"/>
+	</puzzle>
+    
+	<puzzle>
+		<title>Pets (Bonus Puzzle)</title>
+		<file href="06-bonus-puzzle.pdf"/>
+		<solution href="06-bonus-solution.pdf"/>
+	</puzzle>
+</PPMonth>
