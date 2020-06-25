@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2017</year>
+	<month>08</month>
+	<title>Destiny</title>
+	<notes>
+This month's theme is the [Destiny video game](https://www.wikipedia.org/wiki/Destiny_(video_game)).
+
+Big thanks to [Peter Sarrett](https://twitter.com/psarrett) for creating this month's puzzles!
+	</notes>
+	<location>
+		<puzzle>
+			<title>Title</title>
+			<file href="00-location.pdf"/>
+			<hint>Each black square on page 2 represents the word “DARK”.</hint>
+			<hint>Every answer on page 2 is shown somewhere in the image collage on page 1. The shape of the collage is also an answer! (Next hint lists all the answers.)</hint>
+			<hint>The things are (in alphabetical order, ignoring all leading “the”s):
+
+- after DARK
+- army of DARKness
+- dancing in the DARK
+- DARK beer
+- DARK crystal
+- DARK half
+- DARK horse
+- DARK jedi
+- DARK knight
+- DARK lord
+- DARK meat
+- DARK shadows
+- DARK side of the moon
+- DARKman
+- DARKseid
+- DARKwing duck
+- donnie DARKo
+- hershey's special DARK
+- his DARK materials
+- it was a DARK and stormy night
+- long DARK teatime of the soul</hint>
+			<hint>The shaded blanks will lead you to a 4-word phrase. Remember, you can always [use the internet](https://en.wikipedia.org/wiki/Genesis_1:3) — any and all solving resources are allowed at Puzzled Pint!</hint>
+			<hint>The solution is LET THERE BE LIGHT.</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>lettherebelight</answerword>
+	</location>
+
+	<puzzle>
+		<title>Cabal</title>
+		<file href="01-cabal.pdf"/>
+		<hint>Numbers tell you which letters to extract from the word represented by the other 3 clues in the nine center 2x2s</hint>
+		<hint>Read the extracted letters in left-to-right, top-to-bottom order as you encounter them in the grid</hint>
+		<hint>CLUE PHRASE: The resulting clue phrase refers to position, not meaning</hint>
+		<hint>CLUE PHRASE: Aside from the corners, you haven’t used the outer edges yet.</hint>
+		<hint>The final answer is six letters long</hint>
+		<solution href="01-cabal-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Ghosts</title>
+		<file href="02-ghosts.pdf"/>
+		<hint>Each answer is the title of a song</hint>
+		<solution href="02-ghosts-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Taken</title>
+		<file href="03-taken.pdf"/>
+		<hint>Exactly one letter is changed from the first word to the second</hint>
+		<hint>Two word fragments at the bottom, plus another letter, can be combined for each answer.</hint>
+		<hint>EXTRACTION: Read the changed letters in the second word</hint>
+		<solution href="03-taken-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Vex</title>
+		<file href="04-vex.pdf"/>
+		<hint>The flavortext is very instructive.</hint>
+		<hint>In each grid, a word or 2-word phrase can be spelled out, Boggle-style.</hint>
+		<hint>I’VE GOT THE WORDS, NOW WHAT? Did you draw the paths?</hint>
+		<hint>OK, I DID THAT, NOW WHAT? Every path is used exactly twice, in two different grids. That seems interesting.</hint>
+		<hint>JUST TELL ME! In grids that use the same path, exactly one letter is in the same position in both grids (and both words).</hint>
+		<hint>THIS ISN’T AN ANAGRAM, IS IT? No. Read the letters in position order (either word position or grid position)</hint>
+		<solution href="04-vex-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The Traveler (meta puzzle)</title>
+		<file href="05-meta.pdf"/>
+		<hint>The flavortext is essential</hint>
+		<hint>The important words in the flavortext are LIGHT and IN-FUSES.</hint>
+		<hint>You can insert the word LIGHT into each answer to make a new word or phrase. Those will fit into the blanks.</hint>
+		<solution href="05-meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Fallen (bonus puzzle)</title>
+		<file href="06-fallen.pdf"/>
+		<hint>WHAT DO I DO? Each grid contains five thematically-linked words, each formed from one square from each column.</hint>
+		<hint>SOMETHING’S NOT WORKING: OK, I lied. One of the words skips a column</hint>
+		<hint>EXTRACTION: Read the skipped squares in order, left to right, top to bottom</hint>
+		<solution href="06-fallen-solution.pdf"/>
+	</puzzle>
+
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>
