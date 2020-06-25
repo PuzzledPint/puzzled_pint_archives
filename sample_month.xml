@@ -1,19 +1,19 @@
 <?xml version="1.0" ?>
 <!DOCTYPE PPMonth SYSTEM "../../month.dtd">
 <PPMonth>
-	<year>2015</year>
-	<month>11</month>
-	<title>Title Here</title>
+	<year>2018</year>
+	<month>01</month>
+	<title>Title</title>
 	<notes>
 	</notes>
 	<location>
 		<puzzle>
 			<title>Title</title>
-			<file href="00-location-puzzle.pdf"/>
-			<hint>Hint 1</hint>
-			<hint>Hint 2</hint>
-			<hint>Hint 3</hint>
-			<hint>Hint 4</hint>
+			<file href="00-location.pdf"/>
+			<hint>Hint</hint>
+			<hint>Hint</hint>
+			<hint>Hint</hint>
+			<hint>Hint</hint>
 			<hint>Solution displayed to the player</hint>
 			<solution href="00-location-solution.pdf" />
 		</puzzle>
@@ -22,11 +22,15 @@
 
 	<puzzle>
 		<title>Title</title>
-		<file href="01-title_here-puzzle.pdf"/>
-		<hint>Hint 1</hint>
-		<hint>Hint 2</hint>
-		<hint>Hint 3</hint>
-		<hint>Hint 4</hint>
+		<file href="01-title_here.pdf"/>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
 		<solution href="01-title_here-solution.pdf"/>
 	</puzzle>
 

@@ -1,0 +1,126 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2017</year>
+	<month>12</month>
+	<title>Secret Messages</title>
+	<notes>
+No puzzles this month require color printing, though It's Just Dinner is even nicer when printed in color and on cardstock.
+
+Thanks to [Neal Tibrewala](http://www.tibrewala.net/) (Austin GC, Puzzled Pint HQ Team) for writing all of this month's puzzles, including our year-in-review Meta-Meta!
+
+PM: Jen Dumont
+	</notes>
+	<location>
+		<puzzle>
+			<title>Urgent Communiqué</title>
+			<file href="00-location.pdf"/>
+			<hint>You can solve this as a cryptogram without using the images at all. The images only provide hints on which letters transform into which other letters.</hint>
+			<hint>Each image is of something that becomes something else. For example, that (R)obot turns into an (A)mbulance.</hint>
+			<hint>The first letter of each image matches one of the letters in the message. To check your answers, the result letters are in alphabetical order.</hint>
+			<hint>The images are: 
+
+- R atchet (or robot)
+- C aterpillar
+- K itten
+- Z ygote
+- J ekyll
+- A corn
+- F rog
+- P ettigrew
+- W inter
+- L ightning</hint>
+			<hint>Change each letter of the message into what the corresponding image turns into:
+
+- R => A mbulance
+- C => B utterfly
+- K => C at
+- Z => E mbryo
+- J => H yde
+- A => O ak
+- F => P rince
+- P => R at
+- W => S pring
+- L => Thunder</hint>
+			<hint>The solution is REPORT TO THE SECRET BASE.</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>reporttothesecretbase</answerword>
+	</location>
+
+	<puzzle>
+		<title>It's Just Dinner</title>
+		<file href="01-its_just_dinner.pdf"/>
+		<hint>Start with finding the four corners, and go from there. Things with large spaces are more likely to be corners.</hint>
+		<hint>The two plates should be next to each other and the napkin. The three glasses should be together. All the silverware is together.</hint>
+		<hint>CORNERS:
+
+- Lower-left: Large doily/placemat
+- Upper-left: Napkin
+- Upper-right: Fork
+- Lower-right: Water Glass</hint>
+		<hint>FULL LAYOUT
+
+- Top Row: Napkin, 2 plates (top and bottom), pepper, salt, fork (top), knife (middle), spoon (bottom)
+- Bottom Row: Doily, Wine glass, champagne, water glass.</hint>
+		<hint>The shapes form letters. Try to read them.</hint>
+		<solution href="01-its_just_dinner-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Ancient Runes</title>
+		<file href="02-ancient_runes.pdf"/>
+		<hint>"See past obscuring connections to decode" is the hint. DECODE means use your code sheet.</hint>
+		<hint>Check the puzzling basics for flavor text words that are used for clues to certain codes</hint>
+		<hint>"see" in the flavortext is a clue for Braille. You need to see past (ignore) the lines connecting the points.</hint>
+		<hint>ALEPH TAV BETH SHIN</hint>
+		<solution href="02-ancient_runes-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Spy Newspaper</title>
+		<file href="03-spy_newspaper.pdf"/>
+		<hint>Your task is to look for puzzling clues in each news article that point to a single letter. Try looking for key words, acrostics, and use your code sheet! Individual clues are below.</hint>
+		<hint>A NEW...The article is describing a semaphore ^.</hint>
+		<hint>TONIGHT'S...double is the clue word. Notice any doubles?</hint>
+		<hint>ON THIS SAD...Look it up on your code sheet.</hint>
+		<hint>RADIOACTIVE...Look for a pattern among the lines</hint>
+		<hint>THE CITY'S...Acrostics are not just the first letter of each line.</hint>
+		<hint>NATO...Look for the NATO letter in the article.</hint>
+		<hint>CONGRASS...A certain common letter seems to be missing.</hint>
+		<hint>FOR THE...Just look at the shape of the article</hint>
+		<solution href="03-spy_newspaper-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The Enigma Machine</title>
+		<file href="04-enigma_machine.pdf"/>
+		<hint>"bandwith" is a clue that you should interpret the binary code as number relating to the two adjacent components together</hint>
+		<hint>Decode the binary using the code sheet into a number. This number is the sum of the number of letters in the specified components.</hint>
+		<hint>If you start with the 3 connection, it's easy to get (OS, X) as the pair. Continue to make sensible matches from there along the chain, as you'll know exactly how many letters are in the next connected word.</hint>
+		<hint>Read the first letter of each of the grey spaces in (1) then (2) order to get your required 8 letter answer</hint>
+		<solution href="04-enigma_machine-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The Secret Message (meta puzzle)</title>
+		<file href="05-meta.pdf"/>
+		<hint>The first step is to use the bacon cipher encoding by looking at the bolded letters of the flavor text itself.</hint>
+		<hint>The "grid you already made" is the actual engima puzzle. Use the first letter of each answer as the playfair grid</hint>
+		<solution href="05-meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>A Look Back (bonus puzzle and 2017 meta-meta)</title>
+		<file href="06-bonus.pdf"/>
+		<hint>There's nothing tricky about the crossword grid. Just fill in the answers based on the clues.</hint>
+		<hint>There seems to be something almost familiar about some of the crossword answers and some words from the 12 meta answers.</hint>
+		<hint>You will need to reuse some grey hexes multiple times, but it'll always refer to the important letter.</hint>
+		<hint>If you change the letter of a grey hex, you can get one of the words in one of the 12 the meta answers</hint>
+		<hint>Fill into the final answer the original letter from the meta answer that got changed in the grey hex.</hint>
+		<solution href="06-bonus-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>

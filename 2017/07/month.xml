@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2017</year>
+	<month>07</month>
+	<title>Game of Thrones</title>
+	<notes>
+Game of Thrones spoilers - The set contains no major spoilers. For the TV show, there are no spoilers at all beyond season 5, episode 2. For the book series, there are no spoilers at all beyond book 4 (A Feast for Crows), chapter 6. We don’t know anything about season 7 or later since we wrote everything before it premiered!
+
+Big thanks to the [Puzzled Pint Pittsburgh](https://twitter.com/PuzzPintPGH) Game Control members (and alumnus) for writing this month's set: [Emily Durham](https://emilyrosedurham.com/), [E. Forney](https://twitter.com/e_forney), [Eli Goodfriend](https://huntforjustice.org/) (now a NYC GC), Adam Leibowitz, and Matt Needles. Thanks to [Curtis C. Chen](https://twitter.com/curtiscchen) (HQ/Portland/Co-founder) for writing one of the bonus puzzle.		
+	</notes>
+	<location>
+		<puzzle>
+			<title>A Mixtape of Ice &amp; Fire</title>
+			<file href="00-location-puzzle.pdf"/>
+			<hint>Determine the artist for each song. (Next hint will give the correct ordering.)</hint>
+			<hint>The artists are:
+
+
+1. Jerry Lee Lewis
+2. Billy Joel
+3. Outkast
+4. Alicia Keys
+5. Vanilla Ice
+6. Adele
+7. Johnny Cash
+8. Foreigner
+9. The Doors
+10. James Taylor
+
+
+Now what can you do with the track times?</hint>
+			<hint>Use the minute of the track time to index into the artist's name and extract a single letter. Then use the seconds of the track time is to shift that letter...but what way should you shift?</hint>
+			<hint>For songs with "fire" ("hot jams..."), add to shift forward ("...of the future") in the alphabet.
+For songs with "ice" ("cool grooves..."), subtract to shift backward ("...of the past").
+For example: track 1 indexes to the 2nd letter (E) of "Jerry Lee Lewis" and because it mentions "fire," shifts that letter forward by 11 to get P.</hint>
+			<hint>The solution is PUZZLE KING.</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>puzzleking</answerword>
+	</location>
+
+	<puzzle>
+		<title>Jon Snow's Family Tree</title>
+		<file href="01-jon_snow.pdf"/>
+		<hint>Each pair of answers share a letter in the same position</hint>
+		<hint>Read the shared letters from each column left to right</hint>
+		<solution href="01-jon_snow-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Extra Hint Handout for Jon Snow's Family Tree</title>
+		<notes>This worksheet is especially helpful for non-American solvers.</notes>
+		<solution href="01-jon_snow-hints.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Logic Game of Thrones</title>
+		<file href="02-logic_game.pdf"/>
+		<hint>Notice that each of the places match to an element, plant, and animal.</hint>
+		<hint>PARTIAL SOLUTION: Location of each of duke: Mahogany – Nikolai, Silk – George, Gold – Fatima, Diamond – Helena, Pearl – Robert, Ebony – Gudrun, Ivory – Judith, Marble – Barack, Saffron – Anabel</hint>
+		<hint>Have you noticed the swords? Perhaps you should use them?</hint>
+		<hint>Extract the letters based on the where each of the swords are pointing</hint>
+		<hint>PARTIAL SOLUTION: KING OF THE ROUND TABLE</hint>
+		<solution href="02-logic_game-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Melisandre's Missive</title>
+		<file href="03-melisandre.pdf"/>
+		<hint>Have you noticed the misspelled words?</hint>
+		<hint>There are 3 kinds of misspellings</hint>
+		<hint>Some words are missing a letter, some have an extra letter, and some have a changed letter</hint>
+		<hint>Partial Solution: Missing letters spell out AFTER, Additional letters spell out EVERY, Changed letters spell out COMMA</hint>
+		<hint>Take each letter after every comma in the letter</hint>
+		<solution href="03-melisandre-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The House of Black and White</title>
+		<file href="04-house_of_black_and_white.pdf"/>
+		<hint>Fill in the grid with black and white masks (if you get stuck, review the solution document)</hint>
+		<hint>Interesting that the grid can be broken in 2x3 sections</hint>
+		<hint>Use Braille to get the answer</hint>
+		<solution href="04-house_of_black_and_white-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Spoiler Alert! (meta puzzle, no actual spoilers)</title>
+		<file href="05-meta.pdf"/>
+		<hint>Match the previous puzzle solutions to each House Crest</hint>
+		<hint>Use the picies below to find words that coorspond</hint>
+		<hint>PARTIAL SOLUTION: Tony Stark = Ironman, King Arthur = Pendragon, Sirius = Dogstar, House Banister = Handrail</hint>
+		<hint>Interesting you have left over pieces</hint>
+		<solution href="05-meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Our Seven Kingdoms (bonus puzzle)</title>
+		<file href="06-seven_kingdoms.pdf"/>
+		<solution href="06-seven_kingdoms-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Crosswodor (silly bonus puzzle)</title>
+		<file href="07-crosswodor.pdf"/>
+		<solution href="07-crosswodor-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>

@@ -1,8 +1,8 @@
 #!/bin/bash
 
-for YEAR in `find . -type d -maxdepth 1 -name '2*'` ; do
+for YEAR in `find . -type d -maxdepth 1 -name '2*' | sort -r -n` ; do
 	cd $YEAR
-	for MONTH in `find . -type d -maxdepth 1 -regex '..[0-9][0-9]'` ; do
+	for MONTH in `find . -type d -maxdepth 1 -regex '..[0-9][0-9]' | sort -n` ; do
 		cd $MONTH
 		if [ -f month.xml ]; then
 			echo "Testing $YEAR/$MONTH/month.xml"

@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2017</year>
+	<month>11</month>
+	<title>Charlie and the Chocolate Factory</title>
+	<notes>
+Thanks to St. Louis Puzzled Pint player Matthew Stern for writing all of this month's puzzles! And thanks to Chelsea Branson for co-authoring the location puzzle!
+	</notes>
+	<location>
+		<puzzle>
+			<title>The Golden Ticket</title>
+			<file href="00-location.pdf"/>
+			<hint>Find the path from the golden ticket to the gates.</hint>
+			<hint>Every turn you make is at a junction of two streets (one numbered, one named).</hint>
+			<hint>Use the numbered street to index into the named street.  1st Ave + Stardust Blvd = S.</hint>
+			<hint>The solution is STICKY FINGERS.</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>stickyfingers</answerword>
+	</location>
+
+	<puzzle>
+		<title>The Chocolate Room</title>
+		<file href="01-chocolate_room.pdf"/>
+		<hint>Once you solve each clue, do you notice something regarding "holes", "bridges", "rivers"?</hint>
+		<hint>Find a path that starts at a "Start" that avoids words with holes and rivers while going over the "bridge"</hint>
+		<hint>The first half of the path before the bridge says "Kickstarter - Roald Dahl Book Title Adjective about James Peach" which is GIANT</hint>
+		<hint>Second half of the path says "Extra squares NATO Letters Vertically"</hint>
+		<solution href="01-chocolate_room-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The Inventing Room</title>
+		<file href="02-inventing_room.pdf"/>
+		<hint>Once all lines a drawn, look to the uncovered letters (i.e. no line drawn through them)</hint>
+		<hint>Uncovered letters spell out "HIGHLIGHT SINGLE WIRES"</hint>
+		<hint>Did those single lines create a shapes that might be of use or perhaps spell out something?</hint>
+		<solution href="02-inventing_room-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The Nut Room</title>
+		<file href="03-nut_room.pdf"/>
+		<hint>Each nut can be transformed into a new word with a ROT cipher. That new word should coorspond with the squirrel responses below.</hint>
+		<hint>The quanity for each price deThescribes how many squirrels use the new word</hint>
+		<hint>The error code is how many letters foward each word is shifted</hint>
+		<hint>Convert the error codes to letters (12 = L)</hint>
+		<solution href="03-nut_room-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The Television Room</title>
+		<file href="04-television_room.pdf"/>
+		<hint>Each movie description descrives a popular movie with one letter changed in its title.</hint>
+		<hint>The first movie is "Toy Stork"</hint>
+		<hint>Take the changed letter and place it in the televisions below.</hint>
+		<solution href="04-television_room-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The Great Glass Elevator (meta puzzle)</title>
+		<file href="05-meta.pdf"/>
+		<hint>I wonder where I can find bugs from the other puzzles?</hint>
+		<hint>The candies all have traits that should be familar from the other puzzles</hint>
+		<hint>Draw lines from the candies to the bugs. What's left?</hint>
+		<solution href="05-meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The Oompa Loompas (bonus puzzle)</title>
+		<file href="06-bonus.pdf"/>
+		<hint>Look for the candies in the testimonies</hint>
+		<hint>Well, you might not find the candies EXACTLY. Perhaps with an extra ingredient?</hint>
+		<hint>Albert's testimony contains the candy "Nerds", but with an "e" added</hint>
+		<hint>Take the added letter to get the solution</hint>
+		<solution href="06-bonus-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>

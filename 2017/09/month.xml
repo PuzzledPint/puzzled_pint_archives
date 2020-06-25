@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2017</year>
+	<month>09</month>
+	<title>Wedding</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Save the Date</title>
+			<file href="00-location.pdf"/>
+			<hint>Hint 1</hint>
+			<hint>Hint 2</hint>
+			<hint>Hint 3</hint>
+			<hint>Hint 4</hint>
+			<hint>Solution displayed to the player</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>bowlingalley</answerword>
+	</location>
+
+	<puzzle>
+		<title>Annoying Bartender</title>
+		<file href="01-annoying_bartender.pdf"/>
+		<hint>Each phrase should anagram to a drink name.</hint>
+		<hint>First phrase becomes "Gin and Tonic"</hint>
+		<hint>Use the shaded squares</hint>
+		<solution href="01-annoying_bartender-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Dangerous Dancing</title>
+		<file href="02-dangerous_dancing.pdf"/>
+		<hint>The path contains a message</hint>
+		<hint>The message is THE ANSWER IS AMONG MISSED LETTERS ON THE DANCE FLOOR</hint>
+		<solution href="02-dangerous_dancing-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Maid of Honor's Toast</title>
+		<file href="03-maid_of_honors_toast.pdf"/>
+		<hint>Match up the modern sentences to the Shakespeare</hint>
+		<hint>Apply the numbers you found.</hint>
+		<solution href="03-maid_of_honors_toast-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The Venue in Verona</title>
+		<file href="04-venue_in_verona.pdf"/>
+		<hint>If you have built your paths correctly, a word or phrase should appear.</hint>
+		<hint>The correct path starts with "BEST"</hint>
+		<hint>Complete message for the correct path is "BEST MAN TO ROMEO NAMED NEITHER CAPULET NOR MONTAGUE</hint>
+		<solution href="04-venue_in_verona-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Wedding Gifts (meta puzzle)</title>
+		<file href="05-meta.pdf"/>
+		<hint>Each of the gifts can be "extracted" from the puzzle answers</hint>
+		<hint>link the gift to the giver</hint>
+		<hint>Use the numbers you crossed to index into the puzzle answers</hint>
+		<solution href="05-meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Different Meanings (bonus puzzle)</title>
+		<file href="06-bonus.pdf"/>
+		<hint>Try turning all of the pictures on the right into verbs, e.g. mouth -> mouthed</hint>
+		<hint>You're looking to match each bolded, italicized, and underlined word (or phrase) with one of the body parts, animal, or piece of clothing respectively, i.e. all body parts have a definition which means one of the bolded words.</hint>
+		<hint>Body Part Match Answers: help me / back, following him / tail, pay / foot, gun / arm, silently / mouth, wasn't well received / bust, leader / head</hint>
+		<hint>Animal Match Answers: punched / slug, went into / duck, close / seal, countered / buck, having to / bear, item complete / tick, love / fawn</hint>
+		<hint>Clothing Match Answers: toss out / boot, lost him / slip, merger / tie, punch / sock, grovel / bow, sang / belt, saw / watch</hint>
+		<hint>"Wave a flag" a semaphore coding clue. Draw semaphore in each sentence's order.</hint>
+		<solution href="06-bonus-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>

@@ -1,0 +1,152 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2017</year>
+	<month>10</month>
+	<title>Dracula</title>
+	<notes>
+Thanks to Toronto player [Sara Goodchild](https://twitter.com/sarathegood) for writing this month's set!
+
+PM: Neal Tibrewala
+	</notes>
+	<location>
+		<puzzle>
+			<title>What Music They Make!</title>
+			<file href="00-location.pdf"/>
+			<hint>You might not be able to recognize all the artists, but have you tried googling the quotes?</hint>
+			<hint>"Use their testimony" is a clue to mean you need to use the name of the song. The list of
+songs is the next hint.</hint>
+			<hint>The songs are:
+
+- Vampires, Mummies, and the Holy Ghost
+- Bloodletting
+- Vicarious
+- If I Was Your Vampire
+- Temptation Waits
+- We Hunger
+- Bullet with Butterfly Wings
+- Monster Mash</hint>
+			<hint>5-1 is a book cipher code telling you use the 5th word, 1st letter of that song. Do that for each
+song's cipher code.</hint>
+			<hint>The solution is HE CAPERS.</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>hecapers</answerword>
+	</location>
+
+	<puzzle>
+		<title>They Had Character</title>
+		<file href="01-they_had_character.pdf"/>
+		<hint>Your first task is to fill in the blanks according to the crossword-style clues in brackets in each article. "fill in the gaps" is a hint for how to find/know the right answers since some of the clues are vague</hint>
+		<hint>"fill in the gaps" is a hint that all answers can be formed by starting with the character's name and adding letters</hint>
+		<hint>PARTIAL ANSWERS: VAN HELSING Vanish Hel Swing</hint>
+		<hint>PARTIAL ANSWERS: MORRIS More Risky</hint>
+		<hint>PARTIAL ANSWERS: MURRAY Mu Array</hint>
+		<hint>PARTIAL ANSWERS: HARKER Half Raker</hint>
+		<hint>PARTIAL ANSWERS: WESTERNA Western Ray</hint>
+		<hint>PARTIAL ANSWERS: SEWARD Sex Award</hint>
+		<hint>PARTIAL ANSWERS: HOLMWOOD Hone Elm Wood</hint>
+		<hint>PARTIAL ANSWERS: RENFIELD Ark Yen Field</hint>
+		<hint>for the next step, note how the the puzzle is in columns? Maybe certain letters from each column will help.</hint>
+		<hint>"rearrangement" means you'll need to anagram, but doing all the letters won't help, which ones might you use?</hint>
+		<hint>"anatomy" is only partially italicised. NATO is a clue that you need to rearrange the letters you filled in into NATO alphabet words.</hint>
+		<solution href="01-they_had_character-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>He Likes It Rare</title>
+		<file href="02-he_likes_it_rare.pdf"/>
+		<hint>These are crossword style clues, but the numbers won't help you know where to place words. Maybe the blood drops will help with that?</hint>
+		<hint>If you count everything, you'll find 15 words in column 1, 15 words in column 2 and 15 sets of answer blanks. How can two clues combine into just one set of answer blanks?</hint>
+		<hint>The title is a clue for how to interpret the blood drops</hint>
+		<hint>Each blood drop is a stand-in for the two letters AB (which is the rarest blood type)</hint>
+		<hint>Each clue in the left column is a word containing AB.</hint>
+		<hint>Each clue in the right column is an answer from the left column with the AB removed.</hint>
+		<hint>PARTIAL ANSWERS: GRID ANSWERS
+
+- abuses - uses
+- aboil - oil
+- habit - hit
+- ablate - late
+- abash - ash
+- viable - vile
+- rabid - rid
+- taboo - too
+- absolve - solve
+- abduct - duct
+- baboon - boon
+- abate - ate
+- abstain - stain
+- baby - by
+- abides - ides</hint>
+		<hint>Fit the words into the grid,according to the blood drops, and read the numbered letters out in order</hint>
+		<solution href="02-he_likes_it_rare-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Night Class</title>
+		<file href="03-night_class.pdf"/>
+		<hint>Your task is to the solve the rebus puzzles to get items that might be used to kill vampires. These are a very simple form of rebus where you just need to identify the images and manipulate the result word by adding or removing letters as shown. You may need to use homophones of the images.</hint>
+		<hint>You'll note that you have 7 left hand pieces, 7 right hand pieces and only 2 middle pieces. This goes along with the 7 clue locations.</hint>
+		<hint>PARTIAL ANSWER: LEFT PIECESFlame, Glaric, Sun, Picket, Bat, Silver, Holy</hint>
+		<hint>PARTIAL ANSWER: MIDDLE PIECESFence, Letter</hint>
+		<hint>PARTIAL ANSWER: RIGHT PIECESBreath, Water, Spray, Post, Lamp, Thrower, Opener</hint>
+		<hint>PARTIAL ANSWER: COMBINED WORDS Holy Watergun, Garlic Breath, Sun Lamp, Silver Letter Opener, Picket Fence Post, Flamethrower, Bat Spray</hint>
+		<hint>You've combined the words, try combining the numbers too to get an index for your final letters</hint>
+		<solution href="03-night_class-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>His Precious Earth</title>
+		<file href="04-his_precious_earth.pdf"/>
+		<hint>Your first step is to find the boxes by solving the logic puzzle. For example, you know that you need to fill in the top left space, because there are four rocks in the top-left cairn, thus all four available spaces must be filled.</hint>
+		<hint>The flavortext has a hint on how to interpret the box locations you found.</hint>
+		<hint>"can't see very well" is hinting you need to use Braille to decode the box locations</hint>
+		<hint>The box locations decode to say "EVERY FIFTH WORD".</hint>
+		<hint>You'll want to look at every 5th word of Dracula's note</hint>
+		<hint>His note hides the secret message: Fill in bordered areas with wolves to reveal three letters of the same kind.</hint>
+		<hint>The instructions means to fully darken all squares of any 2x3 area that has a wolf.</hint>
+		<hint>Now you have another set of 3 2x3 areas, so decode Braille one more time.</hint>
+		<solution href="04-his_precious_earth-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Fangs for Nothing (meta puzzle)</title>
+		<file href="05-meta.pdf"/>
+		<hint>Follow the instructions for each section by taking your puzzle answer (as matched up by symbol from the answer sheet) and manipulating it several times. This will give you one of the words for the final answer. Fill in the answer blanks on the answer sheet as you find each section's word</hint>
+		<hint>PARTIAL ANSWER: WORD 1 
+- WAXY - WAX = Y
+- Y -> WHY
+- WHY -> THY
+- THY -> THE (Stake is the feared object)</hint>
+		<hint>PARTIAL ANSWER: WORD 2 
+
+- BLOOD TEST -> TEST
+- TEST -> TEAT (S is the chemical symbol for Sulpher, Boss Wolf = Alpha = NATO for A)
+- TEAT -> DEAD (D is 500 in roman numerals)</hint>
+		<hint>PARTIAL ANSWER: WORD 3
+
+- GRAVELY -> GRAVEL
+- GRAVEL -> RAVEL
+- RAVEL -> TRAVEL (A crucifix resembles a T)</hint>
+		<hint>PARTIAL ANSWER: WORD 4 
+- SUN -> FUN (Eyeteeth are Fangs)
+- FUN -> FAN (Bat innards means the middle letter of BAT, which is A)
+- FAN -> FAST (N is the chemical symbol for Nitrogen, and a virtuous person is a Saint (abbreviated ST)</hint>
+		<solution href="05-meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Stab Bats! and Mirror Maze (bonus puzzles)</title>
+		<file href="06-bonus.pdf"/>
+		<hint>Your goal is to find a path from the upper right (Spider) to the the exit of the maze</hint>
+		<hint>Your path will need to go from one adjacent picture to another in any direction, including diagonally</hint>
+		<hint>Look to the image for a visual hint on which direction to go</hint>
+		<hint>Spider, Umbrella, Pizza, Eye, Rocket, Star, Turtle, Iron, Telescope, Ice Cream Cone, Owl, Unicycle, Sun, Mask, Island, Net, Door (which is your exit from the maze)</hint>
+		<hint>Take the first letter of each answer to get the final answer</hint>
+		<solution href="06-bonus-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>
