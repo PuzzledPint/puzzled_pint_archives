@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2018</year>
+	<month>11</month>
+	<title>Da Vinci</title>
+	<notes>
+Thank you to this month's author Andrea Blumberg, Portland OR
+
+PM: Jen Dumont
+	</notes>
+	<location>
+		<puzzle>
+			<title>Location Puzzle</title>
+			<notes>NOTE that the location puzzle is a video file this month.</notes>
+			<file href="00-location.mp4"/>
+			<hint>Each of the blue morphing Lissajous figures represents a letter, as given on the chart.</hint>
+			<hint>The solution is MINIMALISM.</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>minimalism</answerword>
+	</location>
+
+	<puzzle>
+		<title>Viola Cyborganista</title>
+		<file href="01-viola_cyborganista.pdf"/>
+		<hint>What are all the body parts and the musical instruments?</hint>
+		<hint>Body Parts: HEEL, ARM, GUM, HIP, EAR, LEG, SHIN, LIPS, CHEST, RIB, CHIN, TOES, NOSE</hint>
+		<hint>Instruments: MANDOLIN, TUBA, RECORDER, ELECTRIC GUITAR, FIDDLE, EUPHONIUM, HARMONIUM, WHISTLE, IRISH HARP, NATIVE AMERICAN FLUTE, LYRE, SAX, ACCORDION.</hint>
+		<hint>Can you make new words by putting the body parts where the instruments used to be?</hint>
+		<hint>New words: pinwHEELs, bARMaid, aGUMentative, cHIPmunk, pEARls, LEGacy, fiSHINg, sLIPStream, orCHESTra, bRIBery, maCHINes, memenTOES, diagNOSEd</hint>
+		<hint>Connect the dots between the matching words and pictures. When a line crosses a diamond, put the first letter of the instrument into it.</hint>
+		<solution href="01-viola_cyborganista-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Virtuviandroid</title>
+		<file href="02-virtuviandroid.pdf"/>
+		<hint>How many traits are there and how many code words?</hint>
+		<hint>What do you notice about the lengths of the code words compared to the lengths of the English words?</hint>
+		<hint>The longest word is ATTRACTIVE. The word above it is ACTIVE. That's a good place to start to find patterns.</hint>
+		<hint>Each code symbol stands for a pair of letters.</hint>
+		<hint>Solve the words like a cryptogram, but with two letters per symbol instead of just one</hint>
+		<hint>The Deluxe traits are numbers 2, 5, 7, 8, 10, 15, 16, 20.</hint>
+		<hint>Read out the words that are pointed to by those numbered arms.</hint>
+		<solution href="02-virtuviandroid-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The Last Supperl</title>
+		<file href="03-last_supperl.pdf"/>
+		<hint>Each paragraph is a separate instruction, telling you where to make a dot on the picture (or, in one case, a series of circles).</hint>
+		<hint>The instructions translated into regular English are:
+
+- beard 1= find a man whose hand is pointing straight up. Draw a dot at the bottom of his beard. Label that point 4.
+- beard 2= find a man with a short white beard. Draw a dot at the bottom of his beard. Label that point 1.
+- hairpart1= draw a dot in the part in Jesus' hair. Label that point 3.
+- allmountains= number the mountains left to right. Draw a dot at the top of the second mountain. Label that point 2.
+- allbread= number the bread rolls on the table left to right. Draw a dot in the center of the fifth roll. Label that dot 11.
+- foreach= the first four rolls have no dot in the them, so put a circle around each of those four rolls.
+- wineglass1= the round wineglass is at the far right edge of the table. Draw a dot at its bottom. Label that point 5.
+- alltablelegs= number the table legs left to right. Draw a dot at the bottom of the third leg. Label that point 8.
+- line1= the left edge of the fourth table leg line2= the bottom edge of the tablecloth
+- intersection1= find where those two lines meet. Draw a dot at the intersection. Label that point 6.
+- allfloorstripes= number the white stripes on the floor from left to right.
+- line3= the right edge of the third stripe
+- line4= the edge of the shadow on the floor that is cast by the tablecloth
+- intersection2= find where those two lines meet. Draw a dot at the intersection. Label that point 7.
+- allscrolls= find the curlicue shapes between the second and third table legs. Number them left to right. Draw a dot at the bottom of the first scroll. Label that point 9.
+- xylattice= the creases in the tablecloth make a grid pattern with 8 vertical creases and 2 horizontal creases. Starting in the lower left corner, find the fourth crease from the left and the lower of the two horizontal creases. Draw a dot at the intersection. Label that point 10.
+- alldots= connect the dots, making sure to connect the final dot to the first dot.</hint>
+		<solution href="03-last_supperl-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Perpetuum Automobile</title>
+		<file href="04-perpetuum_automobile.pdf"/>
+		<hint>Each car in the grid is a starting point for one of the words.</hint>
+		<hint>It's a logic puzzle to determine how all of the paths fit in the grid so that all nodes are used exactly once, and no lines cross.</hint>
+		<hint>There is only one place that BIOFUEL can fit.</hint>
+		<hint>The cars, from left to right, top to bottom, are: SUNLIGHT, BIOFUEL, TIDES, HYDRO, WAVES, ALGAE, WIND, ETHANOL.</hint>
+		<hint>There's only one place the final path can fit.</hint>
+		<solution href="04-perpetuum_automobile-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Aerial Screw it All Together (meta puzzle)</title>
+		<file href="05-meta.pdf"/>
+		<hint>Input letters are: THE ANSWER</hint>
+		<hint>Output letters are: SEILFEMIT</hint>
+		<hint>What was “quintessentially Da Vincian” about the way he wrote in his notebooks?</hint>
+		<solution href="05-meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Leonardo's Legacy (bonus puzzle)</title>
+		<file href="06-bonus.pdf"/>
+		<solution href="06-bonus-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>
