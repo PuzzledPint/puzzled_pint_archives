@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2018</year>
+	<month>03</month>
+	<title>Harry Potter</title>
+	<notes>
+Thanks to Aileen Lau (Vancouver GC), Joy Emery (Austin player), and Kaylei Elworth (Austin GC) for writing this month's set!
+
+PM: Neal Tibrewala
+	</notes>
+	<location>
+		<puzzle>
+			<title>Secret Passages</title>
+			<file href="00-location.pdf"/>
+			<hint>This is a standard [Hashi puzzle](https://en.wikipedia.org/wiki/Hashiwokakero).</hint>
+			<hint>Ignore letters crossed out by lines.</hint>
+			<hint>The solution is ROOM OF REQUIREMENT.</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>roomofrequirement</answerword>
+	</location>
+
+	<puzzle>
+		<title>Divination</title>
+		<file href="01-divination.pdf"/>
+		<hint>You'll need scissors for this puzzle (cut).</hint>
+		<hint>You'll need to join together a piece of a cup from each Weasley.</hint>
+		<hint>Cut out only the upper-left quadrant of each circle, and put them together.</hint>
+		<hint>The right pieces in the right order will line up nicely into morse code.</hint>
+		<solution href="01-divination-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Charms Class</title>
+		<file href="02-charms_class.pdf"/>
+		<hint>Each of the five lines are instructions as to how to precisely move your pencil to get a result.</hint>
+		<hint>Try to think of ways in which each pictures could represent a specific direction to move your pencil on the paper. Start at the dark dot and stay within the grid.</hint>
+		<hint>You'll note 5 spells, and 5x2 answer blanks below. This means there may be some interpreting of the results you get before they're useful.</hint>
+		<hint>LAPIFORS: Use the Bug (This month's logo in the upper left of the page) to move the pencil in the direction of the animal. SW, SE, NE, SE, SW</hint>
+		<hint>COLOVERIA: Use the Bug's colors (or shapes if just black and white) to move the pencil in the correct direction: SW, NW, SW, NW</hint>
+		<hint>IMPERVIUS: Move the pencil straight down to make a single line.</hint>
+		<hint>REDUCIO: The NEWSpaper is the hint here. Use the first letter of each image</hint>
+		<hint>DUCKLIFORS: Penguins are found at the South pole, Polar bears at the North Pole, and Pandas in the East</hint>
+		<hint>Runes is a clue to look at each drawing as a letter. You'll have to try different rotations</hint>
+		<hint>Numerology is a clue to look at each drawing as a number. Yet again different rotations will give numbers.</hint>
+		<hint>Index the number into the name of the spell to get the final 5 letters.</hint>
+		<solution href="02-charms_class-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The Quibbler</title>
+		<file href="03-quibbler.pdf"/>
+		<hint>Your task is to fit all words from the word bank into the grid. All are across.</hint>
+		<hint>The shaded boxes can be read for your next instruction</hint>
+		<hint>SHADED BOXES: PIGPEN COLUMN ONE</hint>
+		<hint>How can "give the whole thing a spin" help you see things from a different perspective?</hint>
+		<hint>Turn the page upside-down and read the pig-pen again.</hint>
+		<solution href="03-quibbler-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The Library</title>
+		<file href="04-library.pdf"/>
+		<hint>Notice that each page references a number</hint>
+		<hint>Per the flavor, you'll want to use that number as an index.</hint>
+		<hint>Note the number of words on each page.</hint>
+		<hint>MATCHES:
+
+- Always -> Lavender Brown
+- Animagi -> Minerva McGonagall
+- Commonplace -> Millicent Bulstrode
+- Four -> Remus Lupin
+
+- Happily -> Hermione Granger
+- Machines -> Arthur Weasley
+- Objectively -> James Potter
+- Through -> Tom Riddle</hint>
+		<hint>Now that you've matched the pages to the book, repeat the trick on the title (ask the books)</hint>
+		<hint>You used the number to index every word of the page, now you must index every word of the title. you'll note the longer underline is per-book.</hint>
+		<solution href="04-library-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Howlers (meta puzzle)</title>
+		<file href="05-meta.pdf"/>
+		<hint>Look for acrostics</hint>
+		<hint>Each puzzle will match up with exactly two lines</hint>
+		<hint>The first letters of each word of each line will spell a number. The remaining words reference a puzzle answer.</hint>
+		<hint>Index the answer to each puzzle by the number to find the "hour" needed</hint>
+		<solution href="05-meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Steady as you go, Great A'Tuin (bonus puzzle)</title>
+		<file href="06-bonus.pdf"/>
+		<hint>References to time and hours tells you that you are using semaphore here (per the Puzzling Basics).</hint>
+		<hint>Each tidbit is a clue for a name on the list</hint>
+		<hint>TIDBITS:
+
+1. Check it out -> Librarian (check out a book)
+2. Egg N___ -> Nanny Ogg
+3. Strengthening Storm -> Granny Weatherwax (weather is waxing)
+4. It always hurts -> Tiffany Aching (aches hurt)
+5. Breaking and Entering -> Rob Anybody (Robbery)
+6. Pig Daddy -> Hogfather
+7. Vitamin A -> Captain Carrot
+8. Rhymes -> Cmdr. Vimes (Rhymes and Vimes rhyme)
+9. Fido is sick -> Lord Vetinari (Take a sick dog to the vet)
+10. Wanna get away? -> Luggage (required for a vacation get away)
+11. Small Boquet -> Twoflower (two flowers isn't much of boquet)
+12. Clear the Air -> Rincewind (rinse the wind might be how to clear/clean the air)</hint>
+		<hint>Use the number of the tidbit as the hour for clock hands, one from Death's list and one from Susan's</hint>
+		<solution href="06-bonus-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>

@@ -1,0 +1,17 @@
+Each piece has one member from 4 different ordered lists
+
+they are: Famous Scientists, Elements of the Periodic table, Stars Near Earth, and Pharaohs of Egypt
+
+The lists are ordered by Birthdate, Atomic Number, Distance from Earth, and Reign
+
+M.Faraday	Lithium  		Alpha Centauri		Djoser	
+N.Tesla 	Sodium 			Barnard’s Star		Khufu	
+M.Curie 	Silicon 		Sirius			Neferefre	
+A.Einstein 	Neodymium 		Procyon			Amenhotep	
+R.Franklin 	Thorium 		Tau Ceti		Tutankhamun	
+
+When lined up in order, you get 5 letters 
+
+Match each group of letters to their corrosponding blank spaces at the top of the page
+
+The answer is STARGATE BURIED AT GIZA
