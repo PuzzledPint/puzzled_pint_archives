@@ -1,0 +1,160 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2018</year>
+	<month>05</month>
+	<title>Ampersands</title>
+	<notes>
+Big thanks to [Larry Hosken](https://lahosken.san-francisco.ca.us/), creator of all of this month's  puzzles. 
+
+PM: Neal Tibrewala
+	</notes>
+	<location>
+		<puzzle>
+			<title>Bridge And</title>
+			<file href="00-location.pdf"/>
+			<hint>This is a [Hashi Puzzle](https://www.puzzle-bridges.com/)</hint>
+			<hint>Find the shortest path between the &amp;s to get your answer. (If you want it: [Solved hashi puzzle](00-location-bridges.png).)</hint>
+			<hint>Partial Answer: Brick</hint>
+			<hint>The solution is MORTAR.</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>mortar</answerword>
+	</location>
+
+	<puzzle>
+		<title>Cut And</title>
+		<file href="01-cut_and.pdf"/>
+		<hint>As you match edges of the triangle, tape them together to form a 3D shape.</hint>
+		<hint>MATCH:
+
+- Sweet &amp; low
+- Born &amp; Raised
+- Big &amp; Little
+- Past &amp; Future
+- Romeo &amp; Juliet
+- Silver &amp; Gold
+- Point &amp; Click
+- Boom &amp; Bust
+- Life &amp; Death
+- Rich &amp; Poor
+- Mortar &amp; Pestle
+- Anxiety &amp; Worry</hint>
+		<hint>For each pair you'll want to extract one letter. The flavor text shows you how to do this with Tea &amp; Scones</hint>
+		<hint>Take the only letter each pair has in common</hint>
+		<hint>Follow the line from start here taking each letter for your final answer.</hint>
+		<hint>WRITE LIBERTY</hint>
+		<hint>LIBERTY</hint>
+		<solution href="01-cut_and-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Search And</title>
+		<file href="02-search_and.pdf"/>
+		<hint>Start with finding the words like a normal word-search</hint>
+		<hint>Read the remaining letters in the grid</hint>
+		<hint>SEE LETTERS AT INTERSECTIONS OR ENDS. DRAW LINES BETWEEN, GUIDED BY NONSENSE. DRAW NEW LETTERS.1. For each of the left-column clues, you need to find two words from the SPELL NEW WORD</hint>
+		<hint>Notice how the word bank words visually make an</hint>
+		<hint>Use the nonsense letters at the bottom to trace paths along the ampersand. Recording these will give you new letters.</hint>
+		<solution href="02-search_and-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Back And</title>
+		<file href="03-back_and.pdf"/>
+		<hint>The letters forward on one side are the same letters backward on the other.</hint>
+		 <hint>&amp; SCHUSTER: SIMON</hint>
+		 <hint>BIGGER THAN A SEA: OCEAN</hint>
+		 <hint>SPEED AT WHICH SOMETHING HAPPENS: RATE</hint>
+		 <hint>SOMETHING A FLEA OR DOG MIGHT DO: BITE</hint>
+		 <hint>MIGHT FOLLOW BRIEF- OR SUIT-: CASE</hint>
+		 <hint>JAPANESE MANGA, PUT TO SCREEN: ANIME</hint>
+		 <hint>PREFIX FOR -ANNUAL OR -HAULEP: SEMI</hint>
+		 <hint>"PAT" AND "SANDY", FOR EXAMPLE: NAMES</hint>
+		 <hint>UNIT OF LOT MEASUREMENT: ACRE</hint>
+		 <hint>HOME OF EVERET: TIBET</hint>
+		 <hint>PLACE TO WATCH A FIGHTARTIAL ANSWER: DISMAL SCIENTIST ACCORDING TO THOMAS CARLYLE ECONOMIST: ARENA</hint>
+		<solution href="03-back_and-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Mix And</title>
+		<file href="04-mix_and.pdf"/>
+		<hint>For each of the left-column clues, you need to find two words from the lower word bank to put together to have its meaning.</hint>
+		<hint>The Latin for for &amp; is 'et</hint>
+		<hint>You'll notice that putting together the words leaves you with two extra letters compared to the answer blanks.</hint>
+		<hint>nagram the word pairs, minus an E and a T to get something that means the right-hand column</hint>
+		<hint>Word Pairs:
+
+- Car harness: seat belt
+- Brain-Eye route: optic nerve
+- Smoother: more flat
+- True Motive: real intent
+- Pit Crew: race team
+- Election: voters decide
+- Re-measure: test again
+- Typhoon: great wind
+- Drizzle: gentle rain</hint>
+		<hint>Anagrams:
+
+- STABLE : S
+- PROVINCE : O
+- FORMAL : F
+- INTERNAL : T
+- CAMERA : M
+- DISCOVERED : E
+- AGAINST : T
+- DRAWING : A
+- LEARNING : L</hint>
+		<hint>Repeat the same mechanism as above for the final answer</hint>
+		<solution href="04-mix_and-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>And Shut ( meta puzzle )</title>
+		<file href="05-meta.pdf"/>
+		<hint>Use the clues (in verticle columns) to match up the answers with the titles of their puzzle</hint>
+		<hint>The answers alone don't fit. Maybe the theme can help you find words that do?</hint>
+		<hint>The words you want are:
+
+- Liberty &amp; Justice
+- Command &amp; Control
+- Terms &amp; Conditions
+- Flotsam &amp; Jetsam</hint>
+		<hint>You need to change the order of the letters within their column only when you drop them down.</hint>
+		<solution href="05-meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Form And (bonus puzzle)</title>
+		<file href="06-bonus.pdf"/>
+		<hint>Start by counting the number of &amp;s of each font.</hint>
+		<hint>Count into (index) its matching font name by the number of &amp;s counted.</hint>
+		<hint>FONT MATCHES:
+
+- 8 - Helvetica
+- 8 - Boogaloo
+- 3 - Times New Roman
+- 7 - Advent Pro
+- 7 - Alex Brush
+- 1 - Times New Roman
+- 2 - Belgrando
+- 6 - Belgrando
+- 4 - Helvetica
+- 3 - Alex Brush
+- 3 - Carter One
+- 1 - Advent Pro
+- 4 - Boogaloo
+- 9 - Carter One</hint>
+		<hint>COMPUTE AVERAGE</hint>
+		<hint>Note each font appears exactly twice.</hint>
+		<hint>Compute the average # of &amp;s for each font</hint>
+		<hint>Index the average into the font name again</hint>
+		<hint>GILBERT</hint>
+		<hint>Apply the &amp; to get its pair</hint>
+		<solution href="06-bonus-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>
