@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2018</year>
+	<month>01</month>
+	<title>Stranger Things</title>
+	<notes>
+Thanks to [St. Louis Puzzled Pint](https://twitter.com/puzzledpintstl)'s GC members [Bryan Clair](http://math.slu.edu/~clair/) and Michael Goldwasser, along with St. Louis player [Patrick Blindauer](http://www.patrickspuzzles.com/) and [Huntsville](https://twitter.com/PuzzPintHSV) GC [Steven Clontz](http://clontz.org/puzzles/), for writing this month's set.
+
+PM: Jen Dumont
+	</notes>
+	<location>
+		<puzzle>
+			<title>Retro</title>
+			<file href="00-location.pdf"/>
+			<hint>This puzzle is a rebus.</hint>
+			<hint>The pictures are not one letter each - the whole puzzle is the rebus.</hint>
+			<hint>There are eight T's in this puzzle. EIGHTIES.</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>eighties</answerword>
+	</location>
+
+	<puzzle>
+		<title>Christmas Lights</title>
+		<file href="01-christmas_lights.pdf"/>
+		<hint>Lights can't cross paths</hint>
+		<hint>Work from the bottom left</hint>
+		<hint>Once all bulbs are grouped, use the numbers</hint>
+		<hint>Sum the bulbs in each group and convert to a letter</hint>
+		<solution href="01-christmas_lights-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Ten</title>
+		<file href="02-ten.pdf"/>
+		<hint>Each circle will contain a word</hint>
+		<hint>Connections have a direction</hint>
+		<hint>Each connection makes a compound word that fits the clue. For example, country liquor is MOON SHINE</hint>
+		<hint>You're looking for the connection across the two halves of the brain</hint>
+		<solution href="02-ten-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Ready Player One</title>
+		<notes>[Hint Sheet](03-ready_player_one-hints.pdf)</notes>
+		<file href="03-ready_player_one.pdf"/>
+		<hint>Fill in the names of the video games in the criss-cross. Next hint has names of the games.</hint>
+		<hint>FROGGER, JOUST, DEFENDER, PACMAN, QBERT, DIGDUG, GALAGA, PUNCHOUT, TETRIS, DRAGONSLAIR, CENTIPEDE, ASTEROIDS, DONKEYKONG, STARWARS, POLEPOSITION, RAMPAGE</hint>
+		<hint>Each string of arrows gives directions to move in the grid.</hint>
+		<solution href="03-ready_player_one-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Upside Down</title>
+		<file href="04-upside_down.pdf"/>
+		<hint>The two pages could be two sides of the same sheet (i.e. double sided)</hint>
+		<hint>Overlaying the two sheets you find good/evil pairs. You know one of each pair, figure out the other</hint>
+		<hint>Follow the rope through the first portal to GOOFUS. The rope continues to a four letter answer. Fill in that answer with the same orientation as GOOFUS. Transport the rope through to the other side, where it will now continue downward.</hint>
+		<hint>Pairs (evil/good) are: goofus/gallant, hulk/bruce banner, sasha fierce/beyonce, mr hyde/dr. jekyll, mr. krupp/captain underpants, kyser soze/verbal kint, heisenberg/walter white, esau/jacob, bizarro/superman, darth vader/anakin skywalker</hint>
+		<hint>Follow the rope, reading the circled letters in order</hint>
+		<solution href="04-upside_down-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Demogorgon (meta puzzle)</title>
+		<file href="05-meta.pdf"/>
+		<hint>You need the answers from the four puzzles. They each clue a movie. Who are the stars of those movies?</hint>
+		<hint>ET: HENRY THOMAS, FIRE STARTER: DREW BARRYMORE, TRON: JEFF BRIDGES, POLTERGEIST: CRAIG T NELSON</hint>
+		<hint>Fold your fortune teller, there are two ways to hold it open. Each way shows half of the lettered faces. Feed the movie starts in by alternating the way you have the fortune teller open. When you finish a movie star, lift the flap to get a picture.</hint>
+		<hint>Pictures in order are compass, ET, Florida, 9</hint>
+		<solution href="05-meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Product Placement (bonus puzzle)</title>
+		<file href="06-bonus.pdf"/>
+		<hint>The letters of one product name appear in order in each of the movie titles</hint>
+		<solution href="06-bonus-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>

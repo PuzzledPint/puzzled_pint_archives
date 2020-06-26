@@ -42,16 +42,11 @@ For example: track 1 indexes to the 2nd letter (E) of "Jerry Lee Lewis" and beca
 
 	<puzzle>
 		<title>Jon Snow's Family Tree</title>
+		<notes>An [extra hint handout](01-jon_snow-hints.pdf) is available and is especially helpful to non-American solvers.</notes>
 		<file href="01-jon_snow.pdf"/>
 		<hint>Each pair of answers share a letter in the same position</hint>
 		<hint>Read the shared letters from each column left to right</hint>
 		<solution href="01-jon_snow-solution.pdf"/>
-	</puzzle>
-
-	<puzzle>
-		<title>Extra Hint Handout for Jon Snow's Family Tree</title>
-		<notes>This worksheet is especially helpful for non-American solvers.</notes>
-		<solution href="01-jon_snow-hints.pdf"/>
 	</puzzle>
 
 	<puzzle>
