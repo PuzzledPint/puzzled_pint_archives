@@ -1,0 +1,108 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2018</year>
+	<month>07</month>
+	<title>Kangaroo</title>
+	<notes>
+	</notes>
+	<location>
+		<puzzle>
+			<title>Four Books Walk Into a Bar...</title>
+			<file href="00-location.pdf"/>
+			<hint>Fill in the missing word (covered up by gray bar) for each title</hint>
+			<hint>Each missing word letter is represented by either dots or numbers</hint>
+			<hint>The missing words are: OCTOPUS, DRAGON, JACKAL, HERRING</hint>
+			<hint>Shift letters by the numbers (zero means no change; dot means don't use that letter)</hint>
+			<hint>The solution is BIRD BRAIN.</hint>
+			<solution href="00-location-solution.png" />
+		</puzzle>
+		<answerword>birdbrain</answerword>
+	</location>
+
+	<puzzle>
+		<title>One Way... or Not</title>
+		<file href="01-maze.pdf"/>
+		<hint>How many items are in each square?</hint>
+		<hint>5 items per square is? The shapes of the items seem like something</hint>
+		<hint>The code is binary. Shapes are ones and zeroes</hint>
+		<solution href="01-maze-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Surgical Wordplay</title>
+		<file href="02-surgical.pdf"/>
+		<hint>Each line creates 2 words with only one letter difference</hint>
+		<hint>First answer is SNACK/SHACK</hint>
+		<hint>Use the letters that are different for final answer</hint>
+		<hint>Left side answers: SNACK, STEPS, PEACH, CLUMP, SHILL, GRAIL, BLEND, SCORE, SHOVE, TICKS, TWINS, BOATS, BLINK</hint>
+		<solution href="02-surgical-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Experimental Equipment</title>
+		<file href="03-equipment.pdf"/>
+		<hint>If folded correctly, right side of bird should read "WING DISKS"</hint>
+		<hint>Open bird and look at circled words on wings: "SHIFT OTHERS TWO"</hint>
+		<hint>Shift remaining wing letters ("UFC LNG EQ DJW") by 2 to get answer</hint>
+		<solution href="03-equipment-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>What Am I Looking At?</title>
+		<file href="04-eye.pdf"/>
+		<hint>Match each image on the top row with another image on the bottom row to make a compound word</hint>
+		<hint>Words are: FOOTBALL, BRAINSTORM, CATFISH, SHOEHORN, TREEHOUSE, HORSESHOE, CUPCAKE, KEYSTONE, BOOKWORM, TABLESPOON</hint>
+		<hint>Look at the lines created for a final extraction</hint>
+		<hint>Extract letters only where the lines cross ("X")</hint>
+		<solution href="04-eye-solution.png"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Covert-y Words-y</title>
+		<notes>(inspired by [Code Names](https://czechgames.com/en/codenames/) and [@flaminhaystack - SPOILER LINK!](https://twitter.com/flaminhaystack/))</notes>
+		<file href="05-science.pdf"/>
+		<hint>You are looking for groups of 3 boxes</hint>
+		<hint>Within each group there is one card that is the thing, and the two others are rhyming descriptions of the thing</hint>
+		<hint>Draw lines from the thing out to the rhyming words</hint>
+		<hint>Things and rhymes are: NIGHTMARE (SCREAMY DREAMY), POSTAGE STAMP (LICKIE STICKIE), PREGNANCY TEST (MAYBE BABY), HIPPO (FLOATIE BLOATIE), DEFIBRILLATOR (HEARTY STARTY), FORK (STABBY GRABBY)</hint>
+		<hint>What do the lines look like?</hint>
+		<hint>Extraction is semaphore</hint>
+		<solution href="05-science-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Maybe Everyone Traveled Away</title>
+		<file href="06-meta.pdf"/>
+		<hint>Match pictures to previous answers using similar phrases</hint>
+		<hint>Matches:
+
+- oil drum (snake oil) SNAKE EYES
+- present (gift horse) HORSE FEATHERS
+- bacon (pork product) WHEN PIGS FLY
+- banana (primate food) MONKEY BUSINESS
+- kangaroo (character's superpower) POCKET</hint>
+		<hint>The numbers of pictures is a clue</hint>
+		<hint>The title "IDIOMATIC NETWORK DIAGRAM EXPLOIT: XYLOPHONE" is telling you something</hint>
+		<hint>First letters of the title spells INDEX</hint>
+		<hint>Index into each answer by the number of pictures per box</hint>
+		<solution href="06-meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Report Spam?</title>
+		<file href="07-bonus.pdf"/>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<hint>Hint</hint>
+		<solution href="07-bonus-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>

@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2018</year>
+	<month>08</month>
+	<title>Pokémon</title>
+	<notes>
+Thank you to this month's authors, Steven (Mobile, AL) and Zack (Atlanta, GA)
+
+PM: Jen Dumont
+	</notes>
+	<location>
+		<puzzle>
+			<title>Like No One Ever Was </title>
+			<file href="00-location.pdf"/>
+			<hint>Solution displayed to the player</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>verybest</answerword>
+	</location>
+
+	<puzzle>
+		<title>Tutorial Crossing</title>
+		<file href="01-tutorial_crossing.pdf"/>
+		<solution href="01-tutorial_crossing-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Clearing the Way</title>
+		<file href="02-clearing_the_way.pdf"/>
+		<solution href="02-clearing_the_way-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The Name Rater</title>
+		<file href="03-name_rater.pdf"/>
+		<solution href="03-name_rater-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Hitting the Gym</title>
+		<file href="04-hitting_the_gym.pdf"/>
+		<solution href="04-hitting_the_gym-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Route to Victory (meta puzzle)</title>
+		<file href="05-meta.pdf"/>
+		<solution href="05-meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Missing House Keys (bonus puzzle 1)</title>
+		<file href="06-bonus1.pdf"/>
+		<solution href="06-bonus1-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Smell Ya Later! (bonus puzzle 2)</title>
+		<file href="07-bonus2.pdf"/>
+		<solution href="07-bonus2-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>
