@@ -1,0 +1,177 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2018</year>
+	<month>04</month>
+	<title>Pintcoin</title>
+	<notes>
+Big thanks to long-time Missoula GC [Chris Downie](https://twitter.com/cdownie), creator of all of this month's Pintcoin puzzles. Thanks to DC/Arlington GC Ted for creating the bonus puzzle.
+
+PM: Jen Dumont
+	</notes>
+	<location>
+		<puzzle>
+			<title>A New Cryptocurrency</title>
+			<file href="00-location.pdf"/>
+			<hint>"Some blend of technobabble and money" is a key phrase in the flavor text.</hint>
+			<hint>Each "That sounds..." clue combines a tech word and a word for money. Or at
+least, a word who has a homophone with one of those meanings.</hint>
+			<hint>The "technobabble" words are: `binary`, `bit`, `byte`, `crypt`, `digit`, `kilo`, `net`,
+and `tera`</hint>
+			<hint>The "money" words are: `bank`, `bills`, `bread`, `bucks`,`cash`, `change`,
+`dough`, and `paper`</hint>
+			<hint>The solution is PINTCOIN.</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>pintcoin</answerword>
+	</location>
+
+	<puzzle>
+		<title>Genesis Block</title>
+		<file href="01-genesis_block.pdf"/>
+		<hint>"Cryptic" is a key word in the flavor text.</hint>
+		<hint>Yup, it's a cryptic crossword. Don't know what that is? Check out [Wikipedia](https://en.wikipedia.org/wiki/Cryptic_crossword) or use this handy [solving reference](https://s.wsj.net/blogs/html/wsjcrypticguide.pdf). If you're stuck, the next few hints will help in different ways:
+
+- The next hint is a general clue about the answers
+- The hint after that will show all the cryptic clues split by definition.
+- The hint after that will show the cryptic clue type, without the split.</hint>
+		<hint>All of the cryptic answers fit a theme.</hint>
+		<hint>Here's how you can split those cryptic clues to get the correct definition:
+
+1. Eugene's is holding / a bible book
+2. The start / The start point on a graph
+3. A sharp, acidic taste after the first serving / makes me jump
+4. A graduation ceremony / remarks about males and cerium
+5. DiCaprio movie / not in epic mix-up
+6. Initially describing a whole new / daybreak
+7. Found in whiteout setting / from the beginning</hint>
+		<hint>Here's the type of each cryptic clue:
+
+1. Hidden
+2. Double definition &amp; lit.
+3. Charade
+4. Combination/Charade
+5. Anagram
+6. Hidden
+7. Hidden</hint>
+		<hint>Here's the answer to each cryptic, with an explanation
+
+1. `genesis` -- hidden in "Eugene's is"
+2. `origin` -- "the start" as well as the start point on a graph
+3. `start` -- "first serving" becomes "s". A sharp, acidic taste is "tart".
+4. `commencement` -- "males" becomes "men". "cerium" becomes "ce". "remarks" becomes "comment". Put "men" and "ce" in "comment" you get `com + men + ce + ment`
+5. `inception` -- "not in epic" anagrams (mixes up) to this answer.
+6. `dawn` -- the initials of "describing a whole new"
+7. `outset` -- hidden in "whiteout setting"</hint>
+		<hint>Have you used those numbers in the crossword yet?</hint>
+		<solution href="01-genesis_block-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Secret Keys</title>
+		<file href="02-secret_keys.pdf"/>
+		<hint>Key words in the flavor text are "based on 16" and "drop"</hint>
+		<hint>It doesn't look like each column is limited only to numbers...</hint>
+		<hint>This is a drop-quote puzzle, but with hex characters rather than letters. Each column of characters will fill in the columns below. You can then</hint>
+		<hint>Good places to start:
+
+- The first 2 columns (one's already filled in for you!)
+- The 7th and 8th columns
+- The 10th and 11th columns</hint>
+		<hint>On your code sheet, the hex letters all start with either a 1 or a 0. All dropped pairs will start with a 1 or a 0.</hint>
+		<hint>The top row is `14 08 05 13 05`</hint>
+		<hint>The filled in message, in hex, is: `14 08 05 13 05 03 12 05 14 0B 05 19 09 13 03 04 16 05 12 14`</hint>
+		<hint>Decoded, it reads "The secret key is covert".</hint>
+		<solution href="02-secret_keys-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Pintcoin Mining</title>
+		<file href="03-pintcoin_mining.pdf"/>
+		<hint>The "listen" word is the first key word you should pay attention to in the flavor text.</hint>
+		<hint>It looks like the flavor text as a lot more stops and pauses than any of the other puzzles. That's odd.</hint>
+		<hint>In fact, some of the flavor text looks darker than the rest.</hint>
+		<hint>The dashes and periods seem more prominent than in other puzzles. I wonder if that's an encoded message...</hint>
+		<hint>Decoding the flavortext with morse code gets you the message `DECODE ROWS`</hint>
+		<hint>When looking at the transactions, the key phrases from the flavor text to keep in mind are "mine", "partially mine", and "mostly mine".</hint>
+		<hint>Each transaction defines a word that fits a mine pattern. Either: * It will have 'mine' somewhere in the word * It will have 'mine' with a letter missing. For instance, "limited" is partially mined, since it has "mine" in it without the "n". (That's not one of these answers, btw.)</hint>
+		<hint>Here's each word associated with the definition:
+
+- The management - `ADMINISTRATION`
+- A person who has regard for someone - `ADMIRER`
+- A mutual settlement - `COMPROMISE`
+- A person who builds complex products - `ENGINEER`
+- To inspect closely - `EXAMINE`
+- The 3rd zodiac sign - `GEMINI`
+- Unable to catch a disease - `IMMUNE`
+- Describing a straight path - `LINEAR`
+- A periodical - `MAGAZINE`
+- A warship - `MINESWEEPER`
+- Extremely small - `MINUTE` (`MINUSCULE` would also work)
+- Consisting of different elements - `MIXED`
+- Officially coined currency - `MONEY`
+- A candidate for office - `NOMINEE`
+- Continuing without change - `PERMANENT`</hint>
+		<hint>For each transaction, which "mine" part is present? Where does it appear in the word?</hint>
+		<hint>Here's how to arrange the transactions in the grid, by the word they resolved to:
+
+- `MINE`: Minesweeper, Nominee, Examine
+- `_INE`: Linear, Engineer, Magazine
+- `M_NE`: Money, Permanent, Immune
+- `MI_E`: Mixed, Admirer, Compromise
+- `MIN_`: Minute, Administration, Gemini</hint>
+		<hint>Did you notice that the definitions also have bolded pauses? Where have we seen that before?</hint>
+		<hint>With the definitions in the correct place on the grid, decode each row using the same morse technique we used in the flavortext.</hint>
+		<solution href="03-pintcoin_mining-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Initial Coin Offering</title>
+		<notes>[Optional data](04-initial_coin_offering-hints.pdf) is available, if desired.</notes>
+		<file href="04-initial_coin_offering.pdf"/>
+		<hint>"exponential" is the key word in the flavortext.</hint>
+		<hint>Bale &amp; Carell were in The Big Short</hint>
+		<hint>Aykroyd &amp; Murphy were in Trading Places</hint>
+		<hint>Bale &amp; Cumberbatch were superheros.</hint>
+		<hint>Simmons &amp; Aykroyd were born in the 1950s.</hint>
+		<hint>Bale never hosted SNL.</hint>
+		<hint>Simmons bought the most Pintcoin.</hint>
+		<hint>Here's what each celebrity bought:
+
+- Bale: 10,000,000
+- Aykroyd: 1,000
+- Carell: 10,000
+- Murphy: 100,000
+- Moss: 1,000,000,000
+- Johansson: 100,000,000</hint>
+		<hint>What's another way to write those numbers, using the key word in the flavor text?</hint>
+		<hint>Try indexing into each actor's name.</hint>
+		<solution href="04-initial_coin_offering-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Altcoins (meta puzzle)</title>
+		<file href="05-meta.pdf"/>
+		<hint>The key phrases in the flavor text are "only some will matter" and "buy the right ones at the right time".</hint>
+		<hint>Which are the right ones? Maybe the ones you're familiar with...</hint>
+		<hint>Look at the Altcoin Abbreviations. Do some altcoins look familiar?</hint>
+		<hint>The only altcoins you care about are: Block Dollars (BKD), Covert Bucks (CBX), DigiCreation (DCN) and InvestBits (IVB)</hint>
+		<hint>The only days you care about are:
+
+- In column one: Days 2, 4, 5, 7, and 9
+- In column two: Days 12, 13, 16 and 18
+- In column three: Days 21, 22, 24, 26, 27 and 29</hint>
+		<hint>In chronological order, the buy price for an altcoin we care about is: `19 16 5 3 21 12 1 20 5 23 9 12 4 12 25`</hint>
+		<hint>Which encoding on your sheet seems to work well for numbers in this range?</hint>
+		<solution href="05-meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Phrase Frays (bonus puzzle)</title>
+		<file href="06-bonus.pdf"/>
+		<solution href="06-bonus-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>
