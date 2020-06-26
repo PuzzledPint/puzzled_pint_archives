@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2018</year>
+	<month>06</month>
+	<title>Road Trip</title>
+	<notes>
+Big thanks to Sam Webster, of Manchester UK, for authoring this month's set!
+
+PM: Jen Dumont
+	</notes>
+	<location>
+		<puzzle>
+			<title>Now Boarding</title>
+			<file href="00-location.pdf"/>
+			<hint>First fill in the completed columns (5 or 0)</hint>
+			<hint>If a row or column has the same number of squares as blocks, then each block must be one square in length</hint>
+			<hint>First class cabin spells "US"</hint>
+			<hint>The solution is US ROAD TRIP.</hint>
+			<solution href="00-location-solution.jpg" />
+		</puzzle>
+		<answerword>usroadtrip</answerword>
+	</location>
+
+	<puzzle>
+		<title>The Route / The Map</title>
+		<file href="01-route.pdf"/>
+		<hint>There are some key words in the paragraphs</hint>
+		<hint>Interesting words may be "square" and "rational"</hint>
+		<hint>Find all the roads that are square numbers - 25, 144, etc.</hint>
+		<hint>Tracing these roads will spell something</hint>
+		<hint>Roads spell L6</hint>
+		<hint>Look in cell L6 on the map</hint>
+		<hint>Can you find a word that might be something you want to take on a trip?</hint>
+		<hint>What coding has a "relief" and can be read with eyes closed?</hint>
+		<hint>use Braille on the map.</hint>
+		<hint>Notice the grid that is conviently dividied up for Braille and those mountains are curiously placed.</hint>
+		<hint>FIRST QUARTER</hint>
+		<hint>....how much of a cartographer I am.</hint>
+		<hint>Cartogapaher is 12 letters.</hint>
+		<solution href="01-route-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Cocktails</title>
+		<file href="02-cocktails.pdf"/>
+		<hint>Those drinks look pretty important to figure out for each star</hint>
+		<hint>Using the clues for each star and their drink, can figure out who it is?</hint>
+		<hint>The drinks are an anagram of their names, so The first one is "Christina Aguilera"</hint>
+		<hint>Here are all the stars:
+
+- Oliver Reynolds: Christina Aguilera &amp; Mohommand Ali
+- Usain Thomson: Criss Angel &amp; Chris O'Donnell
+- Ian Atikinson: Neil Diamond &amp; Kiefer Sutherland
+- Morris Outhwaite: Oliver Hardy &amp; Louis Armstrong
+- Terry Nolan: Meryl Streep &amp; Gillian Anderson
+- Neil Johnson: Charlize Theron &amp; Duke Ellington</hint>
+		<hint>The sentences with "pointed" and "initial" are your next instructions</hint>
+		<hint>Use semaphore on the map with the intials of each person and the stars as state abbrivations</hint>
+		<solution href="02-cocktails-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The Casino</title>
+		<file href="04-casino.pdf"/>
+		<hint>Solve the logic puzzle to get what cards each person had</hint>
+		<hint>The logic puzzle solves to:
+
+- 1st - Usain - 2 &amp; 7
+- 2nd - Neil - King &amp; Jack 
+- 3rd - Terry - Jack &amp; Queen 
+- 4th - Ian - 5 &amp; 6
+- 5th Oliver - Queen &amp; King</hint>
+		<hint>There is a lot of "folding" going on.... perhaps you should fold too?</hint>
+		<hint>Fold the map for each pair using the grid labels.</hint>
+		<hint>the rivers look interesting when you fold</hint>
+		<solution href="04-casino-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The Great American Songbook (Meta Puzzle)</title>
+		<file href="05-meta.pdf"/>
+		<hint>Each playlist on each previous puzzle contains songs that have city names.</hint>
+		<hint>Trace each playlist city on the map to create a letter per playlist</hint>
+		<hint>Playlist spells GAME</hint>
+		<hint>notice that you have 5 blanks in the grid... fill those in with the 5 previous answers</hint>
+		<hint>This is a drop quote puzzle. Each letter in each column need to be place below to spell out a quote.</hint>
+		<hint>The first word is "NOTHING"</hint>
+		<hint>Second word is "BEHIND"</hint>
+		<hint>third and fourth words: "ME EVERYTHING"</hint>
+		<solution href="05-meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Divided by a Common Language (Bonus Puzzle)</title>
+		<file href="06-bonus.pdf"/>
+		<hint>Each bolded word has an American English counterpart</hint>
+		<hint>for example courgette = zucchini</hint>
+		<solution href="06-bonus-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>
