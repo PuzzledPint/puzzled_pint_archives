@@ -1,9 +1,10 @@
 <?xml version="1.0" ?>
 <!DOCTYPE PPMonth SYSTEM "../../month.dtd">
 <PPMonth>
-	<year>2018</year>
+	<year>2019</year>
 	<month>01</month>
 	<title>Title</title>
+	<icon href="icon.png"/>
 	<notes>
 	</notes>
 	<location>

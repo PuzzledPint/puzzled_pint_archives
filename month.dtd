@@ -1,9 +1,12 @@
-<!ELEMENT PPMonth (year,month,title,notes?,location,puzzle+,allPuzzles*,answerSheet*,answerSheetSolution?)>
+<!ELEMENT PPMonth (year,month,title,icon,notes?,location,puzzle+,allPuzzles*,answerSheet*,answerSheetSolution?)>
 
 <!ELEMENT year (#PCDATA)>      <!-- 4-digit year, e.g. 2015 -->
 <!ELEMENT month (#PCDATA)>     <!-- 2-digit month, e.g. 02 -->
 
 <!ELEMENT title (#PCDATA)>     <!-- Theme/Title for the month, e.g. The Big Lebowski -->
+
+<!ELEMENT icon EMPTY>
+<!ATTLIST icon href CDATA #IMPLIED>
 
 <!ELEMENT notes (#PCDATA)>     <!-- Markdown with overall theme intro text and authorship information -->
 

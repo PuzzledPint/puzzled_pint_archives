@@ -3,9 +3,9 @@
 <PPMonth>
 	<year>2012</year>
 	<month>08</month>
-	<title>This month, we used selected puzzles from the [WarTron Game](http://wartron.net/).  Since the Game will be re-run in June of 2013, we are going to wait until everyone has had an opportunity to play before updating this site with puzzles.</title>
-	<notes>
-	</notes>
+	<title>WarTron</title>
+	<icon href="icon.png"/>
+	<notes>This month, we used selected puzzles from the [WarTron Game](http://wartron.net/).  Since the Game will be re-run in June of 2013, we are going to wait until everyone has had an opportunity to play before updating this site with puzzles.</notes>
 	<location>
 		<puzzle>
 			<title>Placeholder</title>
