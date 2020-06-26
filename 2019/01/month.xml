@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2019</year>
+	<month>01</month>
+	<title>Friends</title>
+	<icon href="icon.png"/>
+	<notes>
+Thank you to this month's author: Robert Becker
+
+PM: Jen Dumont</notes>
+	<location>
+		<puzzle>
+			<title>Insomnia Cafe</title>
+			<file href="00-location.pdf"/>
+			<hint>The message starts with "OT".</hint>
+			<hint>Message says OTHERS MINUS 1.</hint>
+			<hint>Take the unused letters and shift one less (B becomes A).</hint>
+			<hint>The solution is FRIENDS 4 LIFE.</hint>
+			<solution href="00-location-solution.pdf"/>
+		</puzzle>
+		<answerword>friends4life</answerword>
+	</location>
+
+	<puzzle>
+		<title>Chandler</title>
+		<file href="01-chandler.pdf"/>
+		<solution href="01-chandler-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Ross &amp; Rachel</title>
+		<file href="02-ross_and_rachel.pdf"/>
+		<solution href="02-ross_and_rachel-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Phoebe</title>
+		<file href="03-phoebe.pdf"/>
+		<solution href="03-phoebe-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Joey</title>
+		<file href="04-joey.pdf"/>
+		<solution href="04-joey-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Monica (meta puzzle)</title>
+		<file href="05-meta.pdf"/>
+		<solution href="05-meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Connections (bonus puzzle)</title>
+		<file href="06-bonus.pdf"/>
+		<solution href="06-bonus-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>
