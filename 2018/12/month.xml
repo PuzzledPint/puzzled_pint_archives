@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2018</year>
+	<month>12</month>
+	<title>The Nightmare Before Christmas</title>
+	<notes>
+Thank you to this month's author: Leanna Lewis (Sydney, Australia)
+
+Bonus puzzle by: Neal Tibrewala (Austin, TX)
+
+Editor: Jen Dumont (Portland, OR)
+	</notes>
+	<location>
+		<puzzle>
+			<title>Holiday Doors</title>
+			<file href="00-location.pdf"/>
+			<hint>The riddle allows for you to eliminate the doors until 1 remains.</hint>
+			<hint>The numbers on the doors are used as an index into the name of the town on the door.</hint>
+			<hint>1= H, 5 = O, 6 = W, 3 = L</hint>
+			<hint>The solution is HOWL</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>howl</answerword>
+	</location>
+
+	<puzzle>
+		<title>Making Christmas</title>
+		<file href="01-making_christmas.pdf"/>
+		<hint>This is a battleships puzzle, but with toys instead of ships.</hint>
+		<hint>The train takes 4 spaces, dolls 3, boats 2 and balls 1.</hint>
+		<hint>Using the numbers on each axis, place the toys in the correct spaces with none in adjacent spaces to each other (none of them touching!). The toys are given in the correct orientation as a clue.</hint>
+		<hint>Note the flavour "Anchors Away!", all of the cells containing the anchor spells out the answer if you read it in the usual order.</hint>
+           		<solution href="01-making_christmas-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Mayor's Christmas Countdown</title>
+		<file href="02-mayors_countdown.pdf"/>
+		<hint>This is a binary puzzle, however is not an equal sized grid on both sides like most others.</hint>
+		<hint>Use the provided numbers as a start to fill in the rest of the gird, ensuring that there are no more than two 0’s and two 1’s horizontally or vertically next to each other.</hint>
+		<hint>Then use the shaded squares to decifer the binery message reading each line separately downwards, reading each column from left to right.</hint>
+		<hint>ONE MINUS ONE</hint>
+		<solution href="02-mayors_countdown-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Oogie Boogie's Gamble</title>
+		<file href="03-oogie_gamble.pdf"/>
+		<hint>Complete the crossword clues, the beginning and end of each answer is listed at the bottom as a hint.</hint>
+		<hint>The part missing in each word clues to help find which dice go with which clue.</hint>
+		<hint>Look and see in the flavor text is hinting braille.</hint>
+		<hint>The substring in each word, corresponds to the number of dots on each dice which are put together to spell out a word in braille.</hint>
+		<solution href="03-oogie_gamble-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Sally's Patchwork</title>
+		<file href="04-sallys_patchwork.pdf"/>
+		<hint>This is a Magic Square puzzle, hinted by magic and square in the flavour text and 87 being what every row adds up to.</hint>
+		<hint>Cut out each of the patches, and use the starter segments to place the patches into the correct place so that each row (horizontally, vertically and diagonally) adds up to 87.</hint>
+		<hint>Decode the Pigpen face, partial answer: NOT ALIVE</hint>
+		<solution href="04-sallys_patchwork-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Spiral Hill (meta)</title>
+		<file href="05-meta.pdf"/>
+		<hint>Place all of the previous answers in the incomplete words, to make completed thematic answers.</hint>
+		<hint>Fill in the grid using the list of words.</hint>
+		<solution href="05-meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Analogies (bonus / meta-meta)</title>
+		<file href="06-bonus_meta_meta.pdf"/>
+		<hint>Start by linking as many images as you can in column 1 with those in column 2. Likewise with those in 3 and 4.</hint>
+		<hint>Now you can link the pairs together across the "As" in one of two ways, either by keeping the same Analogous relationship, or by matching elements belonging to the set themes.</hint>
+		<hint>'AS' PAIRING HINTS:
+
+- Baseball is a game, mostly played where?
+- For what non-cleaning task can a broom be used, and by whom? What do you decorate at Christmas?
+- Have you looked up the meanings of those idioms?
+- Shift-1 vs Shift-7?
+- That Pikachu and Ash wearing a Pokemon hat!
+- The internet is necessary for which month's theme?
+- The ring is a Stargate
+- What's another name for a maze?
+- Where can you find animals?
+- Which role-playing game was featured in the show?
+- Who painted the Mona Lisa?</hint>
+		<hint>LIST OF ANALOGIES USED:
+
+- Action : Thing Acted Upon
+- Definition : Animal Idiom
+- Malicious Intent : Mechanism to Achieve It Member : Writing-based Set
+- Peer : Peer in the same category
+- PigPen : English
+- Place : Action
+- Reverse thing : Thing
+- Specific Instance : Category
+- Temporal Part : Whole
+- Tool : Activity
+- Word : Two-Word Anagram</hint>
+		<hint>Note the + and Equal signs. This will help you to fill in the __ . before each meta answer</hint>
+		<hint>Sum the two numbers from the pair on the left of the equals, then subtract the one number you have from its corresponding pair to the right of the equals, this give the missing number.</hint>
+		<hint>Index each meta answer by the number you found to get the final answer.</hint>
+		<solution href="06-bonus_meta_meta-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>
