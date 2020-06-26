@@ -1,0 +1,63 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2018</year>
+	<month>09</month>
+	<title>Labyrinth</title>
+	<notes>
+Thank you to this month's author, [Sara Goodchild](https://twitter.com/sarathegood/) (Toronto, Ontario, Canada)
+
+Sara would like to thank the [Synod](http://www.synod.us/) for invaluable help with brainstorming, writing, and early playtesting. Special thanks to [Matt Smith](http://outercitylimits.com/) for all of this set's illustrations!
+	</notes>
+	<location>
+		<puzzle>
+			<title>Title</title>
+			<file href="00-location.pdf"/>
+			<hint>You'll want to fill in each numbered area with a basic color from the key below.</hint>
+			<hint>All the colors are either black or white (which you leave unfilled)</hint>
+			<hint>For the remaining numbers, take the first letter of each number's color</hint>
+			<hint>The solutio is THE COSTUME DEPT.</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>thecostumedept</answerword>
+	</location>
+
+	<puzzle>
+		<title>Fireys</title>
+		<file href="01-fireys.pdf"/>
+		<solution href="01-fireys-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Bog of Eternal Stench</title>
+		<file href="02-bog_of_eternal_stench.pdf"/>
+		<solution href="02-bog_of_eternal_stench-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Lipstick Marks</title>
+		<file href="03-lipstick_marks.pdf"/>
+		<solution href="03-lipstick_marks-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Helping Hands</title>
+		<file href="04-helping_hands.pdf"/>
+		<solution href="04-helping_hands-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Goblin City (meta puzzle)</title>
+		<file href="05-meta.pdf"/>
+		<solution href="05-meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Guards (bonus puzzle)</title>
+		<file href="06-bonus.pdf"/>
+		<solution href="06-bonus-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>
