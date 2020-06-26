@@ -24,36 +24,42 @@ Sara would like to thank the [Synod](http://www.synod.us/) for invaluable help w
 
 	<puzzle>
 		<title>Fireys</title>
+		<notes>This puzzle does not have interactive progressive hints available. See the solution PDF for hints.</notes>
 		<file href="01-fireys.pdf"/>
 		<solution href="01-fireys-solution.pdf"/>
 	</puzzle>
 
 	<puzzle>
 		<title>Bog of Eternal Stench</title>
+		<notes>This puzzle does not have interactive progressive hints available. See the solution PDF for hints.</notes>
 		<file href="02-bog_of_eternal_stench.pdf"/>
 		<solution href="02-bog_of_eternal_stench-solution.pdf"/>
 	</puzzle>
 
 	<puzzle>
 		<title>Lipstick Marks</title>
+		<notes>This puzzle does not have interactive progressive hints available. See the solution PDF for hints.</notes>
 		<file href="03-lipstick_marks.pdf"/>
 		<solution href="03-lipstick_marks-solution.pdf"/>
 	</puzzle>
 
 	<puzzle>
 		<title>Helping Hands</title>
+		<notes>This puzzle does not have interactive progressive hints available. See the solution PDF for hints.</notes>
 		<file href="04-helping_hands.pdf"/>
 		<solution href="04-helping_hands-solution.pdf"/>
 	</puzzle>
 
 	<puzzle>
 		<title>Goblin City (meta puzzle)</title>
+		<notes>This puzzle does not have interactive progressive hints available. See the solution PDF for hints.</notes>
 		<file href="05-meta.pdf"/>
 		<solution href="05-meta-solution.pdf"/>
 	</puzzle>
 
 	<puzzle>
 		<title>Guards (bonus puzzle)</title>
+		<notes>This puzzle does not have interactive progressive hints available. See the solution PDF for hints.</notes>
 		<file href="06-bonus.pdf"/>
 		<solution href="06-bonus-solution.pdf"/>
 	</puzzle>
