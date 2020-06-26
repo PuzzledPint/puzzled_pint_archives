@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2018</year>
+	<month>02</month>
+	<title>Stargate</title>
+	<notes>
+Thanks to Twin Cities player August H. for writing nearly all of this month's puzzles. And thanks to St. Louis player Robert B. for writing this month's bonus.
+
+Editor: Jen Dumont
+	</notes>
+	<location>
+		<puzzle>
+			<title>The Message</title>
+			<file href="00-location.pdf"/>
+			<hint>Each piece has one member from 4 different ordered lists.</hint>
+			<hint>The lists are Famous Scientists, Elements of the Periodic Table, Stars Near Earth, Pharohs of Egypt.</hint>
+			<hint>List are order by Birthdate, Atomic Number, Distance from Earth and Reign.</hint>
+			<hint>The solution is STARGATE BURIED AT GIZA</hint>
+			<solution href="00-location-solution.txt" />
+		</puzzle>
+		<answerword>stargateburiedatgiza</answerword>
+	</location>
+
+	<puzzle>
+		<title>Abydos</title>
+		<file href="01-abydos.pdf"/>
+		<hint>The dots are arrange very specifically such that you can create 7 straight lines</hint>
+		<hint>Use the 7 glyphs on the second page. Notice that they show up twice.</hint>
+		<hint>The pairs are semaphore</hint>
+		<hint>Use number of dots in the lines created in step one to determine letter placement</hint>
+		<solution href="01-abydos-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>P3X-179</title>
+		<file href="02-p3x-179.pdf"/>
+		<hint>Create the single path from the start to end with the pieces.</hint>
+		<hint>What is left?</hint>
+		<solution href="02-p3x-179-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Searching for Artifacts</title>
+		<file href="03-searching_for_artifacts.pdf"/>
+		<hint>Shaded letters are the first letter of each answer</hint>
+		<hint>CROSS WORD ANSWERS: Ascend, Glyph, Jumper, Daedalus, Embarkation, Aurora, Atalantis, Chevron, Anubis</hint>
+		<hint>What do you have left over?</hint>
+		<solution href="03-searching_for_artifacts-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Thirteen Steps to Victory (meta puzzle)</title>
+		<file href="04-bonus.pdf"/>
+		<hint>You must use the other puzzles to solve!</hint>
+		<hint>Place the puzzle answers in one of the grids</hint>
+		<hint>Translate the ancient into another grid and then convert to letters some how</hint>
+		<hint>The coversion is based on the puzzle the matching answer in the grid location is from.</hint>
+		<hint>The first set, use Abyods and count around the 1st page stargate then put the symbol into the grid like you did when you originally solved that puzzle</hint>
+		<hint>Second set use P3X-179 and use the grid coordinates</hint>
+		<hint>Thrid set use Artifact</hint>
+		<hint>It seems like there are errors? Or are those relevant? This grid is so nicely laid out for a certain encoding that use 2*3 blocks</hint>
+		<hint>Using braille, use only the blocks where the letters match both the puzzle answers and the ancient translations</hint>
+		<solution href="04-bonus-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Dynamic Duos (bonus puzzle)</title>
+		<file href="05-meta.pdf"/>
+		<solution href="05-meta-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>
