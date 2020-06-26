@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2018</year>
+	<month>10</month>
+	<title>Zoo Theft</title>
+	<notes>
+Thank you to this month's author: Sam Webster (Manchester, UK)
+
+Puzzle editor: Jen Dumont
+	</notes>
+	<location>
+		<puzzle>
+			<title>The Crime</title>
+			<file href="00-location.pdf"/>
+			<hint>Did you notice a misspelled word in the flavor text?</hint>
+			<hint>What could “Natorally” mean?</hint>
+			<hint>Check your code sheet for the NATO ALPHABET.</hint>
+			<hint>The solutions is THEFT FROM CITY ZOO</hint>
+			<solution href="00-location-solution.pdf" />
+		</puzzle>
+		<answerword>theftfromcityzoo</answerword>
+	</location>
+
+	<puzzle>
+		<title>A Game of Cat and Mouse</title>
+		<notes>This puzzle does not have interactive progressive hints available. See the solution PDF for hints.</notes>
+		<file href="01-cat_mouse.pdf"/>
+		<solution href="01-cat_mouse-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Bats in the Belfry</title>
+		<notes>This puzzle does not have interactive progressive hints available. See the solution PDF for hints.</notes>
+		<file href="02-bats.pdf"/>
+		<solution href="02-bats-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>A Nest of Vipers</title>
+		<notes>This puzzle does not have interactive progressive hints available. See the solution PDF for hints.</notes>
+		<file href="03-vipers.pdf"/>
+		<solution href="03-vipers-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>A Barrel of Monkeys</title>
+		<notes>This puzzle does not have interactive progressive hints available. See the solution PDF for hints.</notes>
+		<file href="04-monekys.pdf"/>
+		<solution href="04-monekys-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Justice Will Be Done</title>
+		<notes>This puzzle does not have interactive progressive hints available. See the solution PDF for hints.</notes>
+		<file href="05-meta.pdf"/>
+		<solution href="05-meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>What Was Stolen?</title>
+		<notes>This puzzle does not have interactive progressive hints available. See the solution PDF for hints.</notes>
+		<file href="06-bonus.pdf"/>
+		<solution href="06-bonus-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>
