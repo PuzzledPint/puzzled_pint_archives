@@ -14,14 +14,13 @@ PM: Christine Fleener
 		<puzzle>
 			<title>JEN</title>
 			<file href="00-location.pdf"/>
-			<hint>Hint</hint>
-			<hint>Hint</hint>
-			<hint>Hint</hint>
-			<hint>Hint</hint>
-			<hint>Solution displayed to the player</hint>
+			<hint>The flutes have 5 holes. Does this remind you of anything on your code sheet?</hint>
+			<hint>The flutes spell “SO HOLES ON TOPS WORK TOO.”</hint>
+			<hint>The solution is four letters long.</hint>
+			<hint>The solution is PINT.</hint>
 			<solution href="00-location-solution.pdf"/>
 		</puzzle>
-		<answerword>bowlingalley</answerword>
+		<answerword>pint</answerword>
 	</location>
 
 	<puzzle>

@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+    <year>2019</year>
+    <month>04</month>
+    <title>Head to Head</title>
+    <icon href="icon.png"/>
+    <notes>
+Thank you to this month's author Larry Hosken (San Francisco, CA, USA)
+
+PM: Neal Tibrewala
+    </notes>
+    <location>
+        <puzzle>
+            <title>Holmes </title>
+            <file href="00-location.pdf"/>
+            <hint>One of the pairs is a synonym, the other is an antonym, but which side they're on differs from pair to pair.</hint>
+            <hint>Pairs:
+
+- `Plunder  emptY`
+- `Command  hEad`
+- `Survive  lAst`
+- `Poor     Rich`
+- `Topple   dowN`
+- `Vault    Safe`
+- `Low      High`
+- `Product  gOod`
+- `Stop     staRt`
+- `Early    laTe`</hint>
+            <hint>Final Pair : YEARN SHORT</hint>
+            <hint>The solution is LONG.</hint>
+            <solution href="00-location-solution.pdf"/>
+        </puzzle>
+        <answerword>long</answerword>
+    </location>
+
+    <puzzle>
+        <title>Harpo</title>
+        <file href="01-harpo.pdf"/>
+        <solution href="01-harpo-solution.pdf"/>
+    </puzzle>
+
+    <puzzle>
+        <title>Villeneuve</title>
+        <file href="02-villeneuve.pdf"/>
+        <solution href="02-villeneuve-solution.pdf"/>
+    </puzzle>
+
+    <puzzle>
+        <title>Jane Jacobs</title>
+        <file href="03-jane_jacobs.pdf"/>
+        <solution href="03-jane_jacobs-solution.pdf"/>
+    </puzzle>
+
+    <puzzle>
+        <title>Morse</title>
+        <file href="04-morse.pdf"/>
+        <solution href="04-morse-solution.pdf"/>
+    </puzzle>
+
+    <puzzle>
+        <title>Meta</title>
+        <file href="05-meta.pdf"/>
+        <solution href="05-meta-solution.pdf"/>
+    </puzzle>
+
+    <puzzle>
+        <title>Bonus</title>
+        <file href="06-stanley.pdf"/>
+        <solution href="06-stanley-solution.pdf"/>
+    </puzzle>
+
+    <allPuzzles href="allpuzzles.pdf"/>
+    <answerSheet href="answersheet.pdf"/>
+</PPMonth>
