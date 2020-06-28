@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2019</year>
+	<month>06</month>
+	<title>The Crystal Maze</title>
+	<icon href="icon.png"/>
+	<notes>
+Thank you to this month's author: Sam Webster (Manchester, UK)
+
+PM: Jen Dumont
+	</notes>
+	<location>
+		<puzzle>
+			<title>Entering the Crystal Maze</title>
+			<file href="00-location.pdf"/>
+			<hint>This puzzle is a form of [Nonogram](https://en.wikipedia.org/wiki/Nonogram).</hint>
+			<hint>The outer edges have zero, but moving inward from those, you can triangulate some filled in spots.</hint>
+			<hint>From those, you can infer a lot more.</hint>
+			<hint>The ultimate answer visually spells out a word across three lines.</hint>
+			<hint>The solution is JUMPSUITS.</hint>
+			<solution href="00-location-solution.pdf"/>
+		</puzzle>
+		<answerword>jumpsuits</answerword>
+	</location>
+
+	<puzzle>
+		<title>The Aztec Zone</title>
+		<file href="01-aztec.pdf"/>
+		<solution href="01-aztec-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The Medieval Zone</title>
+		<file href="02-medieval.pdf"/>
+		<solution href="02-medieval-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The Industrial Zone</title>
+		<file href="03-industrial.pdf"/>
+		<solution href="03-industrial-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The Futuristic Zone</title>
+		<file href="04-futuristic.pdf"/>
+		<solution href="04-futuristic-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The Crystal Dome (meta puzzle)</title>
+		<file href="05-meta.pdf"/>
+		<solution href="05-meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Inspector Pintley's Adventures (bonus puzzle)</title>
+		<file href="06-bonus.pdf"/>
+		<solution href="06-bonus-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>
