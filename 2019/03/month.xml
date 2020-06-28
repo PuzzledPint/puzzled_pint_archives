@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2019</year>
+	<month>03</month>
+	<title>The Dark Crystal</title>
+	<icon href="icon.png"/>
+	<notes>
+Thank you to this month's author: Jen Dumont (Portland, OR)
+
+PM: Christine Fleener
+	</notes>
+	<location>
+		<puzzle>
+			<title>JEN</title>
+			<file href="00-location.pdf"/>
+			<hint>Hint</hint>
+			<hint>Hint</hint>
+			<hint>Hint</hint>
+			<hint>Hint</hint>
+			<hint>Solution displayed to the player</hint>
+			<solution href="00-location-solution.pdf"/>
+		</puzzle>
+		<answerword>bowlingalley</answerword>
+	</location>
+
+	<puzzle>
+		<title>The Mystics</title>
+		<file href="01-mystics.pdf"/>
+		<solution href="01-mystics-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Skeksis</title>
+		<file href="02-skeksis.pdf"/>
+		<solution href="02-skeksis-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Kira</title>
+		<file href="03-kira.pdf"/>
+		<solution href="03-kira-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Aughra's Orrery</title>
+		<file href="04-orrery.pdf"/>
+		<solution href="04-orrery-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The Crystal (meta puzzle)</title>
+		<file href="05-meta.pdf"/>
+		<solution href="05-meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Grandmother's Hobbies (bonus puzzle)</title>
+		<file href="06-bonus.pdf"/>
+		<solution href="06-bonus-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>
