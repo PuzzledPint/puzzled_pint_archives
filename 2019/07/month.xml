@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2019</year>
+	<month>07</month>
+	<title>The Space Age</title>
+	<icon href="icon.png"/>
+	<notes>
+Thank you to this month's authors: Tracy Cobbs (Huntsville, AL, USA) and Curtis Chen (Portland, OR, USA)
+
+PM: Jen Dumont
+	</notes>
+	<location>
+		<puzzle>
+			<title>Space: The Final Frontier</title>
+			<file href="00-location.pdf"/>
+			<hint>Note the prevalence of words and phrases such as “final”, “in the end”, “ultimate”, “concluded”, etc.</hint>
+			<hint>Once you’ve identified the things referred to by the six clues, take the final letter of each to spell the answer.</hint>
+			<hint>The six clue answers are VIRGIN GALACTIC, GALILEO, HUYGENS, GUS GRISSOM, APOLLO, NEW HORIZONS</hint>
+			<hint>The answer is COSMOS.</hint>
+			<solution href="00-location-solution.pdf"/>
+		</puzzle>
+		<answerword>cosmos</answerword>
+	</location>
+
+	<puzzle>
+		<title>Message from Orbit</title>
+		<file href="01-message_from_orbit.pdf"/>
+		<hint>Focus first on the two lines under the title. The dots, dashes and x’s represent the title in Morse, with one x between consecutive letters and two x’s between words. There is one digit for each pair of symbols above it.</hint>
+		<hint>Each of the nine possible two-symbol combinations is represented by the same digit every time that combination occurs.</hint>
+		<hint>The digit 9 is not given at the top, but by process of elimination, you can determine that it represents x—</hint>
+		<hint>Substituting the proper pair of symbols for each digit at the bottom, and reading the resulting Morse message yields the answer</hint>
+		<solution href="01-message_from_orbit-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Hidden Figures</title>
+		<notes>This puzzle has an optional [cryptarithm tip sheet](02-hidden_figures-handout.pdf).</notes>
+		<file href="02-hidden_figures.pdf"/>
+		<hint>In a subtraction, when a number in the rightmost column is subtracted from itself, the result must be 0 [zero].</hint>
+		<hint>When a number in a non-rightmost column is subtracted from itself, the result can only be 0 [zero] or 9 (it will be 9 if the column to the right “borrowed 1”).</hint>
+		<hint>Consider the case of a number A, which when multiplied by four different non-zero digits B, C, D, and E yields products ending in B, C, D, and E respectively. A must equal 1. (6 exhibits a similar pattern, but in a smaller number of cases; e.g. 6*2 = 12, 6*4 = 24, 6*8 = 48.)</hint>
+		<hint>BY COMPUTER.</hint>
+		<hint>complete the math problem on the bottom to get the final answer</hint>
+		<solution href="02-hidden_figures-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Unmanned</title>
+		<file href="03-unmanned.pdf"/>
+		<hint>Take note of the following: The puzzle title is “Unmanned”; the shortest space in the grid is two letters long, but the shortest entry in the word list is five letters long; every entry in the word list contains the substring MAN.</hint>
+		<hint>Remove the substring MAN from every entry and then deduce where it fits in the grid.</hint>
+		<hint>When you have filled in the grid and extracted the letters from the gray squares, take note of this clause in the flavortext: “that would be manned”.</hint>
+		<hint>Insert the string MAN somewhere in the string of extracted letters.</hint>
+		<solution href="03-unmanned-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Small Steps</title>
+		<file href="04-small_steps.pdf"/>
+		<hint>The clue answers are STALK, SLINK, BLANK, BRAND; SEEP, BEER, LEAR.</hint>
+		<hint>The 4-letter word ladder is STEP, SEEP, BEEP (or SEER), BEER, BEAR (or LEER), LEAR, LEAP.</hint>
+		<hint>The 5-letter word ladder is SMALL, STALL, STALK, STANK, STINK, SLINK, BLINK, BLANK, BLAND, BRAND, GRAND, GRANT, GIANT.</hint>
+		<solution href="04-small_steps-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Launch Windows (meta puzzle)</title>
+		<file href="05-meta.pdf"/>
+		<hint>The answer lengths are easily matched to rocket heights. Write them in top to bottom, as in a crossword puzzle.</hint>
+		<hint>The drone (solid black square) will gather telemetry at specific times. For instance the leftmost drone will do so at 1917, 1918, 1919, and 1920.</hint>
+		<hint>Given the launch times for each rocket, calculate where each rocket will be when the drone is in its column, and extract the letter at the drone’s position.</hint>
+		<solution href="05-meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Dear NASA (bonus puzzle)</title>
+		<file href="06-bonus1.pdf"/>
+		<solution href="06-bonus1-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Happy Anniversary Puzzled Pint! (bonus puzzle)</title>
+		<file href="07-bonus2.pdf"/>
+		<solution href="07-bonus2-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>

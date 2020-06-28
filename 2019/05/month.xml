@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2019</year>
+	<month>05</month>
+	<title>High School</title>
+	<icon href="icon.png"/>
+	<notes>
+Thank you to this month's authors Robert Becker
+
+PM: Jen Dumont
+	</notes>
+	<location>
+		<puzzle>
+			<title>Title</title>
+			<file href="00-location.pdf"/>
+			<hint>Solving the logic puzzle should give you Carmen at the topmost position.</hint>
+			<hint>Going clockwise from Carmen, you will have:
+
+- Hannah
+- Olivia
+- Osman
+- LaKasha
+- Hector
+- Isaac
+- Gabriel
+- Hugh
+- Salma</hint>
+			<hint>Taking the first initial clockwise from Hector gives you: HIGHSCHOOL</hint>
+			<solution href="00-location-solution.pdf"/>
+		</puzzle>
+		<answerword>highschool</answerword>
+	</location>
+
+	<puzzle>
+		<title>Art Class</title>
+		<notes>If you need help with artists, we have [a hint sheet available](02-english_class-cheat_sheet).</notes>
+		<file href="01-art_class.pdf"/>
+		<solution href="01-art_class-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>English Class</title>
+		<file href="02-english_class.pdf"/>
+		<solution href="02-english_class-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Math Class</title>
+		<file href="03-math_class.pdf"/>
+		<solution href="03-math_class-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Chemistry Class</title>
+		<file href="04-chemistry_class.pdf"/>
+		<solution href="04-chemistry_class-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Ummm...Have a Great Life? (meta puzzle)</title>
+		<file href="05-meta.pdf"/>
+		<solution href="05-meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Crossroads (bonus puzzle)</title>
+		<file href="06-bonus.pdf"/>
+		<solution href="06-bonus-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>
