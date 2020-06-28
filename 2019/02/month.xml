@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2019</year>
+	<month>02</month>
+	<title>Art Heist</title>
+	<icon href="icon.png"/>
+	<notes>
+Thank you to this month's authors Advith Chelikani
+
+PM: Jen Dumont
+	</notes>
+	<location>
+		<puzzle>
+			<title>Nighttime Burglary</title>
+			<file href="00-location.pdf"/>
+			<hint>The flavor text hints at a connecting to braille.</hint>
+			<hint>The keypad is also structured in two 3x2 grids, indicating braille again.</hint>
+			<hint>By considering each set of space delimited number chains within each row and shading in appropriate numbers, braille letters are found.</hint>
+			<hint>The solution is MADRID.</hint>
+			<solution href="00-location-solution.pdf"/>
+		</puzzle>
+		<answerword>madrid</answerword>
+	</location>
+
+	<puzzle>
+		<title>Martingale</title>
+		<file href="01-martingale.pdf"/>
+		<solution href="01-martingale-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Just Add Half a Scam</title>
+		<file href="02-just_add_half_a_scam.pdf"/>
+		<solution href="02-just_add_half_a_scam-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Fencing</title>
+		<file href="03-fencing.pdf"/>
+		<solution href="03-fencing-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Sewer Maps</title>
+		<file href="04-sewer_maps.pdf"/>
+		<solution href="04-sewer_maps-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>From Start to Finish (meta puzzle)</title>
+		<file href="05-meta.pdf"/>
+		<solution href="05-meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Digital Segments (bonus puzzle)</title>
+		<file href="06-bonus.pdf"/>
+		<solution href="06-bonus-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>
