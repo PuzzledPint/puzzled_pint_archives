@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2019</year>
+	<month>08</month>
+	<title>The Muppet Show</title>
+	<icon href="icon.png"/>
+	<notes>Thank you to this month's author: Andrea Blumberg (Portland, OR)</notes>
+	<location>
+		<puzzle>
+			<title>It's the Muppet Show, starring...?</title>
+			<file href="00-location.pdf"/>
+			<hint>The feet on page 2 will be the same orinatation of the feet on page 2.</hint>
+			<hint>Use the letters not used for the dance steps to get the answer</hint>
+			<hint>The answer is THE SHOE MUST GO ON.</hint>
+			<solution href="00-location-solution.pdf"/>
+		</puzzle>
+		<answerword>theshoemustgoon</answerword>
+	</location>
+
+	<puzzle>
+		<title>Bork, Bork, Bork!</title>
+		<file href="01-bork_bork_bork.pdf"/>
+		<hint>It's not really swedish... but unusual english</hint>
+		<hint>First line says "Move the first the first letter 3 positions to the right"</hint>
+		<hint>Line 9 should be "UUDUUSLAWIFI"</hint>
+		<solution href="01-bork_bork_bork-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Family Tree</title>
+		<file href="02-family_tree.pdf"/>
+		<hint>The first words from Kermit on the 2nd page are (in order): PELVIS, PENCIL, TENNIS</hint>
+		<solution href="02-family_tree-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Popular Music</title>
+		<file href="03-popular_music.pdf"/>
+		<hint>Match up the right side to the left side with a line.</hint>
+		<hint>"New World Symphony" goes with "Martian Colonists"</hint>
+		<hint>What is left over?</hint>
+		<solution href="03-popular_music-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Piiiiiigs Iiiiiin Spaaaaace</title>
+		<file href="04-pigs_in_space.pdf"/>
+		<hint>Pens that are space pens: 2, 4, 5, 7,8</hint>
+		<hint>What encoding would be good for "pigs"</hint>
+		<hint>Pig Pen is what the pens create - but you need a little extra!</hint>
+		<hint>The round items are used to with the pig pen</hint>
+		<solution href="04-pigs_in_space-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The Great Gonzo</title>
+		<file href="05-the_great_gonzo.pdf"/>
+		<hint>No hints! You've got it</hint>
+		<solution href="05-the_great_gonzo-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Muppet Labs (meta puzzle)</title>
+		<file href="06-meta.pdf"/>
+		<hint>You don't actually use the answers from each of the puzzle!</hint>
+		<hint>Instead use the monitors to find those elements in each of the puzzles</hint>
+		<hint>Those items should be connect in order on the monitor to create....</hint>
+		<hint>Those lines create letters. But now you need to Animal to help you order them.</hint>
+		<hint>Animal is eating each pint on each puzzle... do it in the order of how much he has eaten!</hint>
+		<hint>FIRST ANSWER: RINGO</hint>
+		<hint>Find his last name - STARR, then his occupation - DRUMMER, and group - BEATLES</hint>
+		<hint>Hint</hint>
+		<solution href="06-meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Constictive Crud-icism (bonus puzzle)</title>
+		<file href="07-bonus.pdf"/>
+		<hint>The answers below are used in the clues, but just changes as if you couldn't hear well!</hint>
+		<hint>For example, WHITE LIE could sound like LIGHT WHY</hint>
+		<hint>use the stars for the final extraction</hint>
+		<solution href="07-bonus-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>
