@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2020</year>
+	<month>06</month>
+	<title>Modern Board Games</title>
+	<icon href="icon.png"/>
+	<notes>Thank you to this month's author: Tomer Reiter (Atlanta, GA)
+
+For remote solvers:
+
+- [Team Worksheet](https://docs.google.com/spreadsheets/d/1mpRlURZSAcqKB5F4vEBuIsSypkU9M5AQB15InFigOfo/edit?usp=sharing) to collect answers. (Author: Bill Gardner, Charlottesville, VA)
+- [Google Drawing](https://docs.google.com/drawings/d/1V8ugRJFqV0Ma3EMeViwWzwtE3wW24Xe0oVaUOkfq-uw/edit?usp=sharing) to help solve the Letter Jam puzzle online. (Author: Bill Gardner, Charlottesville, VA)
+</notes>
+	<location>
+		<puzzle>
+			<title>Board Game Mixed Doubles</title>
+			<file href="00-location.pdf"/>
+			<hint>All of the answers to the board game clues are actually in the description of the board game on www.boardgamegeek.com!</hint>
+			<hint>Here is an example of a pairing: across clues 1 and 8 pair to give the answer you would fill in on 9 across in the grid, since 9 = 1 + 8.</hint>
+			<hint>The answer to 9 = 1 + 8 across is PYRAMID.</hint>
+			<hint>Here are all the board game answers. Across: 1. PYRAMID, 4. DRAGON, 7. TILES, 9. EUROPE, 10. VICTORY. Down: 1. GEARS, 3. QUESTS, 5. OXYGEN, 7. NOBLE, 9. MONARCH.</hint>
+			<hint>Here are all the clue pairings. Across: 1 and 8, 2 and 4, 3 and 9, 5 and 10, 6 and 7. Down: 1 and 6, 2 and 9, 3 and 10, 4 and 5, 7 and 8.</hint>
+			<hint>What are the lines and shapes in the squares for?</hint>
+			<hint>Read the letters in the grid in the order of the squares with one line, then two lines,then the triangle, square, pentagon, hexagon, heptagon, then octagon. This spells YOUR TURN.</hint>
+			<solution href="00-location-solution.pdf"/>
+		</puzzle>
+		<answerword>yourturn</answerword>
+	</location>
+
+	<puzzle>
+		<title>Letter Jam</title>
+		<file href="01-letter_jam.pdf"/>
+		<hint>You can use each letter in the sets of letters multiple times. For example, AELT could be used to make LATTE (this is not an answer).</hint>
+		<hint>A child who tells on other children is a TATTLETALE. Do any of the sets of letters on the left match up with this?</hint>
+		<hint>Once you’ve matched up some sets of letters and definitions, draw a line between those dots.</hint>
+		<hint>Here are some of the harder words: TNETENNBA, CATALAN, GARGLER, OUROBOROS</hint>
+		<hint>Here are all of the words: TNETENNBA, CATALAN, GARGLER, TATTLETALE, ANAGRAM, ATLANTA, OUROBOROS, SORCERERS, SEEDLESS, GRINNING, MISSISSIPPI.</hint>
+		<hint>Here are the harder definitions: TNETENNBA is an IT crowd countdown answer, CATALAN is an official language of Andorra, GARGLER is someone while using mouthwash, and OUROBOROS is a snake eating its own tail.</hint>
+		<hint>What letters haven’t been crossed out?</hint>
+		<hint>Use the last definition (the noun form of a word for “lacking meaning”) with the letters that haven’t been crossed off to get the final 9 letter answer.</hint>
+		<solution href="01-letter_jam-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>WINGSPAN</title>
+		<file href="02-wingspan.pdf"/>
+		<hint>Start by cutting out the 8 bird cards. Be careful not to cut the dots, they should end up on the card.</hint>
+		<hint>From left to right, then top to bottom, here are the birds in the right order in the grid: Chipping Sparrow, Barn Swallow, Pileated Woodpecker, American Robin, House Finch, Bewick’s Wren, Eastern Screech Owl, Lincoln's Sparrow.</hint>
+		<hint>What do the symbols on the borders of the bird cards look like now that the cards are together?</hint>
+		<hint>Read the braille on the borders of the bird cards. You can ignore the dots on the outermost edge of the grid, you only need to read the braille on the borders between pairs of bird cards.</hint>
+		<hint>Start by reading the 4 symbols on the top row, then read the 4 between the first and second rows, then the symbols on the second row, etc.</hint>
+		<hint>This spells out USE VPS AS INDEX ORDER BY WINGSPAN.</hint>
+		<hint>Follow the instructions: order the birds by wingspan, then use the index which is the number of victory points for that bird.</hint>
+		<solution href="02-wingspan-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>CODENAMES</title>
+		<file href="03-codenames.pdf"/>
+		<hint>Since a synonym of a synonym is a synonym, and an antonym of a synonym is an antonym, you know that at least one of the two steps is an anagram.</hint>
+		<hint>Here’s an example of what the solutions look like. If the clue is NOTES, an anagram for that is STONE, and a synonym for that is ROCK. So ROCK might be an answer if the clue was NOTES.</hint>
+		<hint>A good first step might be to find all the anagrams for all of the clue words. Once you’ve done this you can check if any synonyms or antonyms of these are on the board.</hint>
+		<hint>You could also try quickly seeing if there are anagrams of the words on the board. Some of them will look like they don’t have anagrams, like COMPANY. Now combine this information and step 3.</hint>
+		<hint>For the first board the answers are GATHER and LIVED. Can you work out why?</hint>
+		<hint>An anagram for ANGEL is GLEAN. A synonym for GLEAN is GATHER. An antonym for ANGEL is DEVIL. An anagram of DEVIL is LIVED.</hint>
+		<hint>The answers for each board (and the intermediate words) are:
+
+- a. GATHER (GLEAN), LIVED (DEVIL)
+- b. OBSERVES (NOTES), DOUBLER (BOULDER)
+- c. BABBLE (RAMBLE), HIKER (AMBLER)
+- d. WARMS (HEATS), SOLVE (LOVER)
+- e. FOOTSTEPS (PACES), CLOAKS (CAPES)
+- f. PIERS (SPIRE), SCRIBED (WROTE)
+- g. WARBLER (BRAWLER), SHIPMENT (FREIGHT)
+- h. WORDIER (WORRIED), SWEETS (DESSERTS)
+- i. REVIEW (RATE), HERDS (SHRED)</hint>
+		<hint>Read the description again. What are some different ways something can be silently communicated?</hint>
+		<hint>Use semaphore on each of the 9 boards.</hint>
+		<solution href="03-codenames-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Gloomhaven</title>
+		<file href="04-gloomhaven.pdf"/>
+		<hint>First, work out the movement of each monster.</hint>
+		<hint>Monster 1 will travel in a straight line 4 hexes towards the Triforce. Record where it ends up (on the hex labeled F), as this may affect future monster movement.</hint>
+		<hint>Record all of the letters for each monster along the route it takes. Read the rules again, is there any key word you can use to make sense of these letters?</hint>
+		<hint>Shift is the key word, so shift the letters along that monster’s path by its remaining HP. For example, Monster 1’s path now becomes READ.</hint>
+		<hint>The four monster paths spell out READ EVERY THIRD HEX.</hint>
+		<hint>Now follow those instructions. Starting with the upper-left most hex (and including this one), read every third hex.</hint>
+		<hint>Follow rule number 4 for this! You’ll also ignore the arrows you’ve drawn to record the monster movement.</hint>
+		<hint>This spells out: INDEX FOR CHARACTERS IS 4 3 5 4</hint>
+		<solution href="04-gloomhaven-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Century: A Meta Puzzle (meta puzzle)</title>
+		<file href="05-meta.pdf"/>
+		<hint>CODESPAN: Hints below for the Codespan section</hint>
+		<hint>If this seems unapproachable, the easiest way to do this is to try something! Guess each agent is telling the truth or lying and then see what implications that has.</hint>
+		<hint>PARTIAL SOLUTION: Agent W is telling the truth, so take the letter W from this.</hint>
+		<hint>WINGJAM: Hints below for the Wingjam section</hint>
+		<hint>See the Letter Jam hints here. This is most of the challenge.</hint>
+		<hint>The hardest word to figure out may be TARGET.</hint>
+		<hint>The other words are CARROT, TOASTS, SPEEDS, SPIRITS.</hint>
+		<hint>Once the definitions have been paired off, what Wingspan puzzle mechanic might be used?</hint>
+		<hint>PARTIAL SOLUTION: Connecting two halves of braille symbols gives the letters ORLDS.</hint>
+		<hint>LETTERHAVEN: Hints below for Letterhaven section</hint>
+		<hint>Again, see the Letter Jam hints. Note that each definition and each set of letters may refer to more than one word.</hint>
+		<hint>A baker’s dozen is THIRTEEN. Does that work with any neighbors?</hint>
+		<hint>The hardest word to work out is likely TATTERED.</hint>
+		<hint>PARTIAL SOLUTION: Worn out is SPENT (ENPST) or TATTERED (ADERT). Gave medical treatment is TREATED (ADERT) or HEALED (ADEHL). Connecting these hexes forms the letter C.</hint>
+		<hint>CODEHAVEN: Hints below for the Codehaven section</hint>
+		<hint>The easiest place to get started is the anagram of LEMON. There’s only one option.</hint>
+		<hint>One option now is to just try different shifts of this anagram, MELON until you get a word.</hint>
+		<hint>PARTIAL SOLUTION: The answer is CUBED. The third index is B, shifted 13 is O.</hint>
+		<hint>LETTERNAMES: Hints below for the Letternames section</hint>
+		<hint>The Gloomhaven answer is LOOT. What are some synonyms of LOOT without too many letters?</hint>
+		<hint>Same letters means the Letter Jam mechanic.</hint>
+		<hint>One antonym of flavorful is bland, but these letters don’t lend well to making other words. What other antonyms are there?</hint>
+		<hint>PARTIAL SOLUTION: TASTELESS and STEAL have the same letters. We take the fifth index of STEAL,the L.</hint>
+		<hint>GLOOMSPAN: Hints below for the Gloomspan section</hint>
+		<hint>Follow the Gloomhaven movement instructions!</hint>
+		<hint>Putting the braille together with the monsters being the left half, in the order M1, M2, M3, M4,gives LIDE.</hint>
+		<solution href="05-meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Board Game Night (bonus puzzle)</title>
+		<file href="06-bonus.pdf"/>
+		<solution href="06-bonus-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>
