@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2020</year>
+	<month>02</month>
+	<title>Circular Reasoning</title>
+	<icon href="icon.png"/>
+	<notes>Thank you to this month's author: Eric Berlin (Milford, CT)
+
+[PUZZLESNACKS by Eric Berlin](promo.pdf) (promo flyer)</notes>
+	<location>
+		<puzzle>
+			<title>49-Ring Circus</title>
+			<file href="00-location.pdf"/>
+			<hint>Consider the outtakes not as individual pieces but as sets of three.</hint>
+			<hint>The word “signaled” in the flavortext is significant</hint>
+			<hint>Trace the path of each trio of pieces, then use semaphore.</hint>
+			<hint>The solution is HOOPLA</hint>
+			<solution href="00-location-solution.pdf"/>
+		</puzzle>
+		<answerword>hoopla</answerword>
+	</location>
+
+	<puzzle>
+		<title>The Ring</title>
+		<file href="01-the_ring.pdf"/>
+		<hint>An R is in every answer, and will thus be in the center of the grid.</hint>
+		<hint>The three-letter ring next to the center contains the letters A, 0, and S, in some order.</hint>
+		<hint>As you complete the grid, you will spell a message around the perimeter, starting at 1.</hint>
+		<solution href="01-the_ring-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Coins</title>
+		<file href="02-coins.pdf"/>
+		<hint>The easiest place to begin is by placing the five dollar coins—there are not many places these can go.</hint>
+		<hint>ubtracting the dollar values from the total amounts might give you an insight about the remaining coins that must go into those rows and columns.</hint>
+		<hint>With the grid filled in correctly, you now have five sets of coins labeled A-E. How can you use these coins to reach this puzzle's answer?</hint>
+		<hint>Treat each coin as a separate connect-the-dots; draw lines from A to E for each coin.</hint>
+		<solution href="02-coins-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Movie Reels</title>
+		<file href="03-movie_reels.pdf"/>
+		<hint>Pay attention to the letters only used once in each grid.</hint>
+		<hint>The first letters of the first three answers in each reel are: 1) D, T, M; 2) A, L, V; 3) S, L, A; 4) M, A, G; 5) 0, I, A</hint>
+		<solution href="03-movie_reels-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Pie Charts</title>
+		<file href="04-pie_charts.pdf"/>
+		<hint>You'll need to take the given percentage of each word.</hint>
+		<hint>The four sections may not add up to 100%, but they do add up to one of the images on the second page... plus a little something extra.</hint>
+		<hint>Bonus hint for our non-US solvers: In the states, those orange fruits are called tangerines.</hint>
+		<solution href="04-pie_charts-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Dartboard (meta puzzle)</title>
+		<file href="05-meta.pdf"/>
+		<hint>The first letter of the answer to "The Ring" goes with the 2.</hint>
+		<hint>The first letter of the answer to "Pie Charts" goes with the 5.</hint>
+		<hint>The first letter of the answer to "Coins" goes with the 4.</hint>
+		<hint>The first letter of the answer to "Movie Reels" goes with the 15.</hint>
+		<solution href="05-meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Wheels Within Wheels (bonus puzzle)</title>
+		<file href="06-bonus.pdf"/>
+		<solution href="06-bonus-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>

@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2020</year>
+	<month>01</month>
+	<title>Neko Atsume</title>
+	<icon href="icon.png"/>
+	<notes>Thank you to this month's author: Justin Melvin (Kirkland, WA)</notes>
+	<location>
+		<puzzle>
+			<title>Catbook</title>
+			<file href="00-location.pdf"/>
+			<hint>Are those just cute poses, or perhaps are the kitty legs telling us something?</hint>
+			<hint>Use Semaphore</hint>
+			<hint>The solution is: PROCATISATION</hint>
+			<solution href="00-location-solution.pdf"/>
+		</puzzle>
+		<answerword>procatisation</answerword>
+	</location>
+
+	<puzzle>
+		<title>Joe DiMeowgio</title>
+		<file href="01-joe_dimeowgio.pdf"/>
+		<hint>knowledge of baseball is not required.</hint>
+		<hint>there is heavy hinting to encoding type</hint>
+		<solution href="01-joe_dimeowgio-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Lady Meow Meow</title>
+		<file href="02-lady_meow_meow.pdf"/>
+		<hint>This is a standard light up puzzle:https://en.m.wikipedia.org/wiki/Light_Up_(puzzle)</hint>
+		<solution href="02-lady_meow_meow-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Guy Furry</title>
+		<file href="03-guy_furry.pdf"/>
+		<hint>Each group should match one of the description above, but not everything in the group</hint>
+		<hint>The placement of a 2x3 grid should indicate an encoding</hint>
+		<hint>Use Braille</hint>
+		<solution href="03-guy_furry-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Tubbs</title>
+		<file href="04-tubbs.pdf"/>
+		<hint>The containers should be combined with the meal in some way with a bit of extra</hint>
+		<hint>The images below are important for doing the combining</hint>
+		<hint>For example, BEER containing GIN gets you BEGINNER with an extra N.</hint>
+		<solution href="04-tubbs-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The Yard (meta puzzle)</title>
+		<file href="05-meta.pdf"/>
+		<hint>Place the letters that match the item on the picture</hint>
+		<hint>Read letters from left to right, top to bottom on image</hint>
+		<solution href="05-meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The Office Cat (bonus puzzle)</title>
+		<file href="06-bonus.pdf"/>
+		<solution href="06-bonus-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>

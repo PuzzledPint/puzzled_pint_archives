@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2020</year>
+	<month>04</month>
+	<title>Magic</title>
+	<icon href="icon.png"/>
+	<notes>Thank you to this month's author: James Mahoney (Columbia, MD, USA)
+
+Solving Tools:
+
+- [Team Worksheet](https://docs.google.com/spreadsheets/d/1mfOEhxbCyYk9J-0PEjVUeNSRkL3NqAzEwliYOO36knQ/edit#gid=338987701) to collect answers. This will help solve the Locked Chest puzzle online. (Author: Bill Gardner, Charlottesville, VA)
+- [Locked Chest Google Drawing](https://docs.google.com/drawings/d/19T1sC4bOhKaMSLkmsthMAUrwiaKs10qj2myqtX0sjDQ/edit) to help solve the Locked Chest puzzle online. (Author: Sam Olivecrona, Wellington, NZ)
+- [Locked Chest PowerPoint](https://drive.google.com/open?id=1ksd2axwcGIkwh0D6mxLTsGXWRT4J6BHx) to help solve the Locked Chest puzzle online.
+- [Locked Chest PowerPoint Video](https://drive.google.com/open?id=1X7OmrvVibjXLVsVD93krXR2xW7lPvSyP) for instructions on how to use the PowerPoint.
+- [Locked Chest Word](https://drive.google.com/open?id=1ukHsXFMiBN4LlR1DoxLEnoIc7J3phgsO) to help solve the Locked Chest puzzle online if you can't use PowerPoint.
+(Author: Robert Becker, St. Louis, MO)
+</notes>
+	<location>
+		<puzzle>
+			<title>Psychic</title>
+			<file href="00-location.pdf"/>
+			<hint>No matter what your hand turns out to be, you will always get to the same answer!</hint>
+			<hint>Each hand will equal 34 when added together.</hint>
+			<hint>The solution is: MAGICAL</hint>
+			<solution href="00-location-solution.pdf"/>
+		</puzzle>
+		<answerword>magical</answerword>
+	</location>
+
+	<puzzle>
+		<title>Locked Chest</title>
+		<file href="01-locked_chest.pdf"/>
+		<hint>Place each disc over the ring until the revealed letters spell a word when read clockwise.</hint>
+		<hint>Order the resulting words based on the number of dots on the discs.</hint>
+		<hint>What is the final three word clue referring to? Google the phrase if you aren’t sure.</hint>
+		<solution href="01-locked_chest-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Saw That Coming</title>
+		<file href="02-saw_that_coming.pdf"/>
+		<hint>Each Top word will match with a Bottom word to make a new word.</hint>
+		<hint>The audience only likes balanced words – which could those be?</hint>
+		<hint>Focus on the words whose top and bottom halves are the same length.</hint>
+		<hint>Extract the first letter from the balanced words and unscramble.</hint>
+		<solution href="02-saw_that_coming-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Power Grid</title>
+		<file href="03-power_grid.pdf"/>
+		<hint>Fill in the grid with the numbers 1-5 so that each digit shows up exactly once in each row and column. The small numbers in some squares tells you the sum of the numbers in orthogonally-adjacent squares.</hint>
+		<hint>Try to start with the corner cells. Also, figure out what numbers have to go around the 17-sum square.</hint>
+		<hint>Once the numbers are filled in, you will extract your answer from the groups of letters in the list of words.</hint>
+		<hint>Read the last stanza. What pattern stands out? What could it be referring to?</hint>
+		<hint>Extract the letters that are in the same place as the fours in the grid.</hint>
+		<solution href="03-power_grid-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Missing Links</title>
+		<file href="04-missing_links.pdf"/>
+		<hint>The words in each ring will be read clockwise. Each shaded cell is the first and last letter of some word.</hint>
+		<hint>Follow the instructions in the extracted phrase.</hint>
+		<hint>Each ring intersects two neighboring rings in three letters.</hint>
+		<hint>Chain together these four three-letter strings in the same way that the rest of the words in the puzzle are linked – the first and last letters overlap.</hint>
+		<hint>Look for the name of a famous inventor in the chain.</hint>
+		<solution href="04-missing_links-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Tricks of the Trade</title>
+		<file href="05-meta.pdf"/>
+		<hint>Read “alternate” as a verb and apply it to the previous four answers.</hint>
+		<hint>If you follow the instructions correctly, the two words made out of the cards are forced.</hint>
+		<hint>What do you call someone who tries to turn lead into gold?</hint>
+		<solution href="05-meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Paper Trail</title>
+		<file href="06-bonus.pdf"/>
+		<hint>You’re going to have to fold the square somehow.</hint>
+		<hint>Focus on the words “corner” and “center”.</hint>
+		<hint>Fold each corner to the center of the back of the square so that all of the Morse symbols align.</hint>
+		<hint>Read the Morse starting from the arrow, two letters per intersection, top-to-bottom.</hint>
+		<solution href="06-bonus-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>
