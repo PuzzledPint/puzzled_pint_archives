@@ -33,7 +33,7 @@ class Month:
         self.title = root.find('./title').text.strip()
         self.icon = root.find('./icon').get('href').strip()
         self.notes = None
-        if root.find('./notes'):
+        if root.find('./notes') is not None:
             self.notes = root.find('./notes').text.strip()
         self.location_answer_word = root.find('./location/answerword').text.strip().lower()
         self.location_puzzle = Puzzle(root.find('./location/puzzle'))
@@ -43,11 +43,11 @@ class Month:
         self.all_puzzles = None
         self.answer_sheet = None
         self.answer_sheet_solutions = None
-        if root.find('./allPuzzles'):
+        if root.find('./allPuzzles') is not None:
             self.all_puzzles = root.find('./allPuzzles').get('href').strip()
-        if root.find('./answerSheet'):
+        if root.find('./answerSheet') is not None:
             self.answer_sheet = root.find('./answerSheet').get('href').strip()
-        if root.find('./answerSheetSolution'):
+        if root.find('./answerSheetSolution') is not None:
             self.answer_sheet_solutions = root.find('./answerSheetSolution').get('href').strip()
 
     def debug_print(self):

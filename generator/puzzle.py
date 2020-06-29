@@ -28,17 +28,17 @@ class Puzzle:
     def __init__(self, xml_tree):
         self.title = xml_tree.find('./title').text.strip()
         self.notes = None
-        if xml_tree.find('./title'):
+        if xml_tree.find('./notes') is not None:
             self.notes = xml_tree.find('./notes').text.strip()
         self.file = None
-        if xml_tree.find('./file'):
+        if xml_tree.find('./file') is not None:
             self.file = xml_tree.find('./file').get('href').strip()
         self.hints = []
         for hint_element in xml_tree.findall('./hint'):
             self.hints.append(Hint(hint_element))
         self.solution_file = None
         self.solution_text = None
-        if xml_tree.find('./solution').get('href'):
+        if xml_tree.find('./solution').get('href') is not None:
             self.solution_file = xml_tree.find('./solution').get('href')
         else:
             self.solution_text = xml_tree.find('./solution').text.strip()
@@ -46,4 +46,7 @@ class Puzzle:
 
     def debug_print(self):
         print("        {0}".format(self.title))
-        print("        {0}".format(str(self.notes)[0:40].replace("\n", "")))
+        if self.notes is not None:
+            print("        {0}".format(str(self.notes)[0:40].replace("\n", "")))
+        print("        {0} : {1}".format(self.file, self.solution_file))
+        print("        -----")
