@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2020</year>
+	<month>05</month>
+	<title>Dr. Seuss</title>
+	<icon href="icon.png"/>
+	<notes>Thank you to this month's author: Bill Gardner (Charlottesville, VA)
+
+For remote solvers, there is a [team worksheet](https://docs.google.com/spreadsheets/d/17OrMZqvNcGPqAN8aSKHmEEcHuDBlBJoZtuSdRzS-6lI/edit?usp=sharing) available to collect answers. (Author: Bill Gardner, Charlottesville, VA)</notes>
+	<location>
+		<puzzle>
+			<title>OH, THE PLACES YOU'LL GO</title>
+			<file href="00-location.pdf"/>
+			<hint>Fill in the 4-letter words in the blanks to complete the poem. What do they have in common and where do they differ?</hint>
+			<hint>The word pairs differ in L or R for one thing or the other in 4 different letter positions.</hint>
+			<hint>Use the Ls and Rs to draw a left/right path through the chart, first for Thing 1 and then for Thing 2. Read all 8 letters together for the answer.</hint>
+			<hint>The solution is LITERACY.</hint>
+			<solution href="00-location-solution.pdf"/>
+		</puzzle>
+		<answerword>literacy</answerword>
+	</location>
+
+	<puzzle>
+		<title>Green Eggs and Ham</title>
+		<file href="01-green_eggs_and_ham.pdf"/>
+		<hint>Find a trail from top to bottom through answers with HAM or colors.</hint>
+		<hint>Read the starts of the off-trail answers, left-to-right, top-to-bottom to reveal where to find the letters in the answer.</hint>
+		<hint>Abraham ends with M...</hint>
+		<solution href="01-green_eggs_and_ham-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Crazy Creatures and Lands</title>
+		<file href="02-creatures.pdf"/>
+		<hint>Separate the top puzzle into 6 separate things to solve or decode.</hint>
+		<hint>Separate into a Ba:Modified, Nono, Sli and Crossword puzzles plus Semaphore and Braille encodings</hint>
+		<hint>Each of the 6 squares decodes to a letter. Read them in the order of the name of the land.</hint>
+		<solution href="02-creatures-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>McBean's Machines</title>
+		<file href="03-machines.pdf"/>
+		<hint>Each box is a machine with an input number and an output number. You can figure out outputs from inputs and sometimes inputs from outputs too!</hint>
+		<hint>Start with the 19 in the bottom right and work your way back to the top input. Then use the 2 and the 13 to determine what boxes w, x, y, and z do.</hint>
+		<hint>Once you have the numbers at the bottom, decode them into letters with A=1, B=2, etc.</hint>
+		<solution href="03-machines-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Thing One and Thing Two</title>
+		<file href="04-thing.pdf"/>
+		<hint>NASSAU is the capital of The Bahamas. SAUNAS are hot rooms.</hint>
+		<hint>NASSAU SAUNAS is a pair of words with the first half swapped with the second half.</hint>
+		<hint>The final answer is another pair of 4 letter “words” with the same property, read from the gray squares in the grid from top to bottom.</hint>
+		<solution href="04-thing-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Who's in Whoville? (meta puzzle)</title>
+		<file href="05-meta.pdf"/>
+		<hint>What letters from the previous answers align with what symbols?</hint>
+		<hint>Solve the cryptogram. Some punctuation may have symbols too!</hint>
+		<hint>Questions often start with Who, What, Where, Why and end with “?”</hint>
+		<solution href="05-meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Yertle the Turtle (bonus puzzle)</title>
+		<file href="06-bonus.pdf"/>
+		<hint>The “Cardboard container” and “Obese” clue answers are paired with each other.</hint>
+		<hint>Find animal pairs with different paired starting sounds like BOX/FAT -> FOX/BAT</hint>
+		<hint>Copy the numbered letters to the Party Location numbered spaces.</hint>
+		<solution href="06-bonus-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>
