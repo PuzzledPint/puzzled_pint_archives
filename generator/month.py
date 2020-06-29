@@ -94,8 +94,14 @@ class Months:
             return 0
         return months[-1]
 
+    def months(self):
+        return sorted(self._months.keys(), reverse=True)
+
+    def month(self, month):
+        return self._months[month]
+
     def debug_print(self):
-        for key in sorted(self._months.keys(), reverse=True):
+        for key in self.months():
             self._months[key].debug_print()
 
 
@@ -132,7 +138,13 @@ class Years:
             return 0
         return years[-1]
 
+    def years(self):
+        return sorted(self._years.keys(), reverse=True)
+
+    def months(self, year):
+        return self._years[year]
+
     def debug_print(self):
-        for key in sorted(self._years.keys(), reverse=True):
+        for key in self.years():
             print("{0}".format(key))
             self._years[key].debug_print()
