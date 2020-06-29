@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2020</year>
+	<month>03</month>
+	<title>Frankie &amp; Louie</title>
+	<icon href="icon.png"/>
+	<notes>Thank you to this month's author: Robert Becker (St. Louis, MO)</notes>
+	<location>
+		<puzzle>
+			<title>Sin Laws Curb Limit</title>
+			<notes>This month's location puzzles is an animated GIF loop.</notes>
+			<file href="00-location.gif"/>
+			<hint>Consider what letters are "exactly opposite" of each other on the dice.</hint>
+			<hint>C=U Q=H B=Y M=V N=T J=D O=W P=X K=R I=E A=G F=Z S=L</hint>
+			<hint>substituting each letter in "SIN LAWS CURB LIMIT" translates into "LETS GO LUCKY SEVEN"</hint>
+			<hint>The solution is LETS GO LUCKY SEVEN</hint>
+			<solution>View the hints to learn the solition.</solution>
+		</puzzle>
+		<answerword>letsgoluckyseven</answerword>
+	</location>
+
+	<puzzle>
+		<title>Shooting Blanks</title>
+		<file href="01-shooting_blanks.pdf"/>
+		<hint>Connect the dots.</hint>
+		<hint>What letters get crossed twice?</hint>
+		<solution href="01-shooting_blanks-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The Get-Away</title>
+		<file href="02-the_getaway.pdf"/>
+		<hint>What letters are on the cube?</hint>
+		<hint>Start the cube with the correct letter facing up (corresponding to the path you are going to read).</hint>
+		<hint>Take the south path (use N) and by rolling and shifting you should end up with "DECODE THIS".</hint>
+		<hint>Do another shift on DECODE THIS to get your final answer.</hint>
+		<solution href="02-the_getaway-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Downsizing the Gang</title>
+		<file href="03-downsizing.pdf"/>
+		<hint>The blanks should be filled with a word that completes compound words or phrases.</hint>
+		<hint>The words are: BATH BOOT CASE GUEST NUT TAGS FLAT FLIGHT REAL OPERA RODS GRAPES</hint>
+		<hint>Drop the common letters in each combined block. Repeat to get the final word. Use the numbers from the original entry for ordering.</hint>
+		<solution href="03-downsizing-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Got It All Covered</title>
+		<file href="04-covered.pdf"/>
+		<hint>The correct numbers are: 1LU, 3RO, 6BU 1LO, 3LU, 4TU 4TO, 1LU, 3RU – rotate 180* 6BU, 2RU 6BO, 2RU 6BO, 1LU, 3RU 4TU, 1LU, 3RU 1LO, 3LU, 6BU 3RU, 2RO, 6BO</hint>
+		<solution href="04-covered-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Taking the Rap (meta puzzle)</title>
+		<file href="05-meta.pdf"/>
+		<hint>Frankie is a HOUND.</hint>
+		<hint>Placing HOUND in the spaces 1-5 in the grid will lock ing the ordering of the previous answers.</hint>
+		<hint>Read the 5th column from top to bottom.</hint>
+		<solution href="05-meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Jack Flash Does Vegas (bonus puzzle)</title>
+		<file href="06-bonus.pdf"/>
+		<hint>"Suit line up" tells you that each of the 21s will connect via a straight line through their suits.</hint>
+		<hint>Once you've drawn all the lines the picture may be slightly abstract, but should look like a person leaping over the road. This is a hint as to the answer.</hint>
+		<solution href="06-bonus-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>
