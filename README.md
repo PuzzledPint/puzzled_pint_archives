@@ -60,6 +60,16 @@ Missing solutions:
 
 For months with two location puzzles (Portland + Seattle), I only captured the Portland variant.
 
+## Static Site Generator
+
+Run the following command to generate a puzzle archive website:
+
+```
+./generator/generator.py . ./static
+```
+
+TODO: more detail about templates, etc.
+
 ----------------------------------------
 
 ## Data Format
@@ -85,7 +95,7 @@ The Location Puzzle builds on the normal puzzle by including an official answer 
 
 The Month is the largest unit of data in this format. It includes:
 
-- Metadata — year, month, title.
+- Metadata — year, month, title, icon image.
 - Freeform text, typically used to introduce the theme, include an author bio, and so on.
 - A location puzzle.
 - One or more puzzles.
