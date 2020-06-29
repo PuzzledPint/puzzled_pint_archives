@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2019</year>
+	<month>09</month>
+	<title>Dimensional Diversions</title>
+	<icon href="icon.png"/>
+	<notes>Thank you to this month's author: Robert Becker (St. Louis, MO)</notes>
+	<location>
+		<puzzle>
+			<title>Dimensional Diversions</title>
+			<file href="00-location.pdf"/>
+			<hint>Make sure you always make a 90 degree turn after each letter</hint>
+			<hint>The first word is Space</hint>
+			<hint>Only 3 letters are not used - X, Y, and Z</hint>
+			<hint>The solution is: SPACE TO PLAY, ROOM TO EXPLORE.</hint>
+			<solution href="00-location-solution.pdf"/>
+		</puzzle>
+		<answerword>spacetoplayroomtoexplore</answerword>
+	</location>
+
+	<puzzle>
+		<title>1D - Simple as 1-2-3</title>
+		<file href="01-1d_simple_as_123.pdf"/>
+		<hint>Find groups of 4 numbers that go together</hint>
+		<hint>the zeros are breaks</hint>
+		<hint>It's morse code!</hint>
+		<hint>First letter is C</hint>
+		<hint>CONNECT THE DOTS</hint>
+		<hint>Notice all the dots from the morse code are 1-26?</hint>
+		<solution href="01-1d_simple_as_123-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Know When to Fold 'Em</title>
+		<notes>[Video Hints](02-2d_know_when_to_fold_em-hints.pdf)</notes>
+		<file href="02-2d_know_when_to_fold_em.pdf"/>
+		<hint>To get the 4’s, you actually have to bend the flaps a bit like you do when you are trying to close the top of a cardboard box. As such, it sort of “locks into shape” and stays that way, which none of the other 2x2’s do.</hint>
+		<hint>The completed ovals when you have formed the 4x4 grid of each number are the letters you are looking for</hint>
+		<hint>couldn't get letters from the ovals? You need to convert from hexidecimal</hint>
+		<solution href="02-2d_know_when_to_fold_em-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Three's a Charm</title>
+		<file href="03-3d_threes_a_charm.pdf"/>
+		<hint>The shape to cut out is 4 blocks down with a block to the left on the 2nd block down and a block to the right on the 3rd block down</hint>
+		<hint>look at the faces and image the block being invisible so you can see the other side</hint>
+		<hint>code is braile</hint>
+		<hint>keep the letters together from each cube to get to the final answer and use the arcs and the bars on the arc's for ordering</hint>
+		<solution href="03-3d_threes_a_charm-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Tesseract</title>
+		<file href="04-4d_tesseract.pdf"/>
+		<hint>First the trick is to recognize what’s special about the three words given. They all involve traversing a route through the tesseract in which each turn is in a new direction. From a shade perspective, each shade is traversed just once. PUSHY for example uses criss-cross, then white, then gray, then black. BRASH uses white, then black, then criss-cross, then gray.</hint>
+		<hint>BELCH, PUDGY, SHINE, PARTY</hint>
+		<hint>The four words have 4 letters that are used twice</hint>
+		<solution href="04-4d_tesseract-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Uncertainty in the Shadows (meta puzzle)</title>
+		<notes>[Shapes](05-meta-shapes.pdf)</notes>
+		<file href="05-meta.pdf"/>
+		<hint>Take the four puzzle solutions plus the word VOYAGERS and fit them in to the five rings below clockwise “from noon to midnight.”</hint>
+		<hint>Then connect each 3-D shape to the 2-D shadow or shadows it is capable of casting. Fifteen connections should be made.</hint>
+		<hint>Having trouble visualizing the shapes? Use the second page to create your own shapes to figure it out</hint>
+		<hint>Use the uncrossed out letters - but notice the arrows!</hint>
+		<hint>You'll notic that the arrow counts are duplicate twice. Sort out where each letter should go to spell the answer</hint>
+		<solution href="05-meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>A Fierce Crime (bonus puzzle)</title>
+		<file href="06-bonus.pdf"/>
+		<hint>Each line is a unique sequence.</hint>
+		<hint>First line is squares so missing one is 25.</hint>
+		<hint>Convert missing element to a letter were needed then place below in order on the page</hint>
+		<solution href="06-bonus-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>

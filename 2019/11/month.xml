@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2019</year>
+	<month>11</month>
+	<title>Music</title>
+	<icon href="icon.png"/>
+	<notes>Thank you to this month's author: Scott D. Farquhar (Baltimore, MD)
+
+We've prepared a spoiler-free [sheet of musical terms](musical_terms.pdf) if you're not musically inclined.</notes>
+	<location>
+		<puzzle>
+			<title>Choir Rehearsal</title>
+			<file href="00-location.pdf"/>
+			<hint>Have no fear - no music knowledge is nessesary</hint>
+			<hint>Connect the dots</hint>
+			<hint>Do the lines cross something?</hint>
+			<hint>The solution is THE FOOD OF LOVE.</hint>
+			<solution href="00-location-solution.pdf"/>
+		</puzzle>
+		<answerword>thefoodoflove</answerword>
+	</location>
+
+	<puzzle>
+		<title>Too Much Triangle</title>
+		<file href="01-triangle.pdf"/>
+		<hint>There are many references to the number 3 (title, composer, etc.). This is important</hint>
+		<hint>Use only every 3rd measure</hint>
+		<hint>Only the notes matter, not the rests</hint>
+		<hint>It's morse</hint>
+		<solution href="01-triangle-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Music Arranging</title>
+		<file href="02-music_arranging.pdf"/>
+		<hint>Match up like type of notes.</hint>
+		<hint>This should have made letters</hint>
+		<hint>Order by length of note (use tip sheet if you need to)</hint>
+		<solution href="02-music_arranging-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The Lost and Disorganized Pianist</title>
+		<file href="03-lost_and_disorganized_pianist.pdf"/>
+		<hint>LEFT and RIGHT are very important.</hint>
+		<hint>If the directions say LEFT, use the bottom staff, if it is says right, use top staff.</hint>
+		<hint>LEFT and RIGHT use different encodings.</hint>
+		<hint>RIGHT is Semaphore, LEFT is Braille</hint>
+		<hint>Translated numbers tell you what measure to use.</hint>
+		<hint>Order by the list on the bottom</hint>
+		<solution href="03-lost_and_disorganized_pianist-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Jazz Witches</title>
+		<file href="04-jazz_witches.pdf"/>
+		<hint>3 types of encodings are used</hint>
+		<hint>Encodes are Hexidecmial, binary, and decimal</hint>
+		<hint>Order by the number on the measure</hint>
+		<solution href="04-jazz_witches-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>The Grand Finale (meta puzzle)</title>
+		<file href="05-meta.pdf"/>
+		<hint>Take the note letter names for the notes that are connected by a musical tie.</hint>
+		<hint>A BAD EGG</hint>
+		<hint>Use Pi as 3.14159 and take those measure numbers from the original puzzle.</hint>
+		<hint>REPEAT REPEAT</hint>
+		<hint>Caesar shift from G (G Clef) and F (F Clef).</hint>
+		<hint>LET'S POLKA</hint>
+		<hint>Take the note letter names for the notes connected by a musical slur.</hint>
+		<hint>FEED A BEE A CABBAGE</hint>
+		<hint>Use Solfege to get the final answer</hint>
+		<solution href="05-meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Music Crossword (bonus puzzle)</title>
+		<file href="06-bonus.pdf"/>
+		<solution href="06-bonus-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>

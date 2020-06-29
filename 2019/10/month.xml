@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2019</year>
+	<month>10</month>
+	<title>Haunted House</title>
+	<icon href="icon.png"/>
+	<notes>Thank you to this month's author, [Sara Goodchild](https://twitter.com/sarathegood) (Toronto, Ontario, Canada).
+ 
+Special thanks to [Diane Heaton](https://twitter.com/factitious) for co-authoring the Location puzzle, to [Matt Smith](http://www.outercitylimits.com/about/) for all of this set's illustrations, and to the [Synod](http://www.synod.us/) for help with brainstorming and early playtesting.
+	</notes>
+	<location>
+		<puzzle>
+			<title>Title</title>
+			<notes>Note that this month's location puzzle is an interactive adventure.</notes>
+			<file href="the-house/index.html"/>
+			<hint>Hints in puzzle along with answer confirmation</hint>
+			<hint>The solution is 2148</hint>
+			<solution href="00-location-solution.txt"/>
+		</puzzle>
+		<answerword>2148</answerword>
+	</location>
+
+	<puzzle>
+		<title>Dining Room</title>
+		<file href="01-dining_room.pdf"/>
+		<hint>After assembling the board, follow the board as the ouija would.</hint>
+		<hint>Each tracing spells a letter</hint>
+		<solution href="01-dining_room-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Parlor</title>
+		<file href="02-parlor.pdf"/>
+		<hint>It's a nonagram</hint>
+		<hint>It's a rebus</hint>
+		<solution href="02-parlor-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Bathroom</title>
+		<file href="03-bathroom.pdf"/>
+		<hint>All of tiles answers involve HOT and COLD</hint>
+		<hint>The dots on the tiles are important</hint>
+		<hint>Indexing into the phrases based on number of dots gives you two answers when splitting out HOT answers vs COLD.</hint>
+		<solution href="03-bathroom-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Hall</title>
+		<file href="04-hall.pdf"/>
+		<hint>There are only slight difference between the White Noise and EVP answers.</hint>
+		<hint>HAIR DRYER vs. HEIR DRYER</hint>
+		<solution href="04-hall-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Kitchen</title>
+		<file href="05-kitchen.pdf"/>
+		<hint>look for the differences</hint>
+		<hint>use the difference on the second image to solve</hint>
+		<hint>Each difference is a standard type of code</hint>
+		<hint>the code types are BRAILLE, ALPHANUMERIC, SEMAPHORE, NATO, BINARY, PIGPEN, MORSE</hint>
+		<solution href="05-kitchen-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Crossing Over (meta puzzle)</title>
+		<file href="06-meta.pdf"/>
+		<hint>Match the room to the method of killing with puzzle answers (ghost names)</hint>
+		<hint>Draw lines from room to room based on order of the killings</hint>
+		<hint>The lines are important for the final answer.</hint>
+		<solution href="06-meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Last Rite (bonus puzzle)</title>
+		<file href="07-bonus.pdf"/>
+		<solution href="07-bonus-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>

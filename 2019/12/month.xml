@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<PPMonth>
+	<year>2019</year>
+	<month>12</month>
+	<title>Die Hard</title>
+	<icon href="icon.png"/>
+	<notes>Thank you to our puzzle authors - Will Stacey (Montréal, QC, Canada) for the main puzzle set and Joey Marianer (Seattle, WA, USA) for the Meta-Meta!</notes>
+	<location>
+		<puzzle>
+			<title>Christmas Carols</title>
+			<file href="00-location.pdf"/>
+			<hint>Each cassette tape title could spell DIE HARD, but perhaps they spell something else?</hint>
+			<hint>The first cassette is DIM HALO</hint>
+			<hint>The solution is: ODE TO JOY.</hint>
+			<solution href="00-location-solution.pdf"/>
+		</puzzle>
+		<answerword>odetojoy</answerword>
+	</location>
+
+	<puzzle>
+		<title>Ellis &amp; Elevators</title>
+		<file href="01-ellis_elevators.pdf"/>
+		<hint>The two columns contain matching words that are heteronyms</hint>
+		<hint>Read the letters of the circles in order from the left side with connected pair of circles</hint>
+		<hint>First 4 letters are SIGN</hint>
+		<hint>Circles spell out "SIGN CONTRACT AGAIN/ GIVE UP OFFICE"</hint>
+		<solution href="01-ellis_elevators-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Circuit Circus</title>
+		<file href="02-circuit_circus.pdf"/>
+		<hint>Each numbered box transforms its input according to a rule to produce an output (which is also an English word)</hint>
+		<hint>An example is, every second letter of SCARLET is SALT; salt's famous pairing is PEPPER</hint>
+		<hint>LIST OF ALL THE TRANSFORMATION RULES
+
+1. Every 2nd letter
+2. Opposites
+3. Replace inner letters with "R"
+4. Transform to Nato Phonetic
+5. Famous Pairs
+6. First 3 letters + "y"
+7. Numeric value of the input
+8. First letter last
+9. Advance the last letter alphabetically
+10. Replace the first letter with "N"</hint>
+		<hint>Input DIE HARD to get final answer</hint>
+		<solution href="02-circuit_circus-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Mapping Mayhem</title>
+		<file href="03-mapping_mayhem.pdf"/>
+		<hint>There are 8 ways to order the rooms from page 2 on the grid</hint>
+		<hint>Once you have filled in the blanks, these give you hints to one last unique ordering of the rooms</hint>
+		<hint>You should have gotten "END LETTER" - using the same ordering you used last, take the end letter of each room</hint>
+		<solution href="03-mapping_mayhem-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Yippee Yappy</title>
+		<file href="04-yippee_yappy.pdf"/>
+		<hint>Each line has two parts. The left part is a scrambled version of YIPPEE KI YAY</hint>
+		<hint>The right part is a clue that has been scrambled the same way</hint>
+		<hint>You should get an instruction on how to unscramble the bottom section</hint>
+		<hint>PARTIAL: USE BASE THREE, ZERO IS YIPPEE, ONE IS KI, TWO IS YAY, THEN SHIFT TWO</hint>
+		<solution href="04-yippee_yappy-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Plaza Puzzle (meta puzzle)</title>
+		<file href="05-meta.pdf"/>
+		<hint>Place each 6 letter answer in its appropriate floor (floor is listed on each puzzle)</hint>
+		<hint>Order letters by clues on the bottom</hint>
+		<solution href="05-meta-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>Dastardly Demands (bonus puzzle)</title>
+		<file href="06-bonus.pdf"/>
+		<hint>Each answer in the first column when paired, provides another set of clues</hint>
+		<hint>For example the first two answers are RESTAURANT REQUEST, which becomes ORDER</hint>
+		<hint>The right hand column provides an instruction</hint>
+		<hint>ORDER GROUPS CHECK THIRD LETTER</hint>
+		<solution href="06-bonus-solution.pdf"/>
+	</puzzle>
+
+	<puzzle>
+		<title>2020 Vision (meta-meta puzzle)</title>
+		<file href="07-meta_meta.pdf"/>
+		<solution href="07-meta_meta-solution.pdf"/>
+	</puzzle>
+
+	<allPuzzles href="allpuzzles.pdf"/>
+	<answerSheet href="answersheet.pdf"/>
+</PPMonth>
