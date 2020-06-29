@@ -30,3 +30,4 @@ if not os.path.isdir(source_folder):
     sys.exit(1)
 
 all_years = Years(source_folder)
+all_years.debug_print()
