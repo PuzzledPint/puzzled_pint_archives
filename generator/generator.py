@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 
 # TODO: Refactoring
-# - External CSS files
-# - Assets folder for templates and any other related files
 # - Weird alignment of some months on year page
 
 import os

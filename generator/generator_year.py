@@ -36,8 +36,8 @@ class GeneratorYear:
                 text += r"""<div class="month">
 <a href="{year}/{month:02d}/index.html">
 <img src="{year}/{month:02d}/{icon}" class="month-image" alt="{title}"/>
-<div class="title">{title}</div>
-<div class="date">{year}-{month:02d}</div>
+<div class="archives-title">{title}</div>
+<div class="archives-date">{year}-{month:02d}</div>
 </a>
 </div>""".format(year=month_object.year,
                  month=int(month_object.month),
@@ -52,6 +52,9 @@ class GeneratorYear:
         template.write(self._destination_folder, 'index.html')
 
     def _copy_content(self):
+        print("Copying assets\n")
+        command = "cp -r assets {1}".format(self._source_folder, self._destination_folder)
+        os.system(command)
         print("Copying content\n")
         command = "cp -r {0}/???? {1}".format(self._source_folder, self._destination_folder)
         os.system(command)
