@@ -4,7 +4,6 @@
 # - External CSS files
 # - Assets folder for templates and any other related files
 # - Weird alignment of some months on year page
-# - Upper-level script with virtualenv for `markdown` pip3 library?
 
 import os
 import sys
