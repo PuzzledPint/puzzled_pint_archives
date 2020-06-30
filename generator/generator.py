@@ -1,5 +1,15 @@
 #!/usr/bin/env python3
 
+# TODO: Refactoring
+# - Refactor month generator into a separate file
+# - Maybe refactor year generator into a separate file
+# - External CSS files
+# - Assets folder for templates and any other related files
+# - Move year folders into subfolder
+# - Weird alignment of some months on year page
+# - Upper-level script with virtualenv for `markdown` pip3 library?
+
+import markdown # pip3 install markdown
 import os
 import sys
 
@@ -92,10 +102,9 @@ class Generator:
                 template.replace('year', m.year)
                 template.replace('month', "{0:02d}".format(int(m.month)))
                 template.replace('month_name', month_names[int(m.month)])
-                # TODO: Markdown!
-                template.replace('notes', normalize(m.notes).replace("\n", "<br/>\n"))
+                template.replace('notes', markdown.markdown(normalize(m.notes)))
                 template.replace('location_title', normalize(m.location_puzzle.title))
-                template.replace('location_notes', normalize(m.location_puzzle.notes))
+                template.replace('location_notes', markdown.markdown(normalize(m.location_puzzle.notes)))
                 template.replace('location_solution', m.location_puzzle.solution_file)
                 if m.answer_sheet is not None:
                     template.replace('answer_sheet', "<li><a href=\"{0}\">Answer Sheet</a> (to collect your answers)</li>\n".format(m.answer_sheet))
