@@ -31,6 +31,12 @@ if not os.path.isdir(source_folder):
     sys.exit(1)
 
 
+def normalize(s):
+    if s is not None:
+        return s
+    return ''
+
+
 class Generator:
     def __init__(self, source_folder, destination_folder):
         self._source_folder = source_folder
@@ -72,11 +78,43 @@ class Generator:
         os.system(command)
 
     def generate_month_pages(self):
-        print("Generating month pages\n")
-        pass
+        month_names = {1:'January', 2:'February', 3:'March', 4:'April', 5:'May', 6:'June',
+                       7:'July', 8:'August', 9:'September', 10:'October', 11:'November', 12:'December'}
+        for year in self._all_years.years():
+            months_object = self._all_years.months(year)
+            months = months_object.months()
+            for month in months:
+                m = months_object.month(month)
+                month_folder = os.path.join(self._destination_folder, m.year, "{0:02d}".format(int(m.month)))
+                print("Generating {year}-{month:02d}\n".format(year=m.year, month=int(m.month)))
+                template = Template('month.html')
+                template.replace('title', m.title)
+                template.replace('year', m.year)
+                template.replace('month', "{0:02d}".format(int(m.month)))
+                template.replace('month_name', month_names[int(m.month)])
+                # TODO: Markdown!
+                template.replace('notes', normalize(m.notes).replace("\n", "<br/>\n"))
+                template.replace('location_title', normalize(m.location_puzzle.title))
+                template.replace('location_notes', normalize(m.location_puzzle.notes))
+                template.replace('location_solution', m.location_puzzle.solution_file)
+                if m.answer_sheet is not None:
+                    template.replace('answer_sheet', "<li><a href=\"{0}\">Answer Sheet</a> (to collect your answers)</li>\n".format(m.answer_sheet))
+                else:
+                    template.replace('answer_sheet', '')
+                if m.all_puzzles is not None:
+                    template.replace('all_puzzles', "<li><a href=\"{0}\">All puzzles in one pdf</a></li>\n".format(m.all_puzzles))
+                else:
+                    template.replace('all_puzzles', '')
+                if m.answer_sheet_solutions is not None:
+                    template.replace('answer_sheet_solved', "<li><a href=\"{0}\">Filled-in answer sheet</a></li>\n".format(m.answer_sheet_solutions))
+                else:
+                    template.replace('answer_sheet_solved', '')
+                template.write(month_folder, 'index.html')
+
+                # TODO: Write location.html
 
 
 generator = Generator(source_folder, destination_folder)
 generator.generate_year_page()
 #generator.copy_content()
-#generator.generate_month_pages()
+generator.generate_month_pages()

@@ -1,0 +1,45 @@
+<html>
+<head>
+    <title>{{title}} : {{year}}-{{month}} : Puzzled Pint</title>
+    <style>
+        body {
+            color: #ffffff;
+            background-color: #363636;
+            margin-top: 25px;
+            font-family: Verdana, sans-serif;
+            font-size: 14px;
+        }
+        div.content {
+            width: 800px;
+            margin: 10px auto;
+        }
+        a {
+            color: white;
+        }
+    </style>
+</head>
+<body>
+<div class="content">
+    <h1>{{month_name}} {{year}} : {{title}}</h1>
+    <div class="notes">{{notes}}</div>
+    <div class="puzzles">
+        <ul class="puzzles">
+            <li>Location Puzzle {{location_notes}}
+                <ul>
+                    <li><a href="location.html">{{location_title}}</a></li>
+                    <li><a href="{{location_solution}}">solution</a></li>
+                </ul>
+            </li>
+            {{answer_sheet}}
+            <li>Main Puzzle Set
+                <ul>
+                    {{puzzle_list}}
+                </ul>
+            </li>
+            {{all_puzzles}}
+            {{answer_sheet_solved}}
+        </ul>
+    </div>
+</div>
+</body>
+</html>
