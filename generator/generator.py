@@ -45,19 +45,22 @@ class Generator:
             months = months_object.months()
             text += R"""<div class="year-wrapper">"""
             text += R"""<h1 class="year">{0}</h1>""".format(year)
+            text += R"""<div class="month-wrapper">"""
             for month in months:
                 month_object = months_object.month(month)
                 text += r"""<div class="month">
-<a href="{year}/{month}">
-<img src="{year}/{month}/{icon}" class="month-image"/>
+<a href="{year}/{month:02d}/index.html">
+<img src="{year}/{month:02d}/{icon}" class="month-image" alt="{title}"/>
 <div class="title">{title}</div>
-<div class="date">{year}-{month}</div>
+<div class="date">{year}-{month:02d}</div>
 </a>
 </div>""".format(year=month_object.year,
-                 month=month_object.month,
+                 month=int(month_object.month),
                  icon=month_object.icon,
                  title=month_object.title)
+            text += "</div><!-- month-wrapper -->\n\n"
             text += "</div><!-- year-wrapper -->\n\n"
+            text += "<div class=\"year-separator\"></div>\n\n"
         print("Generating year archive page\n")
         template = Template('years.html')
         template.replace('years', text)
@@ -75,5 +78,5 @@ class Generator:
 
 generator = Generator(source_folder, destination_folder)
 generator.generate_year_page()
-generator.copy_content()
-generator.generate_month_pages()
+#generator.copy_content()
+#generator.generate_month_pages()
