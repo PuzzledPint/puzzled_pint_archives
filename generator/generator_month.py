@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 
+import hashlib
 import markdown # pip3 install markdown
 import os
-import sys
+import re
 
 from month import Years, Months, Month
 from puzzle import Puzzle
@@ -77,6 +78,9 @@ class GeneratorMonth:
             else:
                 hints += "<li><span class=\"clickme\">Click to reveal.</span><span class=\"text\"><a href=\"{0}\">{0}</a></span></li>\n".format(hint.file)
         template.replace('hints', hints)
+        answer_word = m.location_answer_word.lower()
+        answer_word = re.sub('[^a-z]', '', answer_word)
+        template.replace('answer_hash', hashlib.md5(answer_word.encode('utf-8')).hexdigest())
         template.write(month_folder, 'location.html')
 
     def _set_basic_template_parameters(self, template, m):
