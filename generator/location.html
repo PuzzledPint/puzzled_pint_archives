@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Location : {{title}} : {{year}}-{{month}} : Puzzled Pint</title>
+    <link rel="stylesheet" type="text/css" href="../../assets/styles.css"></link>
+</head>
+<body>
+<div class="location-content">
+    <div class="back"><a href="index.html">&lArr; return to month</a></div>
+    <h1>{{month_name}} {{year}} : {{title}}</h1>
+    <div class="location">
+        LOCATION PUZZLE:<br />
+        <a href="{{puzzle_link}}">{{puzzle_title}}</a><br />
+        {{answer_box}}
+    </div>
+    <div class="hints">
+        {{notes}}
+        If you get stuck, check the hints below.
+        <h2>Hints</h2>
+        <ul class="hints">
+            {{hints}}
+        </ul>
+    </div>
+</div>
+<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script>
+$(function() {
+    $('ul.hints li').each(function(i) {
+        $(this)
+            .addClass('ready');
+    })
+    .click(function(e) {
+        $(this).addClass('show');
+    })
+    .promise()
+    .done(function() {
+        $('[note]').each(function(i) {
+            $(this).prepend('<span class="note-text">' + $(this).attr('note') + '</span>');
+        });
+    });
+});
+</script>
+</body>
+</html>
