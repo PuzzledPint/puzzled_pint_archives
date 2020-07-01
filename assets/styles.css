@@ -37,6 +37,7 @@ div.year-separator {
 }
 div.month {
     width: 150px;
+    height: 180px;
     float:left;
     margin-bottom:40px;
 }
