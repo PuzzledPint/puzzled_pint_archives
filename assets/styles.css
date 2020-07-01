@@ -79,6 +79,13 @@ span.click-to-download {
 
 /* ########## HINTS */
 
+div.hints-content {
+    width: 800px;
+    margin: 10px auto;
+}
+
+/* ########## HINT REVEALER */
+
 ul.hints li { 
     background: #eee; 
     padding: .3em .5em; 

@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import hashlib
+from html import escape
 import markdown # pip3 install markdown
 import os
 import re
@@ -50,10 +51,12 @@ class GeneratorMonth:
                     template.replace('answer_sheet_solved', "<li><a href=\"{0}\">Filled-in answer sheet</a></li>\n".format(m.answer_sheet_solutions))
                 else:
                     template.replace('answer_sheet_solved', '')
+                puzzle_list = self._generate_puzzle_list(m, month_folder)
+                template.replace('puzzle_list', puzzle_list)
                 template.write(month_folder, 'index.html')
                 self._generate_location(m, month_folder)
 
-                # TODO: Write location.html
+
 
     def _generate_location_solution(self, m, month_folder):
         template = Template('location-solution.html')
@@ -74,7 +77,7 @@ class GeneratorMonth:
         hints = ''
         for hint in puzzle.hints:
             if hint.text is not None:
-                hints += "<li><span class=\"clickme\">Click to reveal.</span><span class=\"text\">{0}</span></li>\n".format(hint.text)
+                hints += "<li><span class=\"clickme\">Click to reveal.</span><span class=\"text\">{0}</span></li>\n".format(escape(hint.text))
             else:
                 hints += "<li><span class=\"clickme\">Click to reveal.</span><span class=\"text\"><a href=\"{0}\">{0}</a></span></li>\n".format(hint.file)
         template.replace('hints', hints)
@@ -82,6 +85,42 @@ class GeneratorMonth:
         answer_word = re.sub('[^a-z]', '', answer_word)
         template.replace('answer_hash', hashlib.md5(answer_word.encode('utf-8')).hexdigest())
         template.write(month_folder, 'location.html')
+
+    def _generate_puzzle_list(self, m, month_folder):
+        result = ''
+        counter = 0
+        for puzzle in m.puzzles:
+            result += "<li>{0}\n".format(puzzle.title)
+            result += '<ul>'
+            if len(normalize(puzzle.notes)) > 0:
+                result += "<li>{0}</li>\n".format(puzzle.notes)
+            if len(normalize(puzzle.file)) > 0:
+                result += "<li><a href=\"{0}\">puzzle</a></li>\n".format(puzzle.file)
+            if puzzle.solution_file is not None:
+                result += "<li><a href=\"{0}\">solution</a></li>\n".format(puzzle.solution_file)
+            if puzzle.solution_text is not None:
+                pass # TODO: handle this case
+            if len(puzzle.hints) > 0:
+                hint_file = "hints-{0}.html".format(counter)
+                result += "<li><a href=\"{0}\">hints</a></li>\n".format(hint_file)
+                self._generate_hints(month_folder, puzzle, hint_file)
+            result += '</ul>'
+            result += '</li>' + "\n\n"
+            counter += 1
+        return result
+
+    def _generate_hints(self, month_folder, puzzle, hint_file):
+        template = Template('hints.html')
+        template.replace('title', normalize(puzzle.title))
+        hints = ''
+        for hint in puzzle.hints:
+            if hint.text is not None:
+                hints += "<li><span class=\"clickme\">Click to reveal.</span><span class=\"text\">{0}</span></li>\n".format(escape(hint.text))
+            else:
+                hints += "<li><span class=\"clickme\">Click to reveal.</span><span class=\"text\"><a href=\"{0}\">{0}</a></span></li>\n".format(hint.file)
+        template.replace('hints', hints)
+        template.write(month_folder, hint_file)
+
 
     def _set_basic_template_parameters(self, template, m):
         month_names = {1:'January', 2:'February', 3:'March', 4:'April', 5:'May', 6:'June',

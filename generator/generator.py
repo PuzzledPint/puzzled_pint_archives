@@ -2,6 +2,7 @@
 
 # TODO: Refactoring
 # - Weird alignment of some months on year page
+# - Fix Unicode escaping in hints (and notes? and elsewhere?)
 
 import os
 import sys
