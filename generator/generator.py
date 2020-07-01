@@ -2,6 +2,7 @@
 
 # TODO: Refactoring
 # - Fix Unicode escaping in hints (and notes? and elsewhere?)
+# - Preview metadata for Twitter/Slack/Facebook/etc
 
 import os
 import sys
