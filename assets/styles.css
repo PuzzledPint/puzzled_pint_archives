@@ -8,6 +8,9 @@ body {
 a {
     color: #2380b6;
 }
+li {
+    padding: 2px 0;
+}
 
 div.back {
     font-size:10px;
@@ -64,10 +67,14 @@ div.location-content {
     width: 800px;
     margin: 10px auto;
 }
-
 div.location {
     text-align: center;
     font-size: 20px;
+}
+span.click-to-download {
+    font-size: 10px;
+    text-decoration: none;
+    color: white;
 }
 
 /* ########## HINTS */

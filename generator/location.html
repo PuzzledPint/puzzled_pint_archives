@@ -77,8 +77,9 @@
     <div class="back"><a href="index.html">&lArr; return to month</a></div>
     <h1>{{month_name}} {{year}} : {{title}}</h1>
     <div class="location">
-        LOCATION PUZZLE:<br />
-        <a href="{{puzzle_link}}">{{puzzle_title}}</a><br />
+        LOCATION PUZZLE:<br /><br />
+        <a href="{{puzzle_link}}">{{puzzle_title}}<br />
+        <span class="click-to-download">(click to download)</span></a><br /><br />
         <form style="text-align: center;" method="get" onsubmit="return checkAnswer();">
             Your Answer: <input id="answer" style="width: 15em;" type="text" name="answer" /> <input style="width: 5em;" type="submit" value="Go" /><br /><br />
             <div id="answerWindowMessage" style="color: red; font-weight: bold;">&nbsp;</div>
