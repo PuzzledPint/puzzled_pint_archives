@@ -1,0 +1,123 @@
+body {
+    color: #ffffff;
+    background-color: #363636;
+    margin-top: 25px;
+    font-family: Helvetica Neue, Helvetica, Verdana, sans-serif;
+    font-size: 14px;
+}
+a {
+    color: #2380b6;
+}
+li {
+    padding: 2px 0;
+}
+
+div.back {
+    font-size:10px;
+}
+
+/* ########## YEARS */
+
+div.year-wrapper {
+    margin:10px auto;
+    width: 650px;
+}
+div.year-wrapper a {
+    color: white;
+}
+div.month-wrapper {
+    padding-left:50px;
+    width: 600px;
+}
+div.year-separator {
+    clear:both;
+    margin:10px auto;
+    width: 600px;
+    height: 20px;
+}
+div.month {
+    width: 150px;
+    height: 180px;
+    float:left;
+    margin-bottom:40px;
+}
+img.month-image {
+    width: 150px;
+}
+div.archives-title {
+    margin-top: 10px;
+    width: 150px;
+}
+div.archives-date {
+    width: 150px;
+}
+div.month a {
+    text-decoration: none;
+}
+
+/* ########## MONTH */
+
+div.month-content {
+    width: 800px;
+    margin: 10px auto;
+}
+
+/* ########## LOCATION */
+
+div.location-content {
+    width: 800px;
+    margin: 10px auto;
+}
+div.location {
+    text-align: center;
+    font-size: 20px;
+}
+span.click-to-download {
+    font-size: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+/* ########## HINTS */
+
+div.hints-content {
+    width: 800px;
+    margin: 10px auto;
+}
+
+/* ########## HINT REVEALER */
+
+ul.hints li { 
+    background: #eee; 
+    padding: .3em .5em; 
+    margin: 10px 0; 
+    opacity: 1; 
+    color:black; 
+    max-width: 95%;
+    border-radius: 4px;
+}
+.ready { 
+    opacity: 0; 
+}
+.text { 
+    display: none; 
+    transition: all 200ms ease;
+}
+.show .text { 
+    display: block; 
+}
+.show .clickme {
+    display: none; 
+}
+.note-text { 
+    display: inline-block; 
+    background: #333; 
+    color: white; 
+    padding: .3em .5em; 
+    border-radius: 0 4px 4px 0; 
+    margin: 0 .5em 0 -.5em; 
+    text-transform: uppercase; 
+    font-size: .8em; 
+    line-height: 1; 
+    font-weight: bold;
+}

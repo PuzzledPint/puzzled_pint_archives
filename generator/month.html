@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{title}} : {{year}}-{{month}} : Puzzled Pint</title>
+    <link rel="stylesheet" type="text/css" href="../../assets/styles.css"></link>
+</head>
+<body>
+<div class="month-content">
+    <div class="back"><a href="../../index.html">&lArr; return to puzzle archives</a></div>
+    <h1>{{month_name}} {{year}} : {{title}}</h1>
+    <div class="notes">{{notes}}</div>
+    <h2>Puzzles</h2>
+    <div class="puzzles">
+        <ul class="puzzles">
+            <li>Location Puzzle {{location_notes}}
+                <ul>
+                    <li><a href="location.html">{{location_title}}</a></li>
+                    <li><a href="{{location_solution}}">solution</a></li>
+                </ul>
+            </li>
+            {{answer_sheet}}
+            <li>Main Puzzle Set
+                <ul>
+                    {{puzzle_list}}
+                </ul>
+            </li>
+            {{all_puzzles}}
+            {{answer_sheet_solved}}
+        </ul>
+    </div>
+</div>
+</body>
+</html>
