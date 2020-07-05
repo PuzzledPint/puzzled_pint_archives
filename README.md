@@ -60,16 +60,6 @@ Missing solutions:
 
 For months with two location puzzles (Portland + Seattle), I only captured the Portland variant.
 
-## Static Site Generator
-
-Run the following command to generate a puzzle archive website:
-
-```
-./generator/generator.py . ./static
-```
-
-TODO: more detail about templates, etc.
-
 ----------------------------------------
 
 ## Data Format
@@ -109,3 +99,38 @@ The Month is the largest unit of data in this format. It includes:
 
 ![object_model](object_model.png)
 
+----------------------------------------
+
+## Static Site Generator
+
+As an example application to demonstrate loading and processing the monthly puzzle data, we've included a static site generator. This Python application loads up the monthly XMLs, copies the puzzles over, then generates a website of static HTML files, suitable for browsing locally or hosting on any web server.
+
+Run the following command to generate a puzzle archive website. It assumes you have Python 3 and virtualenv installed. Virtualenv is used to install dependencies, such as the Markdown generator.
+
+```
+./gen/sh
+```
+
+The root of the static website will then be at `static/index.html`. You can upload that folder to a web server or host it on an S3 bucket.
+
+Highlights of the object model include:
+
+- `Years` : Effectively a dictionary that maps a numeric year to a `Months` object.
+- `Months` : Effectively a dictionary of all (available) months in a given year, each mapping to a `Month` object.
+- `Month` : This is the equivalent of a `month.xml`, with title, notes, location puzzle, and array of puzzles.
+- `Puzzle` : This is a puzzle object.
+
+The templating happens in the `Template` object. This is a home-grown templating system that replaces `{{keywords}}` with snippets of HTML. The template files are:
+
+- `years.html` : The root page, listing all years and months.
+- `month.html` : The month page, listing location puzzle and the full puzzle set.
+- `location.html` : The location puzzle page, with progressive hints.
+- `location-solution.html` : Rarely used, but some location puzzles list a solution directly in the HTML vs. as a separate file.
+- `hints.html` : A page for displaying progressive hints for a single puzzle.
+
+Everything in the `assets` folder also gets copied over. At this time, it is just the CSS.
+
+_**Known Issues / TODO:**_
+
+- The templating was thrown together quickly. It works, but isn't elegant. It could use something more akin to Ruby's ERB.
+- There's a UTF-8 encoding problem with either reading `notes` from the XML or writing the HTML.
