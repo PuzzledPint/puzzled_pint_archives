@@ -1,12 +1,13 @@
 #!/bin/bash
 
+cd archives
 for YEAR in `find . -type d -maxdepth 1 -name '2*' | sort -r -n` ; do
 	cd $YEAR
 	for MONTH in `find . -type d -maxdepth 1 -regex '..[0-9][0-9]' | sort -n` ; do
 		cd $MONTH
 		if [ -f month.xml ]; then
 			echo "Testing $YEAR/$MONTH/month.xml"
-			xmllint --noout --dtdvalid ../../month.dtd month.xml
+			xmllint --noout --dtdvalid ../../../month.dtd month.xml
 			RC=$?
 			if [ $RC -ne 0 ]; then
 				echo "Badly formed XML in $YEAR-$MONTH"

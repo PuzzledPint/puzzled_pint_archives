@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<!DOCTYPE PPMonth SYSTEM "../../month.dtd">
+<!DOCTYPE PPMonth SYSTEM "../../../month.dtd">
 <PPMonth>
 	<year>2014</year>
 	<month>3</month>
